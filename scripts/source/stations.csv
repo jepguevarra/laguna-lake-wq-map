@@ -1,0 +1,44 @@
+station,name,type,municipality,province_region,lat,lon,coord_quality
+Stn. I,Central West Bay,lake,(open lake),Laguna de Bay,14.41257,121.1701,approx ±1.5 km
+Stn. II,East Bay,lake,(open lake),Laguna de Bay,14.27373,121.33182,approx ±1.5 km
+Stn. IV,Central Bay,lake,(open lake),Laguna de Bay,14.38795,121.27781,approx ±1.5 km
+Stn. V,Northern West Bay,lake,(open lake),Laguna de Bay,14.4851,121.13573,approx ±1.5 km
+Stn. VIII,South Bay,lake,(open lake),Laguna de Bay,14.19309,121.22102,approx ±1.5 km
+Stn. XV,San Pedro (West Bay),lake,(open lake),Laguna de Bay,14.36728,121.09453,approx ±1.5 km
+Stn. XVI,Sta. Rosa (West Bay),lake,(open lake),Laguna de Bay,14.30184,121.14053,approx ±1.5 km
+Stn. XVII,Fish Sanctuary (Central Bay),lake,(open lake),Laguna de Bay,14.28404,121.2633,approx ±1.5 km
+Stn. XVIII,Pagsanjan (East Bay),lake,(open lake),Laguna de Bay,14.36685,121.42285,approx ±1.5 km
+1,Marikina River,tributary,Pasig / Marikina,NCR,14.59823,121.08915,approx ±1.5 km
+2,Bagumbayan River,tributary,Taguig,NCR,14.45697,121.04281,approx ±1.5 km
+3,Buli Creek,tributary,Taguig,NCR,14.43334,121.04225,approx ±1.5 km
+4,Mangangate River - Downstream,tributary,Muntinlupa,NCR,14.41252,121.04175,approx ±1.5 km
+4U,Mangangate River - Upstream,tributary,Muntinlupa,NCR,14.39259,121.02409,approx ±1.5 km
+5,Tunasan River - Downstream,tributary,Muntinlupa,NCR,14.36216,121.04399,approx ±1.5 km
+5U,Tunasan River - Upstream,tributary,Muntinlupa,NCR,14.34936,121.0242,approx ±1.5 km
+6,San Pedro River,tributary,San Pedro,Laguna,14.35463,121.05527,approx ±1.5 km
+7,Biñan River,tributary,Biñan,Laguna,14.33965,121.07898,approx ±1.5 km
+8,Sta. Rosa River - Downstream,tributary,Santa Rosa,Laguna,14.30295,121.11191,approx ±1.5 km
+8M,Sta. Rosa River - Midstream,tributary,Santa Rosa,Laguna,14.28159,121.08332,approx ±1.5 km
+8U,Sta. Rosa River - Upstream,tributary,Santa Rosa,Laguna,14.23851,121.04276,approx ±1.5 km
+9,Cabuyao River,tributary,Cabuyao,Laguna,14.28207,121.11771,approx ±1.5 km
+10,San Cristobal River,tributary,Calamba,Laguna,14.20585,121.12678,approx ±1.5 km
+11,San Juan River,tributary,Calamba,Laguna,14.20646,121.1629,approx ±1.5 km
+12,Molawin Creek,tributary,Los Baños,Laguna,14.17908,121.24991,approx ±1.5 km
+13,Bay River,tributary,Bay,Laguna,14.17368,121.27385,approx ±1.5 km
+14,Pila River,tributary,Pila,Laguna,14.21892,121.34885,approx ±1.5 km
+15,Sta. Cruz River,tributary,Santa Cruz,Laguna,14.30876,121.40542,approx ±1.5 km
+16,Pagsanjan River,tributary,Pagsanjan / Lumban,Laguna,14.30445,121.45747,approx ±1.5 km
+17,Pangil River - Downstream,tributary,Pangil,Laguna,14.40739,121.4668,approx ±1.5 km
+17U,Pangil River - Upstream,tributary,Pangil,Laguna,14.42161,121.48318,approx ±1.5 km
+18,Siniloan River,tributary,Siniloan,Laguna,14.41699,121.43895,approx ±1.5 km
+19,Sta. Maria River - Downstream,tributary,Santa Maria / Mabitac,Laguna,14.4165,121.42576,approx ±1.5 km
+19U,Sta. Maria River - Upstream,tributary,Santa Maria,Laguna,14.48738,121.43432,approx ±1.5 km
+20,Jala-jala River,tributary,Jalajala,Rizal,14.29746,121.31233,approx ±1.5 km
+21,Pililla River,tributary,Pililla,Rizal,14.48076,121.30811,approx ±1.5 km
+22,Tanay River - Downstream,tributary,Tanay,Rizal,14.50497,121.28748,approx ±1.5 km
+22U,Tanay River - Upstream,tributary,Tanay,Rizal,14.55461,121.31159,approx ±1.5 km
+23,Baras River,tributary,Baras,Rizal,14.52064,121.26551,approx ±1.5 km
+24,Morong River - Downstream,tributary,Morong,Rizal,14.51439,121.25046,approx ±1.5 km
+24U,Morong River - Upstream,tributary,Morong,Rizal,14.54675,121.21227,approx ±1.5 km
+25,Manggahan Floodway,tributary,Taytay / Pasig,Rizal / NCR,14.54554,121.11884,approx ±1.5 km
+26,Sapang Baho River,tributary,Cainta,Rizal,14.56473,121.11299,approx ±1.5 km

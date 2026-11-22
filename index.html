@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Laguna de Bay Water Quality Map, 2009–2012</title>
+  <meta name="description" content="Interactive map of LLDA water quality monitoring stations in Laguna de Bay and its tributary rivers, 2009–2012.">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#sidebar">Skip to data panel</a>
+
+  <header class="site-header">
+    <div>
+      <h1>Laguna de Bay Water Quality</h1>
+      <p class="subtitle">LLDA monitoring stations, annual averages 2009–2012</p>
+    </div>
+    <button type="button" class="btn-link" id="about-open" aria-haspopup="dialog">About the data</button>
+  </header>
+
+  <main class="layout">
+    <section class="map-wrap" aria-label="Map of Laguna de Bay">
+      <div id="map" role="application" aria-label="Google Map of Laguna de Bay. Use the data panel to choose stations with the keyboard."></div>
+      <div class="map-status" id="map-status" role="status" aria-live="polite"></div>
+    </section>
+
+    <aside class="sidebar" id="sidebar" tabindex="-1" aria-label="Data panel">
+      <form class="controls" id="controls" aria-label="Map settings">
+        <div class="field">
+          <label for="param-select">Parameter</label>
+          <select id="param-select"></select>
+          <p class="hint" id="param-note"></p>
+        </div>
+
+        <fieldset class="field">
+          <legend>Year</legend>
+          <div class="segmented" id="year-group"></div>
+        </fieldset>
+
+        <fieldset class="field">
+          <legend>Show stations</legend>
+          <label class="check"><input type="checkbox" id="show-lake" checked> In the lake</label>
+          <label class="check"><input type="checkbox" id="show-trib" checked> Rivers flowing into the lake</label>
+          <label class="check"><input type="checkbox" id="show-outline"> LLDA lake outline (traced, approx.)</label>
+        </fieldset>
+
+        <div class="field">
+          <label for="station-select">Go to station</label>
+          <select id="station-select">
+            <option value="">Choose a station…</option>
+          </select>
+        </div>
+      </form>
+
+      <div class="tabs" role="tablist" aria-label="Data views">
+        <button type="button" role="tab" id="tab-ranking" aria-controls="panel-ranking" aria-selected="true">Ranking</button>
+        <button type="button" role="tab" id="tab-station" aria-controls="panel-station" aria-selected="false" tabindex="-1">Station</button>
+      </div>
+
+      <section class="tab-panel" id="panel-ranking" role="tabpanel" aria-labelledby="tab-ranking">
+        <h2 class="panel-title" id="ranking-title"></h2>
+        <p class="hint" id="ranking-hint"></p>
+        <ol class="ranking" id="ranking-list"></ol>
+      </section>
+
+      <section class="tab-panel" id="panel-station" role="tabpanel" aria-labelledby="tab-station" hidden>
+        <div id="station-empty" class="empty">
+          <p>Select a station on the map, in the ranking, or from the “Go to station” list.</p>
+        </div>
+        <div id="station-detail" hidden>
+          <h2 class="panel-title" id="st-name"></h2>
+          <p class="st-meta" id="st-meta"></p>
+
+          <h3 class="section-title" id="trend-title"></h3>
+          <div class="chart-box">
+            <canvas id="trend-chart" role="img" aria-label="Trend chart"></canvas>
+          </div>
+          <p class="hint" id="trend-hint"></p>
+
+          <h3 class="section-title" id="table-title"></h3>
+          <table class="data-table">
+            <thead>
+              <tr><th scope="col">Parameter</th><th scope="col" class="num">Value</th><th scope="col">Class C limit</th><th scope="col">Status</th></tr>
+            </thead>
+            <tbody id="st-table"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <footer class="sidebar-foot">
+        Data: Laguna Lake Development Authority (LLDA). Standard: DENR DAO 34, Class C.
+      </footer>
+    </aside>
+  </main>
+
+  <dialog id="about" aria-labelledby="about-title">
+    <div class="dialog-body">
+      <h2 id="about-title">About the data</h2>
+      <p>The values come from the LLDA <em>2009 to 2012 Annual Water Quality Report on the Laguna de Bay and its Tributary Rivers</em>. Each figure is an annual average of monthly samples. For coliform, it is the annual geometric mean.</p>
+      <p><strong>Lake stations</strong> (9) measure the open water. <strong>River stations</strong> (34) sit on the tributaries that drain the surrounding towns into the lake. Where a river has an upstream (U) or midstream (M) station, the plain number is the downstream station near the river mouth.</p>
+      <p>Pass/fail is judged against the DENR Administrative Order No. 34 <strong>Class C</strong> criteria that the report uses. Class C covers fisheries, recreation and industrial supply. Several parameters have no Class C limit.</p>
+      <h3>Limitations</h3>
+      <ul>
+        <li>Station positions are approximate (about ±1.5 km). The report includes only a picture map, which was georeferenced against known river mouths.</li>
+        <li>The base map is Google Maps, which shows the real shoreline. The optional “LLDA lake outline” overlay was traced from the report map and has the same ±1.5 km accuracy as the stations.</li>
+        <li>Several stations started only in 2011 or 2012, so earlier years are blank.</li>
+        <li>Some 2009 coliform values in the report are implausibly high (up to 10¹⁵). They are excluded from the map and charts.</li>
+        <li>The town listed for a river is where the station is. Rivers also carry pollution from towns upstream.</li>
+      </ul>
+      <form method="dialog"><button class="btn" type="submit">Close</button></form>
+    </div>
+  </dialog>
+
+  <script src="vendor/chartjs/chart.umd.min.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

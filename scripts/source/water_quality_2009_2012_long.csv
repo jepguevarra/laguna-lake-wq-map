@@ -1,0 +1,2294 @@
+group,station,parameter,unit,year,value,pdf_page,name,municipality,province_region
+lake,Stn. I,Alkalinity,mg CaCO3/L,2009,97.0,13,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Alkalinity,mg CaCO3/L,2010,101.0,13,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Alkalinity,mg CaCO3/L,2011,82.0,13,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Alkalinity,mg CaCO3/L,2012,97.0,13,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Alkalinity,mg CaCO3/L,2009,87.0,13,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Alkalinity,mg CaCO3/L,2010,91.0,13,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Alkalinity,mg CaCO3/L,2011,72.0,13,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Alkalinity,mg CaCO3/L,2012,84.0,13,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Alkalinity,mg CaCO3/L,2009,96.0,13,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Alkalinity,mg CaCO3/L,2010,102.0,13,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Alkalinity,mg CaCO3/L,2011,84.0,13,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Alkalinity,mg CaCO3/L,2012,93.0,13,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Alkalinity,mg CaCO3/L,2009,101.0,13,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Alkalinity,mg CaCO3/L,2010,104.0,13,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Alkalinity,mg CaCO3/L,2011,85.0,13,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Alkalinity,mg CaCO3/L,2012,94.0,13,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Alkalinity,mg CaCO3/L,2009,100.0,13,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Alkalinity,mg CaCO3/L,2010,105.0,13,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Alkalinity,mg CaCO3/L,2011,86.0,13,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Alkalinity,mg CaCO3/L,2012,93.0,13,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Alkalinity,mg CaCO3/L,2012,91.0,13,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Alkalinity,mg CaCO3/L,2012,89.0,13,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Alkalinity,mg CaCO3/L,2012,90.0,13,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Alkalinity,mg CaCO3/L,2012,79.0,13,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Alkalinity,mg CaCO3/L,2009,175.0,14,Marikina River,Pasig / Marikina,NCR
+tributary,1,Alkalinity,mg CaCO3/L,2010,167.0,14,Marikina River,Pasig / Marikina,NCR
+tributary,1,Alkalinity,mg CaCO3/L,2011,152.0,14,Marikina River,Pasig / Marikina,NCR
+tributary,1,Alkalinity,mg CaCO3/L,2012,156.0,14,Marikina River,Pasig / Marikina,NCR
+tributary,2,Alkalinity,mg CaCO3/L,2009,436.0,14,Bagumbayan River,Taguig,NCR
+tributary,2,Alkalinity,mg CaCO3/L,2010,446.0,14,Bagumbayan River,Taguig,NCR
+tributary,2,Alkalinity,mg CaCO3/L,2011,282.0,14,Bagumbayan River,Taguig,NCR
+tributary,2,Alkalinity,mg CaCO3/L,2012,256.0,14,Bagumbayan River,Taguig,NCR
+tributary,3,Alkalinity,mg CaCO3/L,2009,395.0,14,Buli Creek,Taguig,NCR
+tributary,3,Alkalinity,mg CaCO3/L,2010,415.0,14,Buli Creek,Taguig,NCR
+tributary,3,Alkalinity,mg CaCO3/L,2011,313.0,14,Buli Creek,Taguig,NCR
+tributary,3,Alkalinity,mg CaCO3/L,2012,249.0,14,Buli Creek,Taguig,NCR
+tributary,4,Alkalinity,mg CaCO3/L,2009,363.0,14,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Alkalinity,mg CaCO3/L,2010,328.0,14,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Alkalinity,mg CaCO3/L,2011,239.0,14,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Alkalinity,mg CaCO3/L,2012,182.0,14,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Alkalinity,mg CaCO3/L,2012,166.0,14,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Alkalinity,mg CaCO3/L,2009,327.0,14,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Alkalinity,mg CaCO3/L,2010,362.0,14,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Alkalinity,mg CaCO3/L,2011,312.0,14,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Alkalinity,mg CaCO3/L,2012,300.0,14,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Alkalinity,mg CaCO3/L,2012,193.0,14,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Alkalinity,mg CaCO3/L,2009,307.0,14,San Pedro River,San Pedro,Laguna
+tributary,6,Alkalinity,mg CaCO3/L,2010,345.0,14,San Pedro River,San Pedro,Laguna
+tributary,6,Alkalinity,mg CaCO3/L,2011,330.0,14,San Pedro River,San Pedro,Laguna
+tributary,6,Alkalinity,mg CaCO3/L,2012,290.0,14,San Pedro River,San Pedro,Laguna
+tributary,7,Alkalinity,mg CaCO3/L,2011,253.0,14,Biñan River,Biñan,Laguna
+tributary,7,Alkalinity,mg CaCO3/L,2012,254.0,14,Biñan River,Biñan,Laguna
+tributary,8,Alkalinity,mg CaCO3/L,2011,297.0,14,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Alkalinity,mg CaCO3/L,2012,242.0,14,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Alkalinity,mg CaCO3/L,2012,203.0,14,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Alkalinity,mg CaCO3/L,2012,171.0,14,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Alkalinity,mg CaCO3/L,2009,299.0,14,Cabuyao River,Cabuyao,Laguna
+tributary,9,Alkalinity,mg CaCO3/L,2010,294.0,14,Cabuyao River,Cabuyao,Laguna
+tributary,9,Alkalinity,mg CaCO3/L,2011,289.0,14,Cabuyao River,Cabuyao,Laguna
+tributary,9,Alkalinity,mg CaCO3/L,2012,230.0,14,Cabuyao River,Cabuyao,Laguna
+tributary,10,Alkalinity,mg CaCO3/L,2009,249.0,14,San Cristobal River,Calamba,Laguna
+tributary,10,Alkalinity,mg CaCO3/L,2010,252.0,14,San Cristobal River,Calamba,Laguna
+tributary,10,Alkalinity,mg CaCO3/L,2011,252.0,14,San Cristobal River,Calamba,Laguna
+tributary,10,Alkalinity,mg CaCO3/L,2012,197.0,14,San Cristobal River,Calamba,Laguna
+tributary,11,Alkalinity,mg CaCO3/L,2009,186.0,14,San Juan River,Calamba,Laguna
+tributary,11,Alkalinity,mg CaCO3/L,2010,148.0,14,San Juan River,Calamba,Laguna
+tributary,11,Alkalinity,mg CaCO3/L,2011,156.0,14,San Juan River,Calamba,Laguna
+tributary,11,Alkalinity,mg CaCO3/L,2012,144.0,14,San Juan River,Calamba,Laguna
+tributary,12,Alkalinity,mg CaCO3/L,2011,164.0,14,Molawin Creek,Los Baños,Laguna
+tributary,12,Alkalinity,mg CaCO3/L,2012,187.0,14,Molawin Creek,Los Baños,Laguna
+tributary,13,Alkalinity,mg CaCO3/L,2009,255.0,14,Bay River,Bay,Laguna
+tributary,13,Alkalinity,mg CaCO3/L,2010,225.0,14,Bay River,Bay,Laguna
+tributary,13,Alkalinity,mg CaCO3/L,2011,222.0,14,Bay River,Bay,Laguna
+tributary,13,Alkalinity,mg CaCO3/L,2012,188.0,14,Bay River,Bay,Laguna
+tributary,14,Alkalinity,mg CaCO3/L,2011,249.0,14,Pila River,Pila,Laguna
+tributary,14,Alkalinity,mg CaCO3/L,2012,252.0,14,Pila River,Pila,Laguna
+tributary,15,Alkalinity,mg CaCO3/L,2009,109.0,14,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Alkalinity,mg CaCO3/L,2010,115.0,14,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Alkalinity,mg CaCO3/L,2011,96.0,14,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Alkalinity,mg CaCO3/L,2012,127.0,14,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Alkalinity,mg CaCO3/L,2009,60.0,14,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Alkalinity,mg CaCO3/L,2010,93.0,14,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Alkalinity,mg CaCO3/L,2011,42.0,14,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Alkalinity,mg CaCO3/L,2012,109.0,14,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Alkalinity,mg CaCO3/L,2009,51.0,14,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Alkalinity,mg CaCO3/L,2010,74.0,14,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Alkalinity,mg CaCO3/L,2011,49.0,14,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Alkalinity,mg CaCO3/L,2012,74.0,14,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Alkalinity,mg CaCO3/L,2012,83.0,14,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Alkalinity,mg CaCO3/L,2009,67.0,14,Siniloan River,Siniloan,Laguna
+tributary,18,Alkalinity,mg CaCO3/L,2010,86.0,14,Siniloan River,Siniloan,Laguna
+tributary,18,Alkalinity,mg CaCO3/L,2011,48.0,14,Siniloan River,Siniloan,Laguna
+tributary,18,Alkalinity,mg CaCO3/L,2012,79.0,14,Siniloan River,Siniloan,Laguna
+tributary,19,Alkalinity,mg CaCO3/L,2011,80.0,14,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Alkalinity,mg CaCO3/L,2012,87.0,14,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Alkalinity,mg CaCO3/L,2012,85.0,14,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Alkalinity,mg CaCO3/L,2012,81.0,14,Jala-jala River,Jalajala,Rizal
+tributary,21,Alkalinity,mg CaCO3/L,2011,112.0,14,Pililla River,Pililla,Rizal
+tributary,21,Alkalinity,mg CaCO3/L,2012,130.0,14,Pililla River,Pililla,Rizal
+tributary,22,Alkalinity,mg CaCO3/L,2009,232.0,14,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Alkalinity,mg CaCO3/L,2010,216.0,14,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Alkalinity,mg CaCO3/L,2011,187.0,14,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Alkalinity,mg CaCO3/L,2012,172.0,14,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Alkalinity,mg CaCO3/L,2012,167.0,14,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Alkalinity,mg CaCO3/L,2011,112.0,14,Baras River,Baras,Rizal
+tributary,23,Alkalinity,mg CaCO3/L,2012,132.0,14,Baras River,Baras,Rizal
+tributary,24,Alkalinity,mg CaCO3/L,2009,277.0,14,Morong River - Downstream,Morong,Rizal
+tributary,24,Alkalinity,mg CaCO3/L,2010,246.0,14,Morong River - Downstream,Morong,Rizal
+tributary,24,Alkalinity,mg CaCO3/L,2011,217.0,14,Morong River - Downstream,Morong,Rizal
+tributary,24,Alkalinity,mg CaCO3/L,2012,239.0,14,Morong River - Downstream,Morong,Rizal
+tributary,24U,Alkalinity,mg CaCO3/L,2012,229.0,14,Morong River - Upstream,Morong,Rizal
+tributary,25,Alkalinity,mg CaCO3/L,2009,184.0,14,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Alkalinity,mg CaCO3/L,2010,182.0,14,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Alkalinity,mg CaCO3/L,2011,159.0,14,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Alkalinity,mg CaCO3/L,2012,165.0,14,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Alkalinity,mg CaCO3/L,2009,203.0,14,Sapang Baho River,Cainta,Rizal
+tributary,26,Alkalinity,mg CaCO3/L,2010,190.0,14,Sapang Baho River,Cainta,Rizal
+tributary,26,Alkalinity,mg CaCO3/L,2011,170.0,14,Sapang Baho River,Cainta,Rizal
+tributary,26,Alkalinity,mg CaCO3/L,2012,161.0,14,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Ammonia,mg/L,2009,0.044,17,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Ammonia,mg/L,2010,0.068,17,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Ammonia,mg/L,2011,0.171,17,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Ammonia,mg/L,2012,0.162,17,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Ammonia,mg/L,2009,0.013,17,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Ammonia,mg/L,2010,0.034,17,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Ammonia,mg/L,2011,0.038,17,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Ammonia,mg/L,2012,0.146,17,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Ammonia,mg/L,2009,0.025,17,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Ammonia,mg/L,2010,0.042,17,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Ammonia,mg/L,2011,0.06,17,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Ammonia,mg/L,2012,0.043,17,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Ammonia,mg/L,2009,0.025,17,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Ammonia,mg/L,2010,0.055,17,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Ammonia,mg/L,2011,0.15,17,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Ammonia,mg/L,2012,0.287,17,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Ammonia,mg/L,2009,0.024,17,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Ammonia,mg/L,2010,0.032,17,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Ammonia,mg/L,2011,0.047,17,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Ammonia,mg/L,2012,0.06,17,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Ammonia,mg/L,2012,0.045,17,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Ammonia,mg/L,2012,0.053,17,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Ammonia,mg/L,2012,0.048,17,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Ammonia,mg/L,2012,0.057,17,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Ammonia,mg/L,2009,2.71,18,Marikina River,Pasig / Marikina,NCR
+tributary,1,Ammonia,mg/L,2010,4.21,18,Marikina River,Pasig / Marikina,NCR
+tributary,1,Ammonia,mg/L,2011,2.07,18,Marikina River,Pasig / Marikina,NCR
+tributary,1,Ammonia,mg/L,2012,2.85,18,Marikina River,Pasig / Marikina,NCR
+tributary,2,Ammonia,mg/L,2009,8.25,18,Bagumbayan River,Taguig,NCR
+tributary,2,Ammonia,mg/L,2010,33.3,18,Bagumbayan River,Taguig,NCR
+tributary,2,Ammonia,mg/L,2011,5.1,18,Bagumbayan River,Taguig,NCR
+tributary,2,Ammonia,mg/L,2012,5.53,18,Bagumbayan River,Taguig,NCR
+tributary,3,Ammonia,mg/L,2009,7.99,18,Buli Creek,Taguig,NCR
+tributary,3,Ammonia,mg/L,2010,23.58,18,Buli Creek,Taguig,NCR
+tributary,3,Ammonia,mg/L,2011,4.84,18,Buli Creek,Taguig,NCR
+tributary,3,Ammonia,mg/L,2012,5.86,18,Buli Creek,Taguig,NCR
+tributary,4,Ammonia,mg/L,2009,5.7,18,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Ammonia,mg/L,2010,14.9,18,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Ammonia,mg/L,2011,4.41,18,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Ammonia,mg/L,2012,3.71,18,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Ammonia,mg/L,2012,3.81,18,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Ammonia,mg/L,2009,5.29,18,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Ammonia,mg/L,2010,6.87,18,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Ammonia,mg/L,2011,2.74,18,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Ammonia,mg/L,2012,5.22,18,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Ammonia,mg/L,2012,1.34,18,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Ammonia,mg/L,2009,6.25,18,San Pedro River,San Pedro,Laguna
+tributary,6,Ammonia,mg/L,2010,10.99,18,San Pedro River,San Pedro,Laguna
+tributary,6,Ammonia,mg/L,2011,3.79,18,San Pedro River,San Pedro,Laguna
+tributary,6,Ammonia,mg/L,2012,5.09,18,San Pedro River,San Pedro,Laguna
+tributary,7,Ammonia,mg/L,2011,2.71,18,Biñan River,Biñan,Laguna
+tributary,7,Ammonia,mg/L,2012,4.24,18,Biñan River,Biñan,Laguna
+tributary,8,Ammonia,mg/L,2011,2.66,18,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Ammonia,mg/L,2012,2.88,18,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Ammonia,mg/L,2012,2.08,18,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Ammonia,mg/L,2012,0.94,18,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Ammonia,mg/L,2009,2.46,18,Cabuyao River,Cabuyao,Laguna
+tributary,9,Ammonia,mg/L,2010,4.63,18,Cabuyao River,Cabuyao,Laguna
+tributary,9,Ammonia,mg/L,2011,3.71,18,Cabuyao River,Cabuyao,Laguna
+tributary,9,Ammonia,mg/L,2012,4.03,18,Cabuyao River,Cabuyao,Laguna
+tributary,10,Ammonia,mg/L,2009,0.38,18,San Cristobal River,Calamba,Laguna
+tributary,10,Ammonia,mg/L,2010,0.32,18,San Cristobal River,Calamba,Laguna
+tributary,10,Ammonia,mg/L,2011,0.26,18,San Cristobal River,Calamba,Laguna
+tributary,10,Ammonia,mg/L,2012,0.21,18,San Cristobal River,Calamba,Laguna
+tributary,11,Ammonia,mg/L,2009,0.72,18,San Juan River,Calamba,Laguna
+tributary,11,Ammonia,mg/L,2010,0.81,18,San Juan River,Calamba,Laguna
+tributary,11,Ammonia,mg/L,2011,0.74,18,San Juan River,Calamba,Laguna
+tributary,11,Ammonia,mg/L,2012,0.48,18,San Juan River,Calamba,Laguna
+tributary,12,Ammonia,mg/L,2011,0.19,18,Molawin Creek,Los Baños,Laguna
+tributary,12,Ammonia,mg/L,2012,0.28,18,Molawin Creek,Los Baños,Laguna
+tributary,13,Ammonia,mg/L,2009,0.09,18,Bay River,Bay,Laguna
+tributary,13,Ammonia,mg/L,2010,0.1,18,Bay River,Bay,Laguna
+tributary,13,Ammonia,mg/L,2011,0.12,18,Bay River,Bay,Laguna
+tributary,13,Ammonia,mg/L,2012,0.11,18,Bay River,Bay,Laguna
+tributary,14,Ammonia,mg/L,2011,0.13,18,Pila River,Pila,Laguna
+tributary,14,Ammonia,mg/L,2012,0.2,18,Pila River,Pila,Laguna
+tributary,15,Ammonia,mg/L,2009,0.21,18,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Ammonia,mg/L,2010,0.14,18,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Ammonia,mg/L,2011,0.15,18,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Ammonia,mg/L,2012,0.27,18,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Ammonia,mg/L,2009,0.07,18,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Ammonia,mg/L,2010,0.04,18,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Ammonia,mg/L,2011,0.09,18,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Ammonia,mg/L,2012,0.07,18,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Ammonia,mg/L,2009,0.06,18,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Ammonia,mg/L,2010,0.11,18,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Ammonia,mg/L,2011,0.1,18,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Ammonia,mg/L,2012,0.13,18,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Ammonia,mg/L,2012,0.06,18,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Ammonia,mg/L,2009,0.71,18,Siniloan River,Siniloan,Laguna
+tributary,18,Ammonia,mg/L,2010,1.31,18,Siniloan River,Siniloan,Laguna
+tributary,18,Ammonia,mg/L,2011,0.42,18,Siniloan River,Siniloan,Laguna
+tributary,18,Ammonia,mg/L,2012,1.0,18,Siniloan River,Siniloan,Laguna
+tributary,19,Ammonia,mg/L,2011,0.09,18,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Ammonia,mg/L,2012,0.24,18,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Ammonia,mg/L,2012,0.06,18,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Ammonia,mg/L,2012,0.12,18,Jala-jala River,Jalajala,Rizal
+tributary,21,Ammonia,mg/L,2011,0.32,18,Pililla River,Pililla,Rizal
+tributary,21,Ammonia,mg/L,2012,0.55,18,Pililla River,Pililla,Rizal
+tributary,22,Ammonia,mg/L,2009,0.53,18,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Ammonia,mg/L,2010,0.44,18,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Ammonia,mg/L,2011,0.81,18,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Ammonia,mg/L,2012,0.4,18,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Ammonia,mg/L,2012,0.1,18,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Ammonia,mg/L,2011,0.81,18,Baras River,Baras,Rizal
+tributary,23,Ammonia,mg/L,2012,0.4,18,Baras River,Baras,Rizal
+tributary,24,Ammonia,mg/L,2009,2.34,18,Morong River - Downstream,Morong,Rizal
+tributary,24,Ammonia,mg/L,2010,4.45,18,Morong River - Downstream,Morong,Rizal
+tributary,24,Ammonia,mg/L,2011,1.81,18,Morong River - Downstream,Morong,Rizal
+tributary,24,Ammonia,mg/L,2012,2.48,18,Morong River - Downstream,Morong,Rizal
+tributary,24U,Ammonia,mg/L,2012,3.16,18,Morong River - Upstream,Morong,Rizal
+tributary,25,Ammonia,mg/L,2009,2.27,18,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Ammonia,mg/L,2010,4.35,18,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Ammonia,mg/L,2011,2.74,18,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Ammonia,mg/L,2012,3.12,18,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Ammonia,mg/L,2009,3.26,18,Sapang Baho River,Cainta,Rizal
+tributary,26,Ammonia,mg/L,2010,5.61,18,Sapang Baho River,Cainta,Rizal
+tributary,26,Ammonia,mg/L,2011,3.05,18,Sapang Baho River,Cainta,Rizal
+tributary,26,Ammonia,mg/L,2012,3.65,18,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Biochemical Oxygen Demand,mg/L,2009,1.0,21,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Biochemical Oxygen Demand,mg/L,2010,6.0,21,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Biochemical Oxygen Demand,mg/L,2011,3.0,21,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Biochemical Oxygen Demand,mg/L,2012,2.0,21,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Biochemical Oxygen Demand,mg/L,2009,1.0,21,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Biochemical Oxygen Demand,mg/L,2010,5.0,21,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Biochemical Oxygen Demand,mg/L,2011,2.0,21,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Biochemical Oxygen Demand,mg/L,2012,1.0,21,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Biochemical Oxygen Demand,mg/L,2009,2.0,21,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Biochemical Oxygen Demand,mg/L,2010,4.0,21,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Biochemical Oxygen Demand,mg/L,2011,2.0,21,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Biochemical Oxygen Demand,mg/L,2012,2.0,21,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Biochemical Oxygen Demand,mg/L,2009,2.0,21,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Biochemical Oxygen Demand,mg/L,2010,5.0,21,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Biochemical Oxygen Demand,mg/L,2011,3.0,21,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Biochemical Oxygen Demand,mg/L,2012,2.0,21,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Biochemical Oxygen Demand,mg/L,2009,2.0,21,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Biochemical Oxygen Demand,mg/L,2010,5.0,21,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Biochemical Oxygen Demand,mg/L,2011,2.0,21,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Biochemical Oxygen Demand,mg/L,2012,2.0,21,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Biochemical Oxygen Demand,mg/L,2012,2.0,21,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Biochemical Oxygen Demand,mg/L,2012,2.0,21,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Biochemical Oxygen Demand,mg/L,2012,2.0,21,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Biochemical Oxygen Demand,mg/L,2012,2.0,21,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Biochemical Oxygen Demand,mg/L,2009,13.0,22,Marikina River,Pasig / Marikina,NCR
+tributary,1,Biochemical Oxygen Demand,mg/L,2010,25.0,22,Marikina River,Pasig / Marikina,NCR
+tributary,1,Biochemical Oxygen Demand,mg/L,2011,12.0,22,Marikina River,Pasig / Marikina,NCR
+tributary,1,Biochemical Oxygen Demand,mg/L,2012,12.0,22,Marikina River,Pasig / Marikina,NCR
+tributary,2,Biochemical Oxygen Demand,mg/L,2009,60.0,22,Bagumbayan River,Taguig,NCR
+tributary,2,Biochemical Oxygen Demand,mg/L,2010,238.0,22,Bagumbayan River,Taguig,NCR
+tributary,2,Biochemical Oxygen Demand,mg/L,2011,85.0,22,Bagumbayan River,Taguig,NCR
+tributary,2,Biochemical Oxygen Demand,mg/L,2012,64.0,22,Bagumbayan River,Taguig,NCR
+tributary,3,Biochemical Oxygen Demand,mg/L,2009,72.0,22,Buli Creek,Taguig,NCR
+tributary,3,Biochemical Oxygen Demand,mg/L,2010,161.0,22,Buli Creek,Taguig,NCR
+tributary,3,Biochemical Oxygen Demand,mg/L,2011,136.0,22,Buli Creek,Taguig,NCR
+tributary,3,Biochemical Oxygen Demand,mg/L,2012,124.0,22,Buli Creek,Taguig,NCR
+tributary,4,Biochemical Oxygen Demand,mg/L,2009,20.0,22,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Biochemical Oxygen Demand,mg/L,2010,42.0,22,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Biochemical Oxygen Demand,mg/L,2011,35.0,22,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Biochemical Oxygen Demand,mg/L,2012,22.0,22,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Biochemical Oxygen Demand,mg/L,2012,11.0,22,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Biochemical Oxygen Demand,mg/L,2009,184.0,22,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Biochemical Oxygen Demand,mg/L,2010,159.0,22,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Biochemical Oxygen Demand,mg/L,2011,129.0,22,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Biochemical Oxygen Demand,mg/L,2012,141.0,22,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Biochemical Oxygen Demand,mg/L,2012,5.0,22,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Biochemical Oxygen Demand,mg/L,2009,16.0,22,San Pedro River,San Pedro,Laguna
+tributary,6,Biochemical Oxygen Demand,mg/L,2010,18.0,22,San Pedro River,San Pedro,Laguna
+tributary,6,Biochemical Oxygen Demand,mg/L,2011,24.0,22,San Pedro River,San Pedro,Laguna
+tributary,6,Biochemical Oxygen Demand,mg/L,2012,23.0,22,San Pedro River,San Pedro,Laguna
+tributary,7,Biochemical Oxygen Demand,mg/L,2011,24.0,22,Biñan River,Biñan,Laguna
+tributary,7,Biochemical Oxygen Demand,mg/L,2012,21.0,22,Biñan River,Biñan,Laguna
+tributary,8,Biochemical Oxygen Demand,mg/L,2011,18.0,22,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Biochemical Oxygen Demand,mg/L,2012,16.0,22,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Biochemical Oxygen Demand,mg/L,2012,14.0,22,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Biochemical Oxygen Demand,mg/L,2012,7.0,22,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Biochemical Oxygen Demand,mg/L,2009,11.0,22,Cabuyao River,Cabuyao,Laguna
+tributary,9,Biochemical Oxygen Demand,mg/L,2010,14.0,22,Cabuyao River,Cabuyao,Laguna
+tributary,9,Biochemical Oxygen Demand,mg/L,2011,20.0,22,Cabuyao River,Cabuyao,Laguna
+tributary,9,Biochemical Oxygen Demand,mg/L,2012,17.0,22,Cabuyao River,Cabuyao,Laguna
+tributary,10,Biochemical Oxygen Demand,mg/L,2009,33.0,22,San Cristobal River,Calamba,Laguna
+tributary,10,Biochemical Oxygen Demand,mg/L,2010,78.0,22,San Cristobal River,Calamba,Laguna
+tributary,10,Biochemical Oxygen Demand,mg/L,2011,63.0,22,San Cristobal River,Calamba,Laguna
+tributary,10,Biochemical Oxygen Demand,mg/L,2012,33.0,22,San Cristobal River,Calamba,Laguna
+tributary,11,Biochemical Oxygen Demand,mg/L,2009,9.0,22,San Juan River,Calamba,Laguna
+tributary,11,Biochemical Oxygen Demand,mg/L,2010,5.0,22,San Juan River,Calamba,Laguna
+tributary,11,Biochemical Oxygen Demand,mg/L,2011,9.0,22,San Juan River,Calamba,Laguna
+tributary,11,Biochemical Oxygen Demand,mg/L,2012,4.0,22,San Juan River,Calamba,Laguna
+tributary,12,Biochemical Oxygen Demand,mg/L,2011,4.0,22,Molawin Creek,Los Baños,Laguna
+tributary,12,Biochemical Oxygen Demand,mg/L,2012,3.0,22,Molawin Creek,Los Baños,Laguna
+tributary,13,Biochemical Oxygen Demand,mg/L,2009,3.0,22,Bay River,Bay,Laguna
+tributary,13,Biochemical Oxygen Demand,mg/L,2010,4.0,22,Bay River,Bay,Laguna
+tributary,13,Biochemical Oxygen Demand,mg/L,2011,3.0,22,Bay River,Bay,Laguna
+tributary,13,Biochemical Oxygen Demand,mg/L,2012,2.0,22,Bay River,Bay,Laguna
+tributary,14,Biochemical Oxygen Demand,mg/L,2011,3.0,22,Pila River,Pila,Laguna
+tributary,14,Biochemical Oxygen Demand,mg/L,2012,3.0,22,Pila River,Pila,Laguna
+tributary,15,Biochemical Oxygen Demand,mg/L,2009,3.0,22,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Biochemical Oxygen Demand,mg/L,2010,3.0,22,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Biochemical Oxygen Demand,mg/L,2011,3.0,22,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Biochemical Oxygen Demand,mg/L,2012,2.0,22,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Biochemical Oxygen Demand,mg/L,2009,1.0,22,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Biochemical Oxygen Demand,mg/L,2010,3.0,22,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Biochemical Oxygen Demand,mg/L,2011,2.0,22,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Biochemical Oxygen Demand,mg/L,2012,2.0,22,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Biochemical Oxygen Demand,mg/L,2009,2.0,22,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Biochemical Oxygen Demand,mg/L,2010,5.0,22,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Biochemical Oxygen Demand,mg/L,2011,2.0,22,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Biochemical Oxygen Demand,mg/L,2012,2.0,22,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Biochemical Oxygen Demand,mg/L,2012,2.0,22,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Biochemical Oxygen Demand,mg/L,2009,3.0,22,Siniloan River,Siniloan,Laguna
+tributary,18,Biochemical Oxygen Demand,mg/L,2010,7.0,22,Siniloan River,Siniloan,Laguna
+tributary,18,Biochemical Oxygen Demand,mg/L,2011,2.0,22,Siniloan River,Siniloan,Laguna
+tributary,18,Biochemical Oxygen Demand,mg/L,2012,3.0,22,Siniloan River,Siniloan,Laguna
+tributary,19,Biochemical Oxygen Demand,mg/L,2011,3.0,22,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Biochemical Oxygen Demand,mg/L,2012,2.0,22,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Biochemical Oxygen Demand,mg/L,2012,1.0,22,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Biochemical Oxygen Demand,mg/L,2012,3.0,22,Jala-jala River,Jalajala,Rizal
+tributary,21,Biochemical Oxygen Demand,mg/L,2011,3.0,22,Pililla River,Pililla,Rizal
+tributary,21,Biochemical Oxygen Demand,mg/L,2012,3.0,22,Pililla River,Pililla,Rizal
+tributary,22,Biochemical Oxygen Demand,mg/L,2009,4.0,22,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Biochemical Oxygen Demand,mg/L,2010,4.0,22,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Biochemical Oxygen Demand,mg/L,2011,3.0,22,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Biochemical Oxygen Demand,mg/L,2012,3.0,22,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Biochemical Oxygen Demand,mg/L,2012,2.0,22,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Biochemical Oxygen Demand,mg/L,2011,6.0,22,Baras River,Baras,Rizal
+tributary,23,Biochemical Oxygen Demand,mg/L,2012,5.0,22,Baras River,Baras,Rizal
+tributary,24,Biochemical Oxygen Demand,mg/L,2009,8.0,22,Morong River - Downstream,Morong,Rizal
+tributary,24,Biochemical Oxygen Demand,mg/L,2010,13.0,22,Morong River - Downstream,Morong,Rizal
+tributary,24,Biochemical Oxygen Demand,mg/L,2011,20.0,22,Morong River - Downstream,Morong,Rizal
+tributary,24,Biochemical Oxygen Demand,mg/L,2012,14.0,22,Morong River - Downstream,Morong,Rizal
+tributary,24U,Biochemical Oxygen Demand,mg/L,2012,15.0,22,Morong River - Upstream,Morong,Rizal
+tributary,25,Biochemical Oxygen Demand,mg/L,2009,7.0,22,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Biochemical Oxygen Demand,mg/L,2010,14.0,22,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Biochemical Oxygen Demand,mg/L,2011,11.0,22,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Biochemical Oxygen Demand,mg/L,2012,11.0,22,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Biochemical Oxygen Demand,mg/L,2009,13.0,22,Sapang Baho River,Cainta,Rizal
+tributary,26,Biochemical Oxygen Demand,mg/L,2010,17.0,22,Sapang Baho River,Cainta,Rizal
+tributary,26,Biochemical Oxygen Demand,mg/L,2011,15.0,22,Sapang Baho River,Cainta,Rizal
+tributary,26,Biochemical Oxygen Demand,mg/L,2012,13.0,22,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Calcium Hardness,mg CaCO3/L,2009,37.0,25,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Calcium Hardness,mg CaCO3/L,2010,62.0,25,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Calcium Hardness,mg CaCO3/L,2011,39.0,25,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Calcium Hardness,mg CaCO3/L,2012,36.0,25,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Calcium Hardness,mg CaCO3/L,2009,33.0,25,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Calcium Hardness,mg CaCO3/L,2010,46.0,25,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Calcium Hardness,mg CaCO3/L,2011,31.0,25,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Calcium Hardness,mg CaCO3/L,2012,31.0,25,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Calcium Hardness,mg CaCO3/L,2009,35.0,25,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Calcium Hardness,mg CaCO3/L,2010,58.0,25,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Calcium Hardness,mg CaCO3/L,2011,39.0,25,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Calcium Hardness,mg CaCO3/L,2012,37.0,25,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Calcium Hardness,mg CaCO3/L,2009,42.0,25,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Calcium Hardness,mg CaCO3/L,2010,64.0,25,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Calcium Hardness,mg CaCO3/L,2011,38.0,25,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Calcium Hardness,mg CaCO3/L,2012,43.0,25,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Calcium Hardness,mg CaCO3/L,2009,42.0,25,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Calcium Hardness,mg CaCO3/L,2010,49.0,25,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Calcium Hardness,mg CaCO3/L,2011,38.0,25,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Calcium Hardness,mg CaCO3/L,2012,38.0,25,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Calcium Hardness,mg CaCO3/L,2012,47.0,25,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Calcium Hardness,mg CaCO3/L,2012,42.0,25,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Calcium Hardness,mg CaCO3/L,2012,43.0,25,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Calcium Hardness,mg CaCO3/L,2012,37.0,25,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Calcium Hardness,mg CaCO3/L,2009,85.0,26,Marikina River,Pasig / Marikina,NCR
+tributary,1,Calcium Hardness,mg CaCO3/L,2010,90.0,26,Marikina River,Pasig / Marikina,NCR
+tributary,1,Calcium Hardness,mg CaCO3/L,2011,88.0,26,Marikina River,Pasig / Marikina,NCR
+tributary,1,Calcium Hardness,mg CaCO3/L,2012,91.0,26,Marikina River,Pasig / Marikina,NCR
+tributary,2,Calcium Hardness,mg CaCO3/L,2009,116.0,26,Bagumbayan River,Taguig,NCR
+tributary,2,Calcium Hardness,mg CaCO3/L,2010,130.0,26,Bagumbayan River,Taguig,NCR
+tributary,2,Calcium Hardness,mg CaCO3/L,2011,89.0,26,Bagumbayan River,Taguig,NCR
+tributary,2,Calcium Hardness,mg CaCO3/L,2012,76.0,26,Bagumbayan River,Taguig,NCR
+tributary,3,Calcium Hardness,mg CaCO3/L,2009,95.0,26,Buli Creek,Taguig,NCR
+tributary,3,Calcium Hardness,mg CaCO3/L,2010,99.0,26,Buli Creek,Taguig,NCR
+tributary,3,Calcium Hardness,mg CaCO3/L,2011,75.0,26,Buli Creek,Taguig,NCR
+tributary,3,Calcium Hardness,mg CaCO3/L,2012,76.0,26,Buli Creek,Taguig,NCR
+tributary,4,Calcium Hardness,mg CaCO3/L,2009,90.0,26,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Calcium Hardness,mg CaCO3/L,2010,97.0,26,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Calcium Hardness,mg CaCO3/L,2011,76.0,26,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Calcium Hardness,mg CaCO3/L,2012,73.0,26,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Calcium Hardness,mg CaCO3/L,2012,76.0,26,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Calcium Hardness,mg CaCO3/L,2009,101.0,26,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Calcium Hardness,mg CaCO3/L,2010,86.0,26,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Calcium Hardness,mg CaCO3/L,2011,76.0,26,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Calcium Hardness,mg CaCO3/L,2012,99.0,26,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Calcium Hardness,mg CaCO3/L,2012,82.0,26,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Calcium Hardness,mg CaCO3/L,2009,93.0,26,San Pedro River,San Pedro,Laguna
+tributary,6,Calcium Hardness,mg CaCO3/L,2010,100.0,26,San Pedro River,San Pedro,Laguna
+tributary,6,Calcium Hardness,mg CaCO3/L,2011,98.0,26,San Pedro River,San Pedro,Laguna
+tributary,6,Calcium Hardness,mg CaCO3/L,2012,104.0,26,San Pedro River,San Pedro,Laguna
+tributary,7,Calcium Hardness,mg CaCO3/L,2011,87.0,26,Biñan River,Biñan,Laguna
+tributary,7,Calcium Hardness,mg CaCO3/L,2012,90.0,26,Biñan River,Biñan,Laguna
+tributary,8,Calcium Hardness,mg CaCO3/L,2011,99.0,26,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Calcium Hardness,mg CaCO3/L,2012,101.0,26,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Calcium Hardness,mg CaCO3/L,2012,82.0,26,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Calcium Hardness,mg CaCO3/L,2012,77.0,26,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Calcium Hardness,mg CaCO3/L,2009,89.0,26,Cabuyao River,Cabuyao,Laguna
+tributary,9,Calcium Hardness,mg CaCO3/L,2010,100.0,26,Cabuyao River,Cabuyao,Laguna
+tributary,9,Calcium Hardness,mg CaCO3/L,2011,98.0,26,Cabuyao River,Cabuyao,Laguna
+tributary,9,Calcium Hardness,mg CaCO3/L,2012,86.0,26,Cabuyao River,Cabuyao,Laguna
+tributary,10,Calcium Hardness,mg CaCO3/L,2009,87.0,26,San Cristobal River,Calamba,Laguna
+tributary,10,Calcium Hardness,mg CaCO3/L,2010,90.0,26,San Cristobal River,Calamba,Laguna
+tributary,10,Calcium Hardness,mg CaCO3/L,2011,79.0,26,San Cristobal River,Calamba,Laguna
+tributary,10,Calcium Hardness,mg CaCO3/L,2012,97.0,26,San Cristobal River,Calamba,Laguna
+tributary,11,Calcium Hardness,mg CaCO3/L,2009,85.0,26,San Juan River,Calamba,Laguna
+tributary,11,Calcium Hardness,mg CaCO3/L,2010,97.0,26,San Juan River,Calamba,Laguna
+tributary,11,Calcium Hardness,mg CaCO3/L,2011,83.0,26,San Juan River,Calamba,Laguna
+tributary,11,Calcium Hardness,mg CaCO3/L,2012,91.0,26,San Juan River,Calamba,Laguna
+tributary,12,Calcium Hardness,mg CaCO3/L,2011,70.0,26,Molawin Creek,Los Baños,Laguna
+tributary,12,Calcium Hardness,mg CaCO3/L,2012,75.0,26,Molawin Creek,Los Baños,Laguna
+tributary,13,Calcium Hardness,mg CaCO3/L,2009,82.0,26,Bay River,Bay,Laguna
+tributary,13,Calcium Hardness,mg CaCO3/L,2010,82.0,26,Bay River,Bay,Laguna
+tributary,13,Calcium Hardness,mg CaCO3/L,2011,81.0,26,Bay River,Bay,Laguna
+tributary,13,Calcium Hardness,mg CaCO3/L,2012,77.0,26,Bay River,Bay,Laguna
+tributary,14,Calcium Hardness,mg CaCO3/L,2011,42.0,26,Pila River,Pila,Laguna
+tributary,14,Calcium Hardness,mg CaCO3/L,2012,67.0,26,Pila River,Pila,Laguna
+tributary,15,Calcium Hardness,mg CaCO3/L,2009,41.0,26,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Calcium Hardness,mg CaCO3/L,2010,50.0,26,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Calcium Hardness,mg CaCO3/L,2011,34.0,26,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Calcium Hardness,mg CaCO3/L,2012,59.0,26,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Calcium Hardness,mg CaCO3/L,2009,30.0,26,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Calcium Hardness,mg CaCO3/L,2010,42.0,26,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Calcium Hardness,mg CaCO3/L,2011,18.0,26,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Calcium Hardness,mg CaCO3/L,2012,52.0,26,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Calcium Hardness,mg CaCO3/L,2009,20.0,26,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Calcium Hardness,mg CaCO3/L,2010,36.0,26,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Calcium Hardness,mg CaCO3/L,2011,23.0,26,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Calcium Hardness,mg CaCO3/L,2012,52.0,26,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Calcium Hardness,mg CaCO3/L,2012,50.0,26,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Calcium Hardness,mg CaCO3/L,2009,24.0,26,Siniloan River,Siniloan,Laguna
+tributary,18,Calcium Hardness,mg CaCO3/L,2010,42.0,26,Siniloan River,Siniloan,Laguna
+tributary,18,Calcium Hardness,mg CaCO3/L,2011,22.0,26,Siniloan River,Siniloan,Laguna
+tributary,18,Calcium Hardness,mg CaCO3/L,2012,42.0,26,Siniloan River,Siniloan,Laguna
+tributary,19,Calcium Hardness,mg CaCO3/L,2011,45.0,26,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Calcium Hardness,mg CaCO3/L,2012,60.0,26,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Calcium Hardness,mg CaCO3/L,2012,53.0,26,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Calcium Hardness,mg CaCO3/L,2012,134.0,26,Jala-jala River,Jalajala,Rizal
+tributary,21,Calcium Hardness,mg CaCO3/L,2011,60.0,26,Pililla River,Pililla,Rizal
+tributary,21,Calcium Hardness,mg CaCO3/L,2012,142.0,26,Pililla River,Pililla,Rizal
+tributary,22,Calcium Hardness,mg CaCO3/L,2009,111.0,26,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Calcium Hardness,mg CaCO3/L,2010,90.0,26,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Calcium Hardness,mg CaCO3/L,2011,120.0,26,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Calcium Hardness,mg CaCO3/L,2012,118.0,26,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Calcium Hardness,mg CaCO3/L,2012,114.0,26,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Calcium Hardness,mg CaCO3/L,2011,60.0,26,Baras River,Baras,Rizal
+tributary,23,Calcium Hardness,mg CaCO3/L,2012,79.0,26,Baras River,Baras,Rizal
+tributary,24,Calcium Hardness,mg CaCO3/L,2009,127.0,26,Morong River - Downstream,Morong,Rizal
+tributary,24,Calcium Hardness,mg CaCO3/L,2010,111.0,26,Morong River - Downstream,Morong,Rizal
+tributary,24,Calcium Hardness,mg CaCO3/L,2011,122.0,26,Morong River - Downstream,Morong,Rizal
+tributary,24,Calcium Hardness,mg CaCO3/L,2012,133.0,26,Morong River - Downstream,Morong,Rizal
+tributary,24U,Calcium Hardness,mg CaCO3/L,2012,131.0,26,Morong River - Upstream,Morong,Rizal
+tributary,25,Calcium Hardness,mg CaCO3/L,2009,82.0,26,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Calcium Hardness,mg CaCO3/L,2010,88.0,26,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Calcium Hardness,mg CaCO3/L,2011,82.0,26,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Calcium Hardness,mg CaCO3/L,2012,89.0,26,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Calcium Hardness,mg CaCO3/L,2009,84.0,26,Sapang Baho River,Cainta,Rizal
+tributary,26,Calcium Hardness,mg CaCO3/L,2010,90.0,26,Sapang Baho River,Cainta,Rizal
+tributary,26,Calcium Hardness,mg CaCO3/L,2011,84.0,26,Sapang Baho River,Cainta,Rizal
+tributary,26,Calcium Hardness,mg CaCO3/L,2012,81.0,26,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Chemical Oxygen Demand,mg/L,2009,6.0,29,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Chemical Oxygen Demand,mg/L,2010,41.0,29,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Chemical Oxygen Demand,mg/L,2011,33.0,29,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Chemical Oxygen Demand,mg/L,2012,21.0,29,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Chemical Oxygen Demand,mg/L,2009,22.0,29,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Chemical Oxygen Demand,mg/L,2010,18.0,29,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Chemical Oxygen Demand,mg/L,2011,19.0,29,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Chemical Oxygen Demand,mg/L,2012,18.0,29,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Chemical Oxygen Demand,mg/L,2009,3.0,29,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Chemical Oxygen Demand,mg/L,2010,25.0,29,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Chemical Oxygen Demand,mg/L,2011,22.0,29,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Chemical Oxygen Demand,mg/L,2012,16.0,29,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Chemical Oxygen Demand,mg/L,2009,4.0,29,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Chemical Oxygen Demand,mg/L,2010,25.0,29,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Chemical Oxygen Demand,mg/L,2011,22.0,29,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Chemical Oxygen Demand,mg/L,2012,18.0,29,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Chemical Oxygen Demand,mg/L,2009,5.0,29,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Chemical Oxygen Demand,mg/L,2010,21.0,29,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Chemical Oxygen Demand,mg/L,2011,23.0,29,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Chemical Oxygen Demand,mg/L,2012,17.0,29,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Chemical Oxygen Demand,mg/L,2012,18.0,29,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Chemical Oxygen Demand,mg/L,2012,16.0,29,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Chemical Oxygen Demand,mg/L,2012,18.0,29,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Chemical Oxygen Demand,mg/L,2012,21.0,29,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Chemical Oxygen Demand,mg/L,2009,29.0,30,Marikina River,Pasig / Marikina,NCR
+tributary,1,Chemical Oxygen Demand,mg/L,2010,35.0,30,Marikina River,Pasig / Marikina,NCR
+tributary,1,Chemical Oxygen Demand,mg/L,2011,31.0,30,Marikina River,Pasig / Marikina,NCR
+tributary,1,Chemical Oxygen Demand,mg/L,2012,32.0,30,Marikina River,Pasig / Marikina,NCR
+tributary,2,Chemical Oxygen Demand,mg/L,2009,138.0,30,Bagumbayan River,Taguig,NCR
+tributary,2,Chemical Oxygen Demand,mg/L,2010,332.0,30,Bagumbayan River,Taguig,NCR
+tributary,2,Chemical Oxygen Demand,mg/L,2011,169.0,30,Bagumbayan River,Taguig,NCR
+tributary,2,Chemical Oxygen Demand,mg/L,2012,134.0,30,Bagumbayan River,Taguig,NCR
+tributary,3,Chemical Oxygen Demand,mg/L,2009,125.0,30,Buli Creek,Taguig,NCR
+tributary,3,Chemical Oxygen Demand,mg/L,2010,361.0,30,Buli Creek,Taguig,NCR
+tributary,3,Chemical Oxygen Demand,mg/L,2011,248.0,30,Buli Creek,Taguig,NCR
+tributary,3,Chemical Oxygen Demand,mg/L,2012,225.0,30,Buli Creek,Taguig,NCR
+tributary,4,Chemical Oxygen Demand,mg/L,2009,84.0,30,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Chemical Oxygen Demand,mg/L,2010,158.0,30,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Chemical Oxygen Demand,mg/L,2011,70.0,30,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Chemical Oxygen Demand,mg/L,2012,75.0,30,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Chemical Oxygen Demand,mg/L,2012,71.0,30,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Chemical Oxygen Demand,mg/L,2009,572.0,30,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Chemical Oxygen Demand,mg/L,2010,227.0,30,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Chemical Oxygen Demand,mg/L,2011,244.0,30,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Chemical Oxygen Demand,mg/L,2012,249.0,30,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Chemical Oxygen Demand,mg/L,2012,40.0,30,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Chemical Oxygen Demand,mg/L,2009,75.0,30,San Pedro River,San Pedro,Laguna
+tributary,6,Chemical Oxygen Demand,mg/L,2010,61.0,30,San Pedro River,San Pedro,Laguna
+tributary,6,Chemical Oxygen Demand,mg/L,2011,142.0,30,San Pedro River,San Pedro,Laguna
+tributary,6,Chemical Oxygen Demand,mg/L,2012,62.0,30,San Pedro River,San Pedro,Laguna
+tributary,7,Chemical Oxygen Demand,mg/L,2011,42.0,30,Biñan River,Biñan,Laguna
+tributary,7,Chemical Oxygen Demand,mg/L,2012,87.0,30,Biñan River,Biñan,Laguna
+tributary,8,Chemical Oxygen Demand,mg/L,2011,44.0,30,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Chemical Oxygen Demand,mg/L,2012,38.0,30,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Chemical Oxygen Demand,mg/L,2012,52.0,30,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Chemical Oxygen Demand,mg/L,2012,45.0,30,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Chemical Oxygen Demand,mg/L,2009,55.0,30,Cabuyao River,Cabuyao,Laguna
+tributary,9,Chemical Oxygen Demand,mg/L,2010,23.0,30,Cabuyao River,Cabuyao,Laguna
+tributary,9,Chemical Oxygen Demand,mg/L,2011,46.0,30,Cabuyao River,Cabuyao,Laguna
+tributary,9,Chemical Oxygen Demand,mg/L,2012,40.0,30,Cabuyao River,Cabuyao,Laguna
+tributary,10,Chemical Oxygen Demand,mg/L,2009,79.0,30,San Cristobal River,Calamba,Laguna
+tributary,10,Chemical Oxygen Demand,mg/L,2010,195.0,30,San Cristobal River,Calamba,Laguna
+tributary,10,Chemical Oxygen Demand,mg/L,2011,133.0,30,San Cristobal River,Calamba,Laguna
+tributary,10,Chemical Oxygen Demand,mg/L,2012,66.0,30,San Cristobal River,Calamba,Laguna
+tributary,11,Chemical Oxygen Demand,mg/L,2009,51.0,30,San Juan River,Calamba,Laguna
+tributary,11,Chemical Oxygen Demand,mg/L,2010,25.0,30,San Juan River,Calamba,Laguna
+tributary,11,Chemical Oxygen Demand,mg/L,2011,21.0,30,San Juan River,Calamba,Laguna
+tributary,11,Chemical Oxygen Demand,mg/L,2012,29.0,30,San Juan River,Calamba,Laguna
+tributary,12,Chemical Oxygen Demand,mg/L,2011,16.0,30,Molawin Creek,Los Baños,Laguna
+tributary,12,Chemical Oxygen Demand,mg/L,2012,25.0,30,Molawin Creek,Los Baños,Laguna
+tributary,13,Chemical Oxygen Demand,mg/L,2009,38.0,30,Bay River,Bay,Laguna
+tributary,13,Chemical Oxygen Demand,mg/L,2010,21.0,30,Bay River,Bay,Laguna
+tributary,13,Chemical Oxygen Demand,mg/L,2011,21.0,30,Bay River,Bay,Laguna
+tributary,13,Chemical Oxygen Demand,mg/L,2012,21.0,30,Bay River,Bay,Laguna
+tributary,14,Chemical Oxygen Demand,mg/L,2011,15.0,30,Pila River,Pila,Laguna
+tributary,14,Chemical Oxygen Demand,mg/L,2012,30.0,30,Pila River,Pila,Laguna
+tributary,15,Chemical Oxygen Demand,mg/L,2009,28.0,30,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Chemical Oxygen Demand,mg/L,2010,33.0,30,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Chemical Oxygen Demand,mg/L,2011,9.0,30,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Chemical Oxygen Demand,mg/L,2012,30.0,30,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Chemical Oxygen Demand,mg/L,2009,36.0,30,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Chemical Oxygen Demand,mg/L,2010,97.0,30,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Chemical Oxygen Demand,mg/L,2011,15.0,30,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Chemical Oxygen Demand,mg/L,2012,19.0,30,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Chemical Oxygen Demand,mg/L,2009,15.0,30,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Chemical Oxygen Demand,mg/L,2010,17.0,30,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Chemical Oxygen Demand,mg/L,2011,8.0,30,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Chemical Oxygen Demand,mg/L,2012,26.0,30,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Chemical Oxygen Demand,mg/L,2012,12.0,30,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Chemical Oxygen Demand,mg/L,2009,30.0,30,Siniloan River,Siniloan,Laguna
+tributary,18,Chemical Oxygen Demand,mg/L,2010,22.0,30,Siniloan River,Siniloan,Laguna
+tributary,18,Chemical Oxygen Demand,mg/L,2011,17.0,30,Siniloan River,Siniloan,Laguna
+tributary,18,Chemical Oxygen Demand,mg/L,2012,21.0,30,Siniloan River,Siniloan,Laguna
+tributary,19,Chemical Oxygen Demand,mg/L,2011,16.0,30,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Chemical Oxygen Demand,mg/L,2012,17.0,30,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Chemical Oxygen Demand,mg/L,2012,8.0,30,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Chemical Oxygen Demand,mg/L,2012,9.0,30,Jala-jala River,Jalajala,Rizal
+tributary,21,Chemical Oxygen Demand,mg/L,2011,12.0,30,Pililla River,Pililla,Rizal
+tributary,21,Chemical Oxygen Demand,mg/L,2012,16.0,30,Pililla River,Pililla,Rizal
+tributary,22,Chemical Oxygen Demand,mg/L,2009,43.0,30,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Chemical Oxygen Demand,mg/L,2010,28.0,30,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Chemical Oxygen Demand,mg/L,2011,14.0,30,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Chemical Oxygen Demand,mg/L,2012,13.0,30,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Chemical Oxygen Demand,mg/L,2012,7.0,30,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Chemical Oxygen Demand,mg/L,2011,24.0,30,Baras River,Baras,Rizal
+tributary,23,Chemical Oxygen Demand,mg/L,2012,17.0,30,Baras River,Baras,Rizal
+tributary,24,Chemical Oxygen Demand,mg/L,2009,16.0,30,Morong River - Downstream,Morong,Rizal
+tributary,24,Chemical Oxygen Demand,mg/L,2010,38.0,30,Morong River - Downstream,Morong,Rizal
+tributary,24,Chemical Oxygen Demand,mg/L,2011,35.0,30,Morong River - Downstream,Morong,Rizal
+tributary,24,Chemical Oxygen Demand,mg/L,2012,33.0,30,Morong River - Downstream,Morong,Rizal
+tributary,24U,Chemical Oxygen Demand,mg/L,2012,50.0,30,Morong River - Upstream,Morong,Rizal
+tributary,25,Chemical Oxygen Demand,mg/L,2009,22.0,30,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Chemical Oxygen Demand,mg/L,2010,73.0,30,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Chemical Oxygen Demand,mg/L,2011,36.0,30,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Chemical Oxygen Demand,mg/L,2012,34.0,30,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Chemical Oxygen Demand,mg/L,2009,34.0,30,Sapang Baho River,Cainta,Rizal
+tributary,26,Chemical Oxygen Demand,mg/L,2010,37.0,30,Sapang Baho River,Cainta,Rizal
+tributary,26,Chemical Oxygen Demand,mg/L,2011,44.0,30,Sapang Baho River,Cainta,Rizal
+tributary,26,Chemical Oxygen Demand,mg/L,2012,46.0,30,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Chloride,mg/L,2009,45.0,33,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Chloride,mg/L,2010,342.0,33,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Chloride,mg/L,2011,146.0,33,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Chloride,mg/L,2012,60.0,33,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Chloride,mg/L,2009,36.0,33,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Chloride,mg/L,2010,102.0,33,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Chloride,mg/L,2011,123.0,33,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Chloride,mg/L,2012,41.0,33,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Chloride,mg/L,2009,46.0,33,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Chloride,mg/L,2010,220.0,33,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Chloride,mg/L,2011,155.0,33,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Chloride,mg/L,2012,52.0,33,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Chloride,mg/L,2009,44.0,33,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Chloride,mg/L,2010,459.0,33,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Chloride,mg/L,2011,134.0,33,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Chloride,mg/L,2012,48.0,33,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Chloride,mg/L,2009,35.0,33,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Chloride,mg/L,2010,99.0,33,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Chloride,mg/L,2011,117.0,33,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Chloride,mg/L,2012,42.0,33,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Chloride,mg/L,2012,52.0,33,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Chloride,mg/L,2012,51.0,33,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Chloride,mg/L,2012,50.0,33,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Chloride,mg/L,2012,38.0,33,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Chloride,mg/L,2009,29.0,34,Marikina River,Pasig / Marikina,NCR
+tributary,1,Chloride,mg/L,2010,35.0,34,Marikina River,Pasig / Marikina,NCR
+tributary,1,Chloride,mg/L,2011,31.0,34,Marikina River,Pasig / Marikina,NCR
+tributary,1,Chloride,mg/L,2012,32.0,34,Marikina River,Pasig / Marikina,NCR
+tributary,2,Chloride,mg/L,2009,104.0,34,Bagumbayan River,Taguig,NCR
+tributary,2,Chloride,mg/L,2010,148.0,34,Bagumbayan River,Taguig,NCR
+tributary,2,Chloride,mg/L,2011,117.0,34,Bagumbayan River,Taguig,NCR
+tributary,2,Chloride,mg/L,2012,96.0,34,Bagumbayan River,Taguig,NCR
+tributary,3,Chloride,mg/L,2009,87.0,34,Buli Creek,Taguig,NCR
+tributary,3,Chloride,mg/L,2010,115.0,34,Buli Creek,Taguig,NCR
+tributary,3,Chloride,mg/L,2011,115.0,34,Buli Creek,Taguig,NCR
+tributary,3,Chloride,mg/L,2012,75.0,34,Buli Creek,Taguig,NCR
+tributary,4,Chloride,mg/L,2009,71.0,34,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Chloride,mg/L,2010,116.0,34,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Chloride,mg/L,2011,117.0,34,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Chloride,mg/L,2012,70.0,34,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Chloride,mg/L,2012,58.0,34,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Chloride,mg/L,2009,71.0,34,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Chloride,mg/L,2010,116.0,34,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Chloride,mg/L,2011,117.0,34,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Chloride,mg/L,2012,70.0,34,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Chloride,mg/L,2012,62.0,34,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Chloride,mg/L,2009,53.0,34,San Pedro River,San Pedro,Laguna
+tributary,6,Chloride,mg/L,2010,76.0,34,San Pedro River,San Pedro,Laguna
+tributary,6,Chloride,mg/L,2011,71.0,34,San Pedro River,San Pedro,Laguna
+tributary,6,Chloride,mg/L,2012,56.0,34,San Pedro River,San Pedro,Laguna
+tributary,7,Chloride,mg/L,2011,69.0,34,Biñan River,Biñan,Laguna
+tributary,7,Chloride,mg/L,2012,77.0,34,Biñan River,Biñan,Laguna
+tributary,8,Chloride,mg/L,2011,100.0,34,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Chloride,mg/L,2012,77.0,34,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Chloride,mg/L,2012,76.0,34,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Chloride,mg/L,2012,36.0,34,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Chloride,mg/L,2009,47.0,34,Cabuyao River,Cabuyao,Laguna
+tributary,9,Chloride,mg/L,2010,56.0,34,Cabuyao River,Cabuyao,Laguna
+tributary,9,Chloride,mg/L,2011,76.0,34,Cabuyao River,Cabuyao,Laguna
+tributary,9,Chloride,mg/L,2012,56.0,34,Cabuyao River,Cabuyao,Laguna
+tributary,10,Chloride,mg/L,2009,99.0,34,San Cristobal River,Calamba,Laguna
+tributary,10,Chloride,mg/L,2010,118.0,34,San Cristobal River,Calamba,Laguna
+tributary,10,Chloride,mg/L,2011,122.0,34,San Cristobal River,Calamba,Laguna
+tributary,10,Chloride,mg/L,2012,83.0,34,San Cristobal River,Calamba,Laguna
+tributary,11,Chloride,mg/L,2009,39.0,34,San Juan River,Calamba,Laguna
+tributary,11,Chloride,mg/L,2010,60.0,34,San Juan River,Calamba,Laguna
+tributary,11,Chloride,mg/L,2011,69.0,34,San Juan River,Calamba,Laguna
+tributary,11,Chloride,mg/L,2012,57.0,34,San Juan River,Calamba,Laguna
+tributary,12,Chloride,mg/L,2011,42.0,34,Molawin Creek,Los Baños,Laguna
+tributary,12,Chloride,mg/L,2012,42.0,34,Molawin Creek,Los Baños,Laguna
+tributary,13,Chloride,mg/L,2009,18.0,34,Bay River,Bay,Laguna
+tributary,13,Chloride,mg/L,2010,26.0,34,Bay River,Bay,Laguna
+tributary,13,Chloride,mg/L,2011,21.0,34,Bay River,Bay,Laguna
+tributary,13,Chloride,mg/L,2012,26.0,34,Bay River,Bay,Laguna
+tributary,14,Chloride,mg/L,2011,15.0,34,Pila River,Pila,Laguna
+tributary,14,Chloride,mg/L,2012,22.0,34,Pila River,Pila,Laguna
+tributary,15,Chloride,mg/L,2009,12.0,34,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Chloride,mg/L,2010,19.0,34,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Chloride,mg/L,2011,16.0,34,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Chloride,mg/L,2012,18.0,34,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Chloride,mg/L,2009,11.0,34,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Chloride,mg/L,2010,17.0,34,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Chloride,mg/L,2011,17.0,34,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Chloride,mg/L,2012,18.0,34,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Chloride,mg/L,2009,16.0,34,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Chloride,mg/L,2010,14.0,34,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Chloride,mg/L,2011,12.0,34,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Chloride,mg/L,2012,19.0,34,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Chloride,mg/L,2012,18.0,34,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Chloride,mg/L,2009,13.0,34,Siniloan River,Siniloan,Laguna
+tributary,18,Chloride,mg/L,2010,19.0,34,Siniloan River,Siniloan,Laguna
+tributary,18,Chloride,mg/L,2011,15.0,34,Siniloan River,Siniloan,Laguna
+tributary,18,Chloride,mg/L,2012,24.0,34,Siniloan River,Siniloan,Laguna
+tributary,19,Chloride,mg/L,2011,15.0,34,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Chloride,mg/L,2012,19.0,34,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Chloride,mg/L,2012,19.0,34,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Chloride,mg/L,2012,20.0,34,Jala-jala River,Jalajala,Rizal
+tributary,21,Chloride,mg/L,2011,20.0,34,Pililla River,Pililla,Rizal
+tributary,21,Chloride,mg/L,2012,21.0,34,Pililla River,Pililla,Rizal
+tributary,22,Chloride,mg/L,2009,14.0,34,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Chloride,mg/L,2010,18.0,34,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Chloride,mg/L,2011,14.0,34,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Chloride,mg/L,2012,21.0,34,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Chloride,mg/L,2012,23.0,34,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Chloride,mg/L,2011,34.0,34,Baras River,Baras,Rizal
+tributary,23,Chloride,mg/L,2012,22.0,34,Baras River,Baras,Rizal
+tributary,24,Chloride,mg/L,2009,25.0,34,Morong River - Downstream,Morong,Rizal
+tributary,24,Chloride,mg/L,2010,36.0,34,Morong River - Downstream,Morong,Rizal
+tributary,24,Chloride,mg/L,2011,28.0,34,Morong River - Downstream,Morong,Rizal
+tributary,24,Chloride,mg/L,2012,34.0,34,Morong River - Downstream,Morong,Rizal
+tributary,24U,Chloride,mg/L,2012,34.0,34,Morong River - Upstream,Morong,Rizal
+tributary,25,Chloride,mg/L,2009,34.0,34,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Chloride,mg/L,2010,39.0,34,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Chloride,mg/L,2011,33.0,34,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Chloride,mg/L,2012,35.0,34,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Chloride,mg/L,2009,37.0,34,Sapang Baho River,Cainta,Rizal
+tributary,26,Chloride,mg/L,2010,46.0,34,Sapang Baho River,Cainta,Rizal
+tributary,26,Chloride,mg/L,2011,38.0,34,Sapang Baho River,Cainta,Rizal
+tributary,26,Chloride,mg/L,2012,33.0,34,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Dissolved Oxygen,mg/L,2009,7.8,37,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Dissolved Oxygen,mg/L,2010,9.1,37,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Dissolved Oxygen,mg/L,2011,7.7,37,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Dissolved Oxygen,mg/L,2012,7.6,37,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Dissolved Oxygen,mg/L,2009,9.0,37,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Dissolved Oxygen,mg/L,2010,8.0,37,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Dissolved Oxygen,mg/L,2011,8.2,37,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Dissolved Oxygen,mg/L,2012,7.9,37,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Dissolved Oxygen,mg/L,2009,8.1,37,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Dissolved Oxygen,mg/L,2010,8.8,37,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Dissolved Oxygen,mg/L,2011,8.5,37,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Dissolved Oxygen,mg/L,2012,8.0,37,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Dissolved Oxygen,mg/L,2009,8.0,37,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Dissolved Oxygen,mg/L,2010,8.6,37,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Dissolved Oxygen,mg/L,2011,7.4,37,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Dissolved Oxygen,mg/L,2012,7.5,37,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Dissolved Oxygen,mg/L,2009,8.4,37,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Dissolved Oxygen,mg/L,2010,8.0,37,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Dissolved Oxygen,mg/L,2011,8.1,37,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Dissolved Oxygen,mg/L,2012,8.1,37,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Dissolved Oxygen,mg/L,2012,8.2,37,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Dissolved Oxygen,mg/L,2012,8.1,37,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Dissolved Oxygen,mg/L,2012,7.9,37,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Dissolved Oxygen,mg/L,2012,8.0,37,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Dissolved Oxygen,mg/L,2009,2.9,38,Marikina River,Pasig / Marikina,NCR
+tributary,1,Dissolved Oxygen,mg/L,2010,2.1,38,Marikina River,Pasig / Marikina,NCR
+tributary,1,Dissolved Oxygen,mg/L,2011,1.9,38,Marikina River,Pasig / Marikina,NCR
+tributary,1,Dissolved Oxygen,mg/L,2012,1.9,38,Marikina River,Pasig / Marikina,NCR
+tributary,2,Dissolved Oxygen,mg/L,2009,2.5,38,Bagumbayan River,Taguig,NCR
+tributary,2,Dissolved Oxygen,mg/L,2010,0.1,38,Bagumbayan River,Taguig,NCR
+tributary,2,Dissolved Oxygen,mg/L,2011,0.5,38,Bagumbayan River,Taguig,NCR
+tributary,2,Dissolved Oxygen,mg/L,2012,0.3,38,Bagumbayan River,Taguig,NCR
+tributary,3,Dissolved Oxygen,mg/L,2009,1.7,38,Buli Creek,Taguig,NCR
+tributary,3,Dissolved Oxygen,mg/L,2010,0.1,38,Buli Creek,Taguig,NCR
+tributary,3,Dissolved Oxygen,mg/L,2011,0.1,38,Buli Creek,Taguig,NCR
+tributary,3,Dissolved Oxygen,mg/L,2012,0.2,38,Buli Creek,Taguig,NCR
+tributary,4,Dissolved Oxygen,mg/L,2009,1.8,38,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Dissolved Oxygen,mg/L,2010,0.1,38,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Dissolved Oxygen,mg/L,2011,0.2,38,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Dissolved Oxygen,mg/L,2012,1.3,38,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Dissolved Oxygen,mg/L,2012,3.6,38,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Dissolved Oxygen,mg/L,2009,0.9,38,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Dissolved Oxygen,mg/L,2010,0.1,38,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Dissolved Oxygen,mg/L,2011,0.2,38,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Dissolved Oxygen,mg/L,2012,0.1,38,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Dissolved Oxygen,mg/L,2012,4.1,38,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Dissolved Oxygen,mg/L,2009,2.7,38,San Pedro River,San Pedro,Laguna
+tributary,6,Dissolved Oxygen,mg/L,2010,0.2,38,San Pedro River,San Pedro,Laguna
+tributary,6,Dissolved Oxygen,mg/L,2011,1.3,38,San Pedro River,San Pedro,Laguna
+tributary,6,Dissolved Oxygen,mg/L,2012,1.2,38,San Pedro River,San Pedro,Laguna
+tributary,7,Dissolved Oxygen,mg/L,2011,0.6,38,Biñan River,Biñan,Laguna
+tributary,7,Dissolved Oxygen,mg/L,2012,0.6,38,Biñan River,Biñan,Laguna
+tributary,8,Dissolved Oxygen,mg/L,2011,1.1,38,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Dissolved Oxygen,mg/L,2012,2.2,38,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Dissolved Oxygen,mg/L,2012,2.0,38,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Dissolved Oxygen,mg/L,2012,5.8,38,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Dissolved Oxygen,mg/L,2009,3.5,38,Cabuyao River,Cabuyao,Laguna
+tributary,9,Dissolved Oxygen,mg/L,2010,0.6,38,Cabuyao River,Cabuyao,Laguna
+tributary,9,Dissolved Oxygen,mg/L,2011,0.7,38,Cabuyao River,Cabuyao,Laguna
+tributary,9,Dissolved Oxygen,mg/L,2012,0.8,38,Cabuyao River,Cabuyao,Laguna
+tributary,10,Dissolved Oxygen,mg/L,2009,4.3,38,San Cristobal River,Calamba,Laguna
+tributary,10,Dissolved Oxygen,mg/L,2010,1.3,38,San Cristobal River,Calamba,Laguna
+tributary,10,Dissolved Oxygen,mg/L,2011,1.2,38,San Cristobal River,Calamba,Laguna
+tributary,10,Dissolved Oxygen,mg/L,2012,2.0,38,San Cristobal River,Calamba,Laguna
+tributary,11,Dissolved Oxygen,mg/L,2009,4.5,38,San Juan River,Calamba,Laguna
+tributary,11,Dissolved Oxygen,mg/L,2010,3.6,38,San Juan River,Calamba,Laguna
+tributary,11,Dissolved Oxygen,mg/L,2011,2.8,38,San Juan River,Calamba,Laguna
+tributary,11,Dissolved Oxygen,mg/L,2012,3.0,38,San Juan River,Calamba,Laguna
+tributary,12,Dissolved Oxygen,mg/L,2011,4.4,38,Molawin Creek,Los Baños,Laguna
+tributary,12,Dissolved Oxygen,mg/L,2012,3.3,38,Molawin Creek,Los Baños,Laguna
+tributary,13,Dissolved Oxygen,mg/L,2009,7.3,38,Bay River,Bay,Laguna
+tributary,13,Dissolved Oxygen,mg/L,2010,7.0,38,Bay River,Bay,Laguna
+tributary,13,Dissolved Oxygen,mg/L,2011,6.6,38,Bay River,Bay,Laguna
+tributary,13,Dissolved Oxygen,mg/L,2012,6.8,38,Bay River,Bay,Laguna
+tributary,14,Dissolved Oxygen,mg/L,2011,5.1,38,Pila River,Pila,Laguna
+tributary,14,Dissolved Oxygen,mg/L,2012,4.8,38,Pila River,Pila,Laguna
+tributary,15,Dissolved Oxygen,mg/L,2009,6.7,38,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Dissolved Oxygen,mg/L,2010,7.0,38,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Dissolved Oxygen,mg/L,2011,6.5,38,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Dissolved Oxygen,mg/L,2012,6.5,38,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Dissolved Oxygen,mg/L,2009,7.2,38,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Dissolved Oxygen,mg/L,2010,7.0,38,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Dissolved Oxygen,mg/L,2011,7.3,38,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Dissolved Oxygen,mg/L,2012,6.4,38,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Dissolved Oxygen,mg/L,2009,8.2,38,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Dissolved Oxygen,mg/L,2010,7.1,38,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Dissolved Oxygen,mg/L,2011,7.3,38,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Dissolved Oxygen,mg/L,2012,7.3,38,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Dissolved Oxygen,mg/L,2012,7.4,38,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Dissolved Oxygen,mg/L,2009,3.4,38,Siniloan River,Siniloan,Laguna
+tributary,18,Dissolved Oxygen,mg/L,2010,5.4,38,Siniloan River,Siniloan,Laguna
+tributary,18,Dissolved Oxygen,mg/L,2011,4.6,38,Siniloan River,Siniloan,Laguna
+tributary,18,Dissolved Oxygen,mg/L,2012,2.7,38,Siniloan River,Siniloan,Laguna
+tributary,19,Dissolved Oxygen,mg/L,2011,6.5,38,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Dissolved Oxygen,mg/L,2012,6.5,38,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Dissolved Oxygen,mg/L,2012,8.4,38,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Dissolved Oxygen,mg/L,2012,6.0,38,Jala-jala River,Jalajala,Rizal
+tributary,21,Dissolved Oxygen,mg/L,2011,3.9,38,Pililla River,Pililla,Rizal
+tributary,21,Dissolved Oxygen,mg/L,2012,3.7,38,Pililla River,Pililla,Rizal
+tributary,22,Dissolved Oxygen,mg/L,2009,5.9,38,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Dissolved Oxygen,mg/L,2010,5.1,38,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Dissolved Oxygen,mg/L,2011,5.5,38,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Dissolved Oxygen,mg/L,2012,6.5,38,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Dissolved Oxygen,mg/L,2012,7.8,38,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Dissolved Oxygen,mg/L,2011,3.9,38,Baras River,Baras,Rizal
+tributary,23,Dissolved Oxygen,mg/L,2012,4.7,38,Baras River,Baras,Rizal
+tributary,24,Dissolved Oxygen,mg/L,2009,8.8,38,Morong River - Downstream,Morong,Rizal
+tributary,24,Dissolved Oxygen,mg/L,2010,5.0,38,Morong River - Downstream,Morong,Rizal
+tributary,24,Dissolved Oxygen,mg/L,2011,7.3,38,Morong River - Downstream,Morong,Rizal
+tributary,24,Dissolved Oxygen,mg/L,2012,4.9,38,Morong River - Downstream,Morong,Rizal
+tributary,24U,Dissolved Oxygen,mg/L,2012,6.4,38,Morong River - Upstream,Morong,Rizal
+tributary,25,Dissolved Oxygen,mg/L,2009,4.4,38,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Dissolved Oxygen,mg/L,2010,1.9,38,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Dissolved Oxygen,mg/L,2011,1.7,38,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Dissolved Oxygen,mg/L,2012,2.3,38,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Dissolved Oxygen,mg/L,2009,2.3,38,Sapang Baho River,Cainta,Rizal
+tributary,26,Dissolved Oxygen,mg/L,2010,1.0,38,Sapang Baho River,Cainta,Rizal
+tributary,26,Dissolved Oxygen,mg/L,2011,0.8,38,Sapang Baho River,Cainta,Rizal
+tributary,26,Dissolved Oxygen,mg/L,2012,1.8,38,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Inorganic Phosphate,mg/L,2009,0.084,41,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Inorganic Phosphate,mg/L,2010,0.108,41,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Inorganic Phosphate,mg/L,2011,0.102,41,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Inorganic Phosphate,mg/L,2012,0.112,41,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Inorganic Phosphate,mg/L,2009,0.084,41,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Inorganic Phosphate,mg/L,2010,0.085,41,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Inorganic Phosphate,mg/L,2011,0.035,41,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Inorganic Phosphate,mg/L,2012,0.128,41,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Inorganic Phosphate,mg/L,2009,0.089,41,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Inorganic Phosphate,mg/L,2010,0.088,41,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Inorganic Phosphate,mg/L,2011,0.045,41,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Inorganic Phosphate,mg/L,2012,0.11,41,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Inorganic Phosphate,mg/L,2009,0.091,41,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Inorganic Phosphate,mg/L,2010,0.19,41,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Inorganic Phosphate,mg/L,2011,0.061,41,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Inorganic Phosphate,mg/L,2012,0.139,41,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Inorganic Phosphate,mg/L,2009,0.095,41,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Inorganic Phosphate,mg/L,2010,0.105,41,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Inorganic Phosphate,mg/L,2011,0.075,41,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Inorganic Phosphate,mg/L,2012,0.111,41,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Inorganic Phosphate,mg/L,2012,0.11,41,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Inorganic Phosphate,mg/L,2012,0.101,41,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Inorganic Phosphate,mg/L,2012,0.098,41,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Inorganic Phosphate,mg/L,2012,0.055,41,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Inorganic Phosphate,mg/L,2009,0.6,42,Marikina River,Pasig / Marikina,NCR
+tributary,1,Inorganic Phosphate,mg/L,2010,1.77,42,Marikina River,Pasig / Marikina,NCR
+tributary,1,Inorganic Phosphate,mg/L,2011,0.48,42,Marikina River,Pasig / Marikina,NCR
+tributary,1,Inorganic Phosphate,mg/L,2012,0.42,42,Marikina River,Pasig / Marikina,NCR
+tributary,2,Inorganic Phosphate,mg/L,2009,2.25,42,Bagumbayan River,Taguig,NCR
+tributary,2,Inorganic Phosphate,mg/L,2010,8.32,42,Bagumbayan River,Taguig,NCR
+tributary,2,Inorganic Phosphate,mg/L,2011,1.48,42,Bagumbayan River,Taguig,NCR
+tributary,2,Inorganic Phosphate,mg/L,2012,1.37,42,Bagumbayan River,Taguig,NCR
+tributary,3,Inorganic Phosphate,mg/L,2009,2.19,42,Buli Creek,Taguig,NCR
+tributary,3,Inorganic Phosphate,mg/L,2010,7.95,42,Buli Creek,Taguig,NCR
+tributary,3,Inorganic Phosphate,mg/L,2011,1.83,42,Buli Creek,Taguig,NCR
+tributary,3,Inorganic Phosphate,mg/L,2012,1.63,42,Buli Creek,Taguig,NCR
+tributary,4,Inorganic Phosphate,mg/L,2009,1.55,42,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Inorganic Phosphate,mg/L,2010,6.36,42,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Inorganic Phosphate,mg/L,2011,1.35,42,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Inorganic Phosphate,mg/L,2012,0.77,42,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Inorganic Phosphate,mg/L,2012,0.78,42,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Inorganic Phosphate,mg/L,2009,4.56,42,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Inorganic Phosphate,mg/L,2010,17.43,42,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Inorganic Phosphate,mg/L,2011,2.35,42,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Inorganic Phosphate,mg/L,2012,2.15,42,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Inorganic Phosphate,mg/L,2012,0.87,42,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Inorganic Phosphate,mg/L,2009,2.91,42,San Pedro River,San Pedro,Laguna
+tributary,6,Inorganic Phosphate,mg/L,2010,8.56,42,San Pedro River,San Pedro,Laguna
+tributary,6,Inorganic Phosphate,mg/L,2011,1.93,42,San Pedro River,San Pedro,Laguna
+tributary,6,Inorganic Phosphate,mg/L,2012,1.55,42,San Pedro River,San Pedro,Laguna
+tributary,7,Inorganic Phosphate,mg/L,2011,0.96,42,Biñan River,Biñan,Laguna
+tributary,7,Inorganic Phosphate,mg/L,2012,1.19,42,Biñan River,Biñan,Laguna
+tributary,8,Inorganic Phosphate,mg/L,2011,1.43,42,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Inorganic Phosphate,mg/L,2012,0.9,42,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Inorganic Phosphate,mg/L,2012,0.74,42,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Inorganic Phosphate,mg/L,2012,0.57,42,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Inorganic Phosphate,mg/L,2009,1.56,42,Cabuyao River,Cabuyao,Laguna
+tributary,9,Inorganic Phosphate,mg/L,2010,3.78,42,Cabuyao River,Cabuyao,Laguna
+tributary,9,Inorganic Phosphate,mg/L,2011,1.02,42,Cabuyao River,Cabuyao,Laguna
+tributary,9,Inorganic Phosphate,mg/L,2012,1.05,42,Cabuyao River,Cabuyao,Laguna
+tributary,10,Inorganic Phosphate,mg/L,2009,0.82,42,San Cristobal River,Calamba,Laguna
+tributary,10,Inorganic Phosphate,mg/L,2010,1.58,42,San Cristobal River,Calamba,Laguna
+tributary,10,Inorganic Phosphate,mg/L,2011,0.46,42,San Cristobal River,Calamba,Laguna
+tributary,10,Inorganic Phosphate,mg/L,2012,0.5,42,San Cristobal River,Calamba,Laguna
+tributary,11,Inorganic Phosphate,mg/L,2009,1.21,42,San Juan River,Calamba,Laguna
+tributary,11,Inorganic Phosphate,mg/L,2010,2.19,42,San Juan River,Calamba,Laguna
+tributary,11,Inorganic Phosphate,mg/L,2011,0.75,42,San Juan River,Calamba,Laguna
+tributary,11,Inorganic Phosphate,mg/L,2012,0.58,42,San Juan River,Calamba,Laguna
+tributary,12,Inorganic Phosphate,mg/L,2011,0.36,42,Molawin Creek,Los Baños,Laguna
+tributary,12,Inorganic Phosphate,mg/L,2012,0.29,42,Molawin Creek,Los Baños,Laguna
+tributary,13,Inorganic Phosphate,mg/L,2009,0.6,42,Bay River,Bay,Laguna
+tributary,13,Inorganic Phosphate,mg/L,2010,0.87,42,Bay River,Bay,Laguna
+tributary,13,Inorganic Phosphate,mg/L,2011,0.32,42,Bay River,Bay,Laguna
+tributary,13,Inorganic Phosphate,mg/L,2012,0.31,42,Bay River,Bay,Laguna
+tributary,14,Inorganic Phosphate,mg/L,2011,0.14,42,Pila River,Pila,Laguna
+tributary,14,Inorganic Phosphate,mg/L,2012,0.21,42,Pila River,Pila,Laguna
+tributary,15,Inorganic Phosphate,mg/L,2009,0.54,42,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Inorganic Phosphate,mg/L,2010,1.0,42,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Inorganic Phosphate,mg/L,2011,0.32,42,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Inorganic Phosphate,mg/L,2012,0.33,42,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Inorganic Phosphate,mg/L,2009,0.1,42,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Inorganic Phosphate,mg/L,2010,0.23,42,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Inorganic Phosphate,mg/L,2011,0.09,42,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Inorganic Phosphate,mg/L,2012,0.06,42,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Inorganic Phosphate,mg/L,2009,0.1,42,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Inorganic Phosphate,mg/L,2010,0.26,42,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Inorganic Phosphate,mg/L,2011,0.07,42,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Inorganic Phosphate,mg/L,2012,0.08,42,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Inorganic Phosphate,mg/L,2012,0.06,42,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Inorganic Phosphate,mg/L,2009,0.27,42,Siniloan River,Siniloan,Laguna
+tributary,18,Inorganic Phosphate,mg/L,2010,0.63,42,Siniloan River,Siniloan,Laguna
+tributary,18,Inorganic Phosphate,mg/L,2011,0.09,42,Siniloan River,Siniloan,Laguna
+tributary,18,Inorganic Phosphate,mg/L,2012,0.09,42,Siniloan River,Siniloan,Laguna
+tributary,19,Inorganic Phosphate,mg/L,2011,0.07,42,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Inorganic Phosphate,mg/L,2012,0.07,42,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Inorganic Phosphate,mg/L,2012,0.06,42,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Inorganic Phosphate,mg/L,2012,0.32,42,Jala-jala River,Jalajala,Rizal
+tributary,21,Inorganic Phosphate,mg/L,2011,0.32,42,Pililla River,Pililla,Rizal
+tributary,21,Inorganic Phosphate,mg/L,2012,0.3,42,Pililla River,Pililla,Rizal
+tributary,22,Inorganic Phosphate,mg/L,2009,0.51,42,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Inorganic Phosphate,mg/L,2010,0.66,42,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Inorganic Phosphate,mg/L,2011,0.3,42,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Inorganic Phosphate,mg/L,2012,0.21,42,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Inorganic Phosphate,mg/L,2012,0.1,42,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Inorganic Phosphate,mg/L,2011,0.36,42,Baras River,Baras,Rizal
+tributary,23,Inorganic Phosphate,mg/L,2012,0.24,42,Baras River,Baras,Rizal
+tributary,24,Inorganic Phosphate,mg/L,2009,2.33,42,Morong River - Downstream,Morong,Rizal
+tributary,24,Inorganic Phosphate,mg/L,2010,4.43,42,Morong River - Downstream,Morong,Rizal
+tributary,24,Inorganic Phosphate,mg/L,2011,1.17,42,Morong River - Downstream,Morong,Rizal
+tributary,24,Inorganic Phosphate,mg/L,2012,1.25,42,Morong River - Downstream,Morong,Rizal
+tributary,24U,Inorganic Phosphate,mg/L,2012,1.24,42,Morong River - Upstream,Morong,Rizal
+tributary,25,Inorganic Phosphate,mg/L,2009,0.55,42,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Inorganic Phosphate,mg/L,2010,2.14,42,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Inorganic Phosphate,mg/L,2011,0.71,42,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Inorganic Phosphate,mg/L,2012,0.58,42,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Inorganic Phosphate,mg/L,2009,0.8,42,Sapang Baho River,Cainta,Rizal
+tributary,26,Inorganic Phosphate,mg/L,2010,3.56,42,Sapang Baho River,Cainta,Rizal
+tributary,26,Inorganic Phosphate,mg/L,2011,0.93,42,Sapang Baho River,Cainta,Rizal
+tributary,26,Inorganic Phosphate,mg/L,2012,0.75,42,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Nitrate,mg/L,2009,0.224,45,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Nitrate,mg/L,2010,0.224,45,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Nitrate,mg/L,2011,0.184,45,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Nitrate,mg/L,2012,0.181,45,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Nitrate,mg/L,2009,0.21,45,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Nitrate,mg/L,2010,0.206,45,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Nitrate,mg/L,2011,0.098,45,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Nitrate,mg/L,2012,0.121,45,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Nitrate,mg/L,2009,0.165,45,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Nitrate,mg/L,2010,0.142,45,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Nitrate,mg/L,2011,0.204,45,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Nitrate,mg/L,2012,0.165,45,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Nitrate,mg/L,2009,0.407,45,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Nitrate,mg/L,2010,0.32,45,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Nitrate,mg/L,2011,0.174,45,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Nitrate,mg/L,2012,0.159,45,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Nitrate,mg/L,2009,0.292,45,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Nitrate,mg/L,2010,0.181,45,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Nitrate,mg/L,2011,0.107,45,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Nitrate,mg/L,2012,0.147,45,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Nitrate,mg/L,2012,0.116,45,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Nitrate,mg/L,2012,0.12,45,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Nitrate,mg/L,2012,0.117,45,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Nitrate,mg/L,2012,0.038,45,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Nitrate,mg/L,2009,0.7,46,Marikina River,Pasig / Marikina,NCR
+tributary,1,Nitrate,mg/L,2010,0.5,46,Marikina River,Pasig / Marikina,NCR
+tributary,1,Nitrate,mg/L,2011,0.5,46,Marikina River,Pasig / Marikina,NCR
+tributary,1,Nitrate,mg/L,2012,0.3,46,Marikina River,Pasig / Marikina,NCR
+tributary,2,Nitrate,mg/L,2009,0.3,46,Bagumbayan River,Taguig,NCR
+tributary,2,Nitrate,mg/L,2010,0.2,46,Bagumbayan River,Taguig,NCR
+tributary,2,Nitrate,mg/L,2011,0.1,46,Bagumbayan River,Taguig,NCR
+tributary,2,Nitrate,mg/L,2012,0.1,46,Bagumbayan River,Taguig,NCR
+tributary,3,Nitrate,mg/L,2009,0.1,46,Buli Creek,Taguig,NCR
+tributary,3,Nitrate,mg/L,2010,0.3,46,Buli Creek,Taguig,NCR
+tributary,3,Nitrate,mg/L,2011,0.1,46,Buli Creek,Taguig,NCR
+tributary,3,Nitrate,mg/L,2012,0.1,46,Buli Creek,Taguig,NCR
+tributary,4,Nitrate,mg/L,2009,0.1,46,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Nitrate,mg/L,2010,0.2,46,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Nitrate,mg/L,2011,0.1,46,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Nitrate,mg/L,2012,0.1,46,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Nitrate,mg/L,2012,0.3,46,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Nitrate,mg/L,2009,0.1,46,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Nitrate,mg/L,2010,0.4,46,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Nitrate,mg/L,2011,0.2,46,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Nitrate,mg/L,2012,0.2,46,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Nitrate,mg/L,2012,2.2,46,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Nitrate,mg/L,2009,0.4,46,San Pedro River,San Pedro,Laguna
+tributary,6,Nitrate,mg/L,2010,0.2,46,San Pedro River,San Pedro,Laguna
+tributary,6,Nitrate,mg/L,2011,0.4,46,San Pedro River,San Pedro,Laguna
+tributary,6,Nitrate,mg/L,2012,0.7,46,San Pedro River,San Pedro,Laguna
+tributary,7,Nitrate,mg/L,2011,0.3,46,Biñan River,Biñan,Laguna
+tributary,7,Nitrate,mg/L,2012,0.3,46,Biñan River,Biñan,Laguna
+tributary,8,Nitrate,mg/L,2011,0.2,46,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Nitrate,mg/L,2012,0.3,46,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Nitrate,mg/L,2012,0.6,46,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Nitrate,mg/L,2012,1.5,46,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Nitrate,mg/L,2009,0.4,46,Cabuyao River,Cabuyao,Laguna
+tributary,9,Nitrate,mg/L,2010,0.3,46,Cabuyao River,Cabuyao,Laguna
+tributary,9,Nitrate,mg/L,2011,0.1,46,Cabuyao River,Cabuyao,Laguna
+tributary,9,Nitrate,mg/L,2012,0.1,46,Cabuyao River,Cabuyao,Laguna
+tributary,10,Nitrate,mg/L,2009,0.8,46,San Cristobal River,Calamba,Laguna
+tributary,10,Nitrate,mg/L,2010,0.1,46,San Cristobal River,Calamba,Laguna
+tributary,10,Nitrate,mg/L,2011,0.2,46,San Cristobal River,Calamba,Laguna
+tributary,10,Nitrate,mg/L,2012,0.2,46,San Cristobal River,Calamba,Laguna
+tributary,11,Nitrate,mg/L,2009,5.3,46,San Juan River,Calamba,Laguna
+tributary,11,Nitrate,mg/L,2010,6.8,46,San Juan River,Calamba,Laguna
+tributary,11,Nitrate,mg/L,2011,3.6,46,San Juan River,Calamba,Laguna
+tributary,11,Nitrate,mg/L,2012,5.9,46,San Juan River,Calamba,Laguna
+tributary,12,Nitrate,mg/L,2011,0.7,46,Molawin Creek,Los Baños,Laguna
+tributary,12,Nitrate,mg/L,2012,0.5,46,Molawin Creek,Los Baños,Laguna
+tributary,13,Nitrate,mg/L,2009,1.5,46,Bay River,Bay,Laguna
+tributary,13,Nitrate,mg/L,2010,0.9,46,Bay River,Bay,Laguna
+tributary,13,Nitrate,mg/L,2011,0.6,46,Bay River,Bay,Laguna
+tributary,13,Nitrate,mg/L,2012,0.7,46,Bay River,Bay,Laguna
+tributary,14,Nitrate,mg/L,2011,0.4,46,Pila River,Pila,Laguna
+tributary,14,Nitrate,mg/L,2012,0.4,46,Pila River,Pila,Laguna
+tributary,15,Nitrate,mg/L,2009,0.9,46,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Nitrate,mg/L,2010,0.6,46,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Nitrate,mg/L,2011,0.6,46,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Nitrate,mg/L,2012,0.9,46,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Nitrate,mg/L,2009,0.8,46,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Nitrate,mg/L,2010,0.4,46,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Nitrate,mg/L,2011,0.3,46,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Nitrate,mg/L,2012,0.3,46,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Nitrate,mg/L,2009,0.2,46,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Nitrate,mg/L,2010,0.4,46,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Nitrate,mg/L,2011,0.1,46,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Nitrate,mg/L,2012,0.1,46,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Nitrate,mg/L,2012,0.1,46,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Nitrate,mg/L,2009,0.3,46,Siniloan River,Siniloan,Laguna
+tributary,18,Nitrate,mg/L,2010,0.6,46,Siniloan River,Siniloan,Laguna
+tributary,18,Nitrate,mg/L,2011,0.3,46,Siniloan River,Siniloan,Laguna
+tributary,18,Nitrate,mg/L,2012,0.3,46,Siniloan River,Siniloan,Laguna
+tributary,19,Nitrate,mg/L,2011,0.3,46,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Nitrate,mg/L,2012,0.3,46,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Nitrate,mg/L,2012,0.2,46,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Nitrate,mg/L,2012,0.5,46,Jala-jala River,Jalajala,Rizal
+tributary,21,Nitrate,mg/L,2011,0.6,46,Pililla River,Pililla,Rizal
+tributary,21,Nitrate,mg/L,2012,0.5,46,Pililla River,Pililla,Rizal
+tributary,22,Nitrate,mg/L,2009,1.0,46,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Nitrate,mg/L,2010,1.2,46,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Nitrate,mg/L,2011,0.9,46,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Nitrate,mg/L,2012,1.0,46,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Nitrate,mg/L,2012,0.6,46,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Nitrate,mg/L,2011,0.9,46,Baras River,Baras,Rizal
+tributary,23,Nitrate,mg/L,2012,0.7,46,Baras River,Baras,Rizal
+tributary,24,Nitrate,mg/L,2009,3.1,46,Morong River - Downstream,Morong,Rizal
+tributary,24,Nitrate,mg/L,2010,1.8,46,Morong River - Downstream,Morong,Rizal
+tributary,24,Nitrate,mg/L,2011,1.4,46,Morong River - Downstream,Morong,Rizal
+tributary,24,Nitrate,mg/L,2012,1.9,46,Morong River - Downstream,Morong,Rizal
+tributary,24U,Nitrate,mg/L,2012,1.1,46,Morong River - Upstream,Morong,Rizal
+tributary,25,Nitrate,mg/L,2009,0.6,46,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Nitrate,mg/L,2010,0.4,46,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Nitrate,mg/L,2011,0.4,46,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Nitrate,mg/L,2012,0.2,46,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Nitrate,mg/L,2009,1.0,46,Sapang Baho River,Cainta,Rizal
+tributary,26,Nitrate,mg/L,2010,0.6,46,Sapang Baho River,Cainta,Rizal
+tributary,26,Nitrate,mg/L,2011,0.8,46,Sapang Baho River,Cainta,Rizal
+tributary,26,Nitrate,mg/L,2012,0.4,46,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Oil and Grease,mg/L,2009,1.0,49,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Oil and Grease,mg/L,2010,1.0,49,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Oil and Grease,mg/L,2011,2.0,49,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Oil and Grease,mg/L,2012,1.0,49,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Oil and Grease,mg/L,2009,1.0,49,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Oil and Grease,mg/L,2010,2.0,49,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Oil and Grease,mg/L,2011,2.0,49,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Oil and Grease,mg/L,2012,1.0,49,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Oil and Grease,mg/L,2009,1.0,49,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Oil and Grease,mg/L,2010,1.0,49,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Oil and Grease,mg/L,2011,1.0,49,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Oil and Grease,mg/L,2012,2.0,49,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Oil and Grease,mg/L,2009,2.0,49,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Oil and Grease,mg/L,2010,2.0,49,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Oil and Grease,mg/L,2011,2.0,49,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Oil and Grease,mg/L,2012,1.0,49,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Oil and Grease,mg/L,2009,1.0,49,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Oil and Grease,mg/L,2010,1.0,49,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Oil and Grease,mg/L,2011,2.0,49,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Oil and Grease,mg/L,2012,1.0,49,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Oil and Grease,mg/L,2012,1.0,49,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Oil and Grease,mg/L,2012,2.0,49,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Oil and Grease,mg/L,2012,2.0,49,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Oil and Grease,mg/L,2012,1.0,49,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Oil and Grease,mg/L,2009,1.0,50,Marikina River,Pasig / Marikina,NCR
+tributary,1,Oil and Grease,mg/L,2010,3.0,50,Marikina River,Pasig / Marikina,NCR
+tributary,1,Oil and Grease,mg/L,2011,2.0,50,Marikina River,Pasig / Marikina,NCR
+tributary,1,Oil and Grease,mg/L,2012,1.0,50,Marikina River,Pasig / Marikina,NCR
+tributary,2,Oil and Grease,mg/L,2009,1.0,50,Bagumbayan River,Taguig,NCR
+tributary,2,Oil and Grease,mg/L,2010,4.0,50,Bagumbayan River,Taguig,NCR
+tributary,2,Oil and Grease,mg/L,2011,3.0,50,Bagumbayan River,Taguig,NCR
+tributary,2,Oil and Grease,mg/L,2012,2.0,50,Bagumbayan River,Taguig,NCR
+tributary,3,Oil and Grease,mg/L,2009,3.0,50,Buli Creek,Taguig,NCR
+tributary,3,Oil and Grease,mg/L,2010,4.0,50,Buli Creek,Taguig,NCR
+tributary,3,Oil and Grease,mg/L,2011,4.0,50,Buli Creek,Taguig,NCR
+tributary,3,Oil and Grease,mg/L,2012,2.0,50,Buli Creek,Taguig,NCR
+tributary,4,Oil and Grease,mg/L,2009,3.0,50,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Oil and Grease,mg/L,2010,3.0,50,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Oil and Grease,mg/L,2011,2.0,50,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Oil and Grease,mg/L,2012,1.0,50,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Oil and Grease,mg/L,2012,1.0,50,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Oil and Grease,mg/L,2009,10.0,50,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Oil and Grease,mg/L,2010,5.0,50,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Oil and Grease,mg/L,2011,7.0,50,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Oil and Grease,mg/L,2012,4.0,50,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Oil and Grease,mg/L,2012,1.0,50,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Oil and Grease,mg/L,2009,1.0,50,San Pedro River,San Pedro,Laguna
+tributary,6,Oil and Grease,mg/L,2010,3.0,50,San Pedro River,San Pedro,Laguna
+tributary,6,Oil and Grease,mg/L,2011,4.0,50,San Pedro River,San Pedro,Laguna
+tributary,6,Oil and Grease,mg/L,2012,1.0,50,San Pedro River,San Pedro,Laguna
+tributary,7,Oil and Grease,mg/L,2011,2.0,50,Biñan River,Biñan,Laguna
+tributary,7,Oil and Grease,mg/L,2012,1.0,50,Biñan River,Biñan,Laguna
+tributary,8,Oil and Grease,mg/L,2011,2.0,50,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Oil and Grease,mg/L,2012,1.0,50,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Oil and Grease,mg/L,2012,3.0,50,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Oil and Grease,mg/L,2012,2.0,50,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Oil and Grease,mg/L,2009,2.0,50,Cabuyao River,Cabuyao,Laguna
+tributary,9,Oil and Grease,mg/L,2010,2.0,50,Cabuyao River,Cabuyao,Laguna
+tributary,9,Oil and Grease,mg/L,2011,2.0,50,Cabuyao River,Cabuyao,Laguna
+tributary,9,Oil and Grease,mg/L,2012,1.0,50,Cabuyao River,Cabuyao,Laguna
+tributary,10,Oil and Grease,mg/L,2009,2.0,50,San Cristobal River,Calamba,Laguna
+tributary,10,Oil and Grease,mg/L,2010,2.0,50,San Cristobal River,Calamba,Laguna
+tributary,10,Oil and Grease,mg/L,2011,2.0,50,San Cristobal River,Calamba,Laguna
+tributary,10,Oil and Grease,mg/L,2012,2.0,50,San Cristobal River,Calamba,Laguna
+tributary,11,Oil and Grease,mg/L,2009,1.0,50,San Juan River,Calamba,Laguna
+tributary,11,Oil and Grease,mg/L,2010,2.0,50,San Juan River,Calamba,Laguna
+tributary,11,Oil and Grease,mg/L,2011,2.0,50,San Juan River,Calamba,Laguna
+tributary,11,Oil and Grease,mg/L,2012,2.0,50,San Juan River,Calamba,Laguna
+tributary,12,Oil and Grease,mg/L,2011,2.0,50,Molawin Creek,Los Baños,Laguna
+tributary,12,Oil and Grease,mg/L,2012,1.0,50,Molawin Creek,Los Baños,Laguna
+tributary,13,Oil and Grease,mg/L,2009,1.0,50,Bay River,Bay,Laguna
+tributary,13,Oil and Grease,mg/L,2010,1.0,50,Bay River,Bay,Laguna
+tributary,13,Oil and Grease,mg/L,2011,1.0,50,Bay River,Bay,Laguna
+tributary,13,Oil and Grease,mg/L,2012,1.0,50,Bay River,Bay,Laguna
+tributary,14,Oil and Grease,mg/L,2011,2.0,50,Pila River,Pila,Laguna
+tributary,14,Oil and Grease,mg/L,2012,2.0,50,Pila River,Pila,Laguna
+tributary,15,Oil and Grease,mg/L,2009,1.0,50,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Oil and Grease,mg/L,2010,1.0,50,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Oil and Grease,mg/L,2011,2.0,50,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Oil and Grease,mg/L,2012,2.0,50,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Oil and Grease,mg/L,2009,1.0,50,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Oil and Grease,mg/L,2010,1.0,50,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Oil and Grease,mg/L,2011,2.0,50,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Oil and Grease,mg/L,2012,2.0,50,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Oil and Grease,mg/L,2009,1.0,50,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Oil and Grease,mg/L,2010,1.0,50,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Oil and Grease,mg/L,2011,2.0,50,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Oil and Grease,mg/L,2012,2.0,50,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Oil and Grease,mg/L,2012,1.0,50,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Oil and Grease,mg/L,2009,1.0,50,Siniloan River,Siniloan,Laguna
+tributary,18,Oil and Grease,mg/L,2010,1.0,50,Siniloan River,Siniloan,Laguna
+tributary,18,Oil and Grease,mg/L,2011,2.0,50,Siniloan River,Siniloan,Laguna
+tributary,18,Oil and Grease,mg/L,2012,1.0,50,Siniloan River,Siniloan,Laguna
+tributary,19,Oil and Grease,mg/L,2011,2.0,50,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Oil and Grease,mg/L,2012,1.0,50,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Oil and Grease,mg/L,2012,1.0,50,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Oil and Grease,mg/L,2012,2.0,50,Jala-jala River,Jalajala,Rizal
+tributary,21,Oil and Grease,mg/L,2011,2.0,50,Pililla River,Pililla,Rizal
+tributary,21,Oil and Grease,mg/L,2012,1.0,50,Pililla River,Pililla,Rizal
+tributary,22,Oil and Grease,mg/L,2009,1.0,50,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Oil and Grease,mg/L,2010,2.0,50,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Oil and Grease,mg/L,2011,2.0,50,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Oil and Grease,mg/L,2012,1.0,50,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Oil and Grease,mg/L,2012,1.0,50,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Oil and Grease,mg/L,2011,2.0,50,Baras River,Baras,Rizal
+tributary,23,Oil and Grease,mg/L,2012,2.0,50,Baras River,Baras,Rizal
+tributary,24,Oil and Grease,mg/L,2009,2.0,50,Morong River - Downstream,Morong,Rizal
+tributary,24,Oil and Grease,mg/L,2010,2.0,50,Morong River - Downstream,Morong,Rizal
+tributary,24,Oil and Grease,mg/L,2011,2.0,50,Morong River - Downstream,Morong,Rizal
+tributary,24,Oil and Grease,mg/L,2012,1.0,50,Morong River - Downstream,Morong,Rizal
+tributary,24U,Oil and Grease,mg/L,2012,1.0,50,Morong River - Upstream,Morong,Rizal
+tributary,25,Oil and Grease,mg/L,2009,1.0,50,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Oil and Grease,mg/L,2010,2.0,50,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Oil and Grease,mg/L,2011,2.0,50,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Oil and Grease,mg/L,2012,1.0,50,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Oil and Grease,mg/L,2009,1.0,50,Sapang Baho River,Cainta,Rizal
+tributary,26,Oil and Grease,mg/L,2010,2.0,50,Sapang Baho River,Cainta,Rizal
+tributary,26,Oil and Grease,mg/L,2011,3.0,50,Sapang Baho River,Cainta,Rizal
+tributary,26,Oil and Grease,mg/L,2012,1.0,50,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,pH,units,2009,8.3,53,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,pH,units,2010,8.0,53,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,pH,units,2011,7.7,53,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,pH,units,2012,8.5,53,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,pH,units,2009,8.3,53,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,pH,units,2010,8.2,53,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,pH,units,2011,7.8,53,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,pH,units,2012,8.6,53,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,pH,units,2009,8.2,53,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,pH,units,2010,8.4,53,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,pH,units,2011,8.0,53,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,pH,units,2012,8.6,53,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,pH,units,2009,8.3,53,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,pH,units,2010,8.2,53,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,pH,units,2011,7.8,53,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,pH,units,2012,8.4,53,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,pH,units,2009,8.3,53,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,pH,units,2010,8.1,53,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,pH,units,2011,7.9,53,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,pH,units,2012,8.3,53,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,pH,units,2012,8.7,53,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,pH,units,2012,8.6,53,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,pH,units,2012,8.7,53,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,pH,units,2012,8.7,53,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,pH,units,2009,7.3,54,Marikina River,Pasig / Marikina,NCR
+tributary,1,pH,units,2010,7.1,54,Marikina River,Pasig / Marikina,NCR
+tributary,1,pH,units,2011,7.1,54,Marikina River,Pasig / Marikina,NCR
+tributary,1,pH,units,2012,7.5,54,Marikina River,Pasig / Marikina,NCR
+tributary,2,pH,units,2009,7.5,54,Bagumbayan River,Taguig,NCR
+tributary,2,pH,units,2010,7.3,54,Bagumbayan River,Taguig,NCR
+tributary,2,pH,units,2011,7.1,54,Bagumbayan River,Taguig,NCR
+tributary,2,pH,units,2012,7.5,54,Bagumbayan River,Taguig,NCR
+tributary,3,pH,units,2009,7.5,54,Buli Creek,Taguig,NCR
+tributary,3,pH,units,2010,7.5,54,Buli Creek,Taguig,NCR
+tributary,3,pH,units,2011,7.2,54,Buli Creek,Taguig,NCR
+tributary,3,pH,units,2012,7.4,54,Buli Creek,Taguig,NCR
+tributary,4,pH,units,2009,7.5,54,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,pH,units,2010,7.4,54,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,pH,units,2011,7.3,54,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,pH,units,2012,7.4,54,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,pH,units,2012,7.7,54,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,pH,units,2009,7.2,54,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,pH,units,2010,7.2,54,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,pH,units,2011,7.0,54,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,pH,units,2012,7.3,54,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,pH,units,2012,7.9,54,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,pH,units,2009,7.5,54,San Pedro River,San Pedro,Laguna
+tributary,6,pH,units,2010,7.5,54,San Pedro River,San Pedro,Laguna
+tributary,6,pH,units,2011,7.4,54,San Pedro River,San Pedro,Laguna
+tributary,6,pH,units,2012,7.7,54,San Pedro River,San Pedro,Laguna
+tributary,7,pH,units,2011,7.3,54,Biñan River,Biñan,Laguna
+tributary,7,pH,units,2012,7.7,54,Biñan River,Biñan,Laguna
+tributary,8,pH,units,2011,7.4,54,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,pH,units,2012,7.6,54,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,pH,units,2012,7.7,54,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,pH,units,2012,7.9,54,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,pH,units,2009,7.5,54,Cabuyao River,Cabuyao,Laguna
+tributary,9,pH,units,2010,7.4,54,Cabuyao River,Cabuyao,Laguna
+tributary,9,pH,units,2011,7.3,54,Cabuyao River,Cabuyao,Laguna
+tributary,9,pH,units,2012,7.6,54,Cabuyao River,Cabuyao,Laguna
+tributary,10,pH,units,2009,7.4,54,San Cristobal River,Calamba,Laguna
+tributary,10,pH,units,2010,7.0,54,San Cristobal River,Calamba,Laguna
+tributary,10,pH,units,2011,7.0,54,San Cristobal River,Calamba,Laguna
+tributary,10,pH,units,2012,7.4,54,San Cristobal River,Calamba,Laguna
+tributary,11,pH,units,2009,7.2,54,San Juan River,Calamba,Laguna
+tributary,11,pH,units,2010,7.1,54,San Juan River,Calamba,Laguna
+tributary,11,pH,units,2011,7.0,54,San Juan River,Calamba,Laguna
+tributary,11,pH,units,2012,7.4,54,San Juan River,Calamba,Laguna
+tributary,12,pH,units,2011,7.2,54,Molawin Creek,Los Baños,Laguna
+tributary,12,pH,units,2012,7.5,54,Molawin Creek,Los Baños,Laguna
+tributary,13,pH,units,2009,7.9,54,Bay River,Bay,Laguna
+tributary,13,pH,units,2010,7.7,54,Bay River,Bay,Laguna
+tributary,13,pH,units,2011,7.7,54,Bay River,Bay,Laguna
+tributary,13,pH,units,2012,8.1,54,Bay River,Bay,Laguna
+tributary,14,pH,units,2011,7.2,54,Pila River,Pila,Laguna
+tributary,14,pH,units,2012,7.5,54,Pila River,Pila,Laguna
+tributary,15,pH,units,2009,7.5,54,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,pH,units,2010,7.4,54,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,pH,units,2011,7.3,54,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,pH,units,2012,7.6,54,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,pH,units,2009,7.3,54,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,pH,units,2010,7.4,54,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,pH,units,2011,7.1,54,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,pH,units,2012,7.4,54,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,pH,units,2009,7.4,54,Pangil River - Downstream,Pangil,Laguna
+tributary,17,pH,units,2010,7.3,54,Pangil River - Downstream,Pangil,Laguna
+tributary,17,pH,units,2011,6.9,54,Pangil River - Downstream,Pangil,Laguna
+tributary,17,pH,units,2012,7.6,54,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,pH,units,2012,7.4,54,Pangil River - Upstream,Pangil,Laguna
+tributary,18,pH,units,2009,6.8,54,Siniloan River,Siniloan,Laguna
+tributary,18,pH,units,2010,7.0,54,Siniloan River,Siniloan,Laguna
+tributary,18,pH,units,2011,6.8,54,Siniloan River,Siniloan,Laguna
+tributary,18,pH,units,2012,7.1,54,Siniloan River,Siniloan,Laguna
+tributary,19,pH,units,2011,7.1,54,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,pH,units,2012,7.8,54,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,pH,units,2012,8.5,54,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,pH,units,2012,7.5,54,Jala-jala River,Jalajala,Rizal
+tributary,21,pH,units,2011,7.0,54,Pililla River,Pililla,Rizal
+tributary,21,pH,units,2012,7.5,54,Pililla River,Pililla,Rizal
+tributary,22,pH,units,2009,7.6,54,Tanay River - Downstream,Tanay,Rizal
+tributary,22,pH,units,2010,7.5,54,Tanay River - Downstream,Tanay,Rizal
+tributary,22,pH,units,2011,7.6,54,Tanay River - Downstream,Tanay,Rizal
+tributary,22,pH,units,2012,8.1,54,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,pH,units,2012,8.6,54,Tanay River - Upstream,Tanay,Rizal
+tributary,23,pH,units,2011,6.9,54,Baras River,Baras,Rizal
+tributary,23,pH,units,2012,7.4,54,Baras River,Baras,Rizal
+tributary,24,pH,units,2009,7.9,54,Morong River - Downstream,Morong,Rizal
+tributary,24,pH,units,2010,7.5,54,Morong River - Downstream,Morong,Rizal
+tributary,24,pH,units,2011,7.7,54,Morong River - Downstream,Morong,Rizal
+tributary,24,pH,units,2012,8.1,54,Morong River - Downstream,Morong,Rizal
+tributary,24U,pH,units,2012,8.0,54,Morong River - Upstream,Morong,Rizal
+tributary,25,pH,units,2009,7.4,54,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,pH,units,2010,7.3,54,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,pH,units,2011,7.2,54,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,pH,units,2012,7.5,54,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,pH,units,2009,7.3,54,Sapang Baho River,Cainta,Rizal
+tributary,26,pH,units,2010,7.0,54,Sapang Baho River,Cainta,Rizal
+tributary,26,pH,units,2011,7.1,54,Sapang Baho River,Cainta,Rizal
+tributary,26,pH,units,2012,7.4,54,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Temperature,oC,2009,27.0,57,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Temperature,oC,2010,29.0,57,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Temperature,oC,2011,28.0,57,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Temperature,oC,2012,29.0,57,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Temperature,oC,2009,27.0,57,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Temperature,oC,2010,29.0,57,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Temperature,oC,2011,28.0,57,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Temperature,oC,2012,29.0,57,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Temperature,oC,2009,27.0,57,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Temperature,oC,2010,29.0,57,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Temperature,oC,2011,29.0,57,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Temperature,oC,2012,28.0,57,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Temperature,oC,2009,27.0,57,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Temperature,oC,2010,29.0,57,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Temperature,oC,2011,29.0,57,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Temperature,oC,2012,28.0,57,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Temperature,oC,2009,27.0,57,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Temperature,oC,2010,29.0,57,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Temperature,oC,2011,28.0,57,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Temperature,oC,2012,29.0,57,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Temperature,oC,2012,29.0,57,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Temperature,oC,2012,29.0,57,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Temperature,oC,2012,29.0,57,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Temperature,oC,2012,29.0,57,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Temperature,oC,2009,27.0,58,Marikina River,Pasig / Marikina,NCR
+tributary,1,Temperature,oC,2010,28.0,58,Marikina River,Pasig / Marikina,NCR
+tributary,1,Temperature,oC,2011,27.0,58,Marikina River,Pasig / Marikina,NCR
+tributary,1,Temperature,oC,2012,28.0,58,Marikina River,Pasig / Marikina,NCR
+tributary,2,Temperature,oC,2009,28.0,58,Bagumbayan River,Taguig,NCR
+tributary,2,Temperature,oC,2010,28.0,58,Bagumbayan River,Taguig,NCR
+tributary,2,Temperature,oC,2011,28.0,58,Bagumbayan River,Taguig,NCR
+tributary,2,Temperature,oC,2012,29.0,58,Bagumbayan River,Taguig,NCR
+tributary,3,Temperature,oC,2009,28.0,58,Buli Creek,Taguig,NCR
+tributary,3,Temperature,oC,2010,29.0,58,Buli Creek,Taguig,NCR
+tributary,3,Temperature,oC,2011,28.0,58,Buli Creek,Taguig,NCR
+tributary,3,Temperature,oC,2012,30.0,58,Buli Creek,Taguig,NCR
+tributary,4,Temperature,oC,2009,28.0,58,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Temperature,oC,2010,29.0,58,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Temperature,oC,2011,29.0,58,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Temperature,oC,2012,29.0,58,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Temperature,oC,2012,28.0,58,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Temperature,oC,2009,32.0,58,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Temperature,oC,2010,33.0,58,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Temperature,oC,2011,32.0,58,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Temperature,oC,2012,31.0,58,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Temperature,oC,2012,28.0,58,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Temperature,oC,2009,28.0,58,San Pedro River,San Pedro,Laguna
+tributary,6,Temperature,oC,2010,29.0,58,San Pedro River,San Pedro,Laguna
+tributary,6,Temperature,oC,2011,28.0,58,San Pedro River,San Pedro,Laguna
+tributary,6,Temperature,oC,2012,29.0,58,San Pedro River,San Pedro,Laguna
+tributary,7,Temperature,oC,2011,29.0,58,Biñan River,Biñan,Laguna
+tributary,7,Temperature,oC,2012,28.0,58,Biñan River,Biñan,Laguna
+tributary,8,Temperature,oC,2011,30.0,58,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Temperature,oC,2012,29.0,58,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Temperature,oC,2012,29.0,58,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Temperature,oC,2012,29.0,58,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Temperature,oC,2009,27.0,58,Cabuyao River,Cabuyao,Laguna
+tributary,9,Temperature,oC,2010,29.0,58,Cabuyao River,Cabuyao,Laguna
+tributary,9,Temperature,oC,2011,29.0,58,Cabuyao River,Cabuyao,Laguna
+tributary,9,Temperature,oC,2012,30.0,58,Cabuyao River,Cabuyao,Laguna
+tributary,10,Temperature,oC,2009,28.0,58,San Cristobal River,Calamba,Laguna
+tributary,10,Temperature,oC,2010,28.0,58,San Cristobal River,Calamba,Laguna
+tributary,10,Temperature,oC,2011,27.0,58,San Cristobal River,Calamba,Laguna
+tributary,10,Temperature,oC,2012,27.0,58,San Cristobal River,Calamba,Laguna
+tributary,11,Temperature,oC,2009,28.0,58,San Juan River,Calamba,Laguna
+tributary,11,Temperature,oC,2010,27.0,58,San Juan River,Calamba,Laguna
+tributary,11,Temperature,oC,2011,26.0,58,San Juan River,Calamba,Laguna
+tributary,11,Temperature,oC,2012,27.0,58,San Juan River,Calamba,Laguna
+tributary,12,Temperature,oC,2011,28.0,58,Molawin Creek,Los Baños,Laguna
+tributary,12,Temperature,oC,2012,29.0,58,Molawin Creek,Los Baños,Laguna
+tributary,13,Temperature,oC,2009,28.0,58,Bay River,Bay,Laguna
+tributary,13,Temperature,oC,2010,28.0,58,Bay River,Bay,Laguna
+tributary,13,Temperature,oC,2011,27.0,58,Bay River,Bay,Laguna
+tributary,13,Temperature,oC,2012,29.0,58,Bay River,Bay,Laguna
+tributary,14,Temperature,oC,2011,27.0,58,Pila River,Pila,Laguna
+tributary,14,Temperature,oC,2012,29.0,58,Pila River,Pila,Laguna
+tributary,15,Temperature,oC,2009,27.0,58,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Temperature,oC,2010,29.0,58,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Temperature,oC,2011,27.0,58,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Temperature,oC,2012,29.0,58,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Temperature,oC,2009,27.0,58,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Temperature,oC,2010,28.0,58,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Temperature,oC,2011,27.0,58,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Temperature,oC,2012,29.0,58,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Temperature,oC,2009,30.0,58,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Temperature,oC,2010,28.0,58,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Temperature,oC,2011,26.0,58,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Temperature,oC,2012,27.0,58,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Temperature,oC,2012,28.0,58,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Temperature,oC,2009,28.0,58,Siniloan River,Siniloan,Laguna
+tributary,18,Temperature,oC,2010,29.0,58,Siniloan River,Siniloan,Laguna
+tributary,18,Temperature,oC,2011,32.0,58,Siniloan River,Siniloan,Laguna
+tributary,18,Temperature,oC,2012,26.0,58,Siniloan River,Siniloan,Laguna
+tributary,19,Temperature,oC,2011,28.0,58,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Temperature,oC,2012,27.0,58,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Temperature,oC,2012,27.0,58,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Temperature,oC,2012,27.0,58,Jala-jala River,Jalajala,Rizal
+tributary,21,Temperature,oC,2011,27.0,58,Pililla River,Pililla,Rizal
+tributary,21,Temperature,oC,2012,28.0,58,Pililla River,Pililla,Rizal
+tributary,22,Temperature,oC,2009,29.0,58,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Temperature,oC,2010,28.0,58,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Temperature,oC,2011,26.0,58,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Temperature,oC,2012,30.0,58,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Temperature,oC,2012,29.0,58,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Temperature,oC,2011,27.0,58,Baras River,Baras,Rizal
+tributary,23,Temperature,oC,2012,29.0,58,Baras River,Baras,Rizal
+tributary,24,Temperature,oC,2009,29.0,58,Morong River - Downstream,Morong,Rizal
+tributary,24,Temperature,oC,2010,29.0,58,Morong River - Downstream,Morong,Rizal
+tributary,24,Temperature,oC,2011,28.0,58,Morong River - Downstream,Morong,Rizal
+tributary,24,Temperature,oC,2012,30.0,58,Morong River - Downstream,Morong,Rizal
+tributary,24U,Temperature,oC,2012,29.0,58,Morong River - Upstream,Morong,Rizal
+tributary,25,Temperature,oC,2009,28.0,58,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Temperature,oC,2010,28.0,58,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Temperature,oC,2011,26.0,58,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Temperature,oC,2012,28.0,58,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Temperature,oC,2009,28.0,58,Sapang Baho River,Cainta,Rizal
+tributary,26,Temperature,oC,2010,28.0,58,Sapang Baho River,Cainta,Rizal
+tributary,26,Temperature,oC,2011,28.0,58,Sapang Baho River,Cainta,Rizal
+tributary,26,Temperature,oC,2012,28.0,58,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Total Dissolved Solids,mg/L,2009,212.0,61,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Dissolved Solids,mg/L,2010,613.0,61,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Dissolved Solids,mg/L,2011,364.0,61,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Dissolved Solids,mg/L,2012,212.0,61,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Dissolved Solids,mg/L,2009,185.0,61,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Dissolved Solids,mg/L,2010,412.0,61,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Dissolved Solids,mg/L,2011,307.0,61,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Dissolved Solids,mg/L,2012,170.0,61,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Dissolved Solids,mg/L,2009,223.0,61,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Dissolved Solids,mg/L,2010,698.0,61,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Dissolved Solids,mg/L,2011,381.0,61,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Dissolved Solids,mg/L,2012,202.0,61,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Dissolved Solids,mg/L,2009,208.0,61,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Dissolved Solids,mg/L,2010,421.0,61,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Dissolved Solids,mg/L,2011,348.0,61,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Dissolved Solids,mg/L,2012,204.0,61,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Dissolved Solids,mg/L,2009,195.0,61,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Dissolved Solids,mg/L,2010,395.0,61,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Dissolved Solids,mg/L,2011,315.0,61,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Dissolved Solids,mg/L,2012,221.0,61,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Total Dissolved Solids,mg/L,2012,196.0,61,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Total Dissolved Solids,mg/L,2012,222.0,61,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Total Dissolved Solids,mg/L,2012,347.0,61,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Total Dissolved Solids,mg/L,2012,238.0,61,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Total Dissolved Solids,mg/L,2009,483.0,62,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Dissolved Solids,mg/L,2010,182.0,62,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Dissolved Solids,mg/L,2011,323.0,62,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Dissolved Solids,mg/L,2012,315.0,62,Marikina River,Pasig / Marikina,NCR
+tributary,2,Total Dissolved Solids,mg/L,2009,687.0,62,Bagumbayan River,Taguig,NCR
+tributary,2,Total Dissolved Solids,mg/L,2010,680.0,62,Bagumbayan River,Taguig,NCR
+tributary,2,Total Dissolved Solids,mg/L,2011,526.0,62,Bagumbayan River,Taguig,NCR
+tributary,2,Total Dissolved Solids,mg/L,2012,415.0,62,Bagumbayan River,Taguig,NCR
+tributary,3,Total Dissolved Solids,mg/L,2009,615.0,62,Buli Creek,Taguig,NCR
+tributary,3,Total Dissolved Solids,mg/L,2010,664.0,62,Buli Creek,Taguig,NCR
+tributary,3,Total Dissolved Solids,mg/L,2011,602.0,62,Buli Creek,Taguig,NCR
+tributary,3,Total Dissolved Solids,mg/L,2012,458.0,62,Buli Creek,Taguig,NCR
+tributary,4,Total Dissolved Solids,mg/L,2009,504.0,62,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Dissolved Solids,mg/L,2010,577.0,62,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Dissolved Solids,mg/L,2011,491.0,62,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Dissolved Solids,mg/L,2012,343.0,62,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Total Dissolved Solids,mg/L,2012,329.0,62,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Total Dissolved Solids,mg/L,2009,731.0,62,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Dissolved Solids,mg/L,2010,619.0,62,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Dissolved Solids,mg/L,2011,622.0,62,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Dissolved Solids,mg/L,2012,520.0,62,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Total Dissolved Solids,mg/L,2012,421.0,62,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Total Dissolved Solids,mg/L,2009,491.0,62,San Pedro River,San Pedro,Laguna
+tributary,6,Total Dissolved Solids,mg/L,2010,612.0,62,San Pedro River,San Pedro,Laguna
+tributary,6,Total Dissolved Solids,mg/L,2011,617.0,62,San Pedro River,San Pedro,Laguna
+tributary,6,Total Dissolved Solids,mg/L,2012,573.0,62,San Pedro River,San Pedro,Laguna
+tributary,7,Total Dissolved Solids,mg/L,2011,465.0,62,Biñan River,Biñan,Laguna
+tributary,7,Total Dissolved Solids,mg/L,2012,586.0,62,Biñan River,Biñan,Laguna
+tributary,8,Total Dissolved Solids,mg/L,2011,640.0,62,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Total Dissolved Solids,mg/L,2012,548.0,62,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Total Dissolved Solids,mg/L,2012,541.0,62,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Total Dissolved Solids,mg/L,2012,314.0,62,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Total Dissolved Solids,mg/L,2009,487.0,62,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Dissolved Solids,mg/L,2010,457.0,62,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Dissolved Solids,mg/L,2011,542.0,62,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Dissolved Solids,mg/L,2012,501.0,62,Cabuyao River,Cabuyao,Laguna
+tributary,10,Total Dissolved Solids,mg/L,2009,1093.0,62,San Cristobal River,Calamba,Laguna
+tributary,10,Total Dissolved Solids,mg/L,2010,690.0,62,San Cristobal River,Calamba,Laguna
+tributary,10,Total Dissolved Solids,mg/L,2011,2324.0,62,San Cristobal River,Calamba,Laguna
+tributary,10,Total Dissolved Solids,mg/L,2012,551.0,62,San Cristobal River,Calamba,Laguna
+tributary,11,Total Dissolved Solids,mg/L,2009,422.0,62,San Juan River,Calamba,Laguna
+tributary,11,Total Dissolved Solids,mg/L,2010,499.0,62,San Juan River,Calamba,Laguna
+tributary,11,Total Dissolved Solids,mg/L,2011,562.0,62,San Juan River,Calamba,Laguna
+tributary,11,Total Dissolved Solids,mg/L,2012,510.0,62,San Juan River,Calamba,Laguna
+tributary,12,Total Dissolved Solids,mg/L,2011,327.0,62,Molawin Creek,Los Baños,Laguna
+tributary,12,Total Dissolved Solids,mg/L,2012,355.0,62,Molawin Creek,Los Baños,Laguna
+tributary,13,Total Dissolved Solids,mg/L,2009,344.0,62,Bay River,Bay,Laguna
+tributary,13,Total Dissolved Solids,mg/L,2010,285.0,62,Bay River,Bay,Laguna
+tributary,13,Total Dissolved Solids,mg/L,2011,344.0,62,Bay River,Bay,Laguna
+tributary,13,Total Dissolved Solids,mg/L,2012,377.0,62,Bay River,Bay,Laguna
+tributary,14,Total Dissolved Solids,mg/L,2011,205.0,62,Pila River,Pila,Laguna
+tributary,14,Total Dissolved Solids,mg/L,2012,257.0,62,Pila River,Pila,Laguna
+tributary,15,Total Dissolved Solids,mg/L,2009,178.0,62,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Dissolved Solids,mg/L,2010,209.0,62,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Dissolved Solids,mg/L,2011,196.0,62,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Dissolved Solids,mg/L,2012,215.0,62,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Total Dissolved Solids,mg/L,2009,102.0,62,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Dissolved Solids,mg/L,2010,166.0,62,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Dissolved Solids,mg/L,2011,104.0,62,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Dissolved Solids,mg/L,2012,129.0,62,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Total Dissolved Solids,mg/L,2009,97.0,62,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Dissolved Solids,mg/L,2010,84.0,62,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Dissolved Solids,mg/L,2011,99.0,62,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Dissolved Solids,mg/L,2012,141.0,62,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Total Dissolved Solids,mg/L,2012,121.0,62,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Total Dissolved Solids,mg/L,2009,98.0,62,Siniloan River,Siniloan,Laguna
+tributary,18,Total Dissolved Solids,mg/L,2010,78.0,62,Siniloan River,Siniloan,Laguna
+tributary,18,Total Dissolved Solids,mg/L,2011,103.0,62,Siniloan River,Siniloan,Laguna
+tributary,18,Total Dissolved Solids,mg/L,2012,139.0,62,Siniloan River,Siniloan,Laguna
+tributary,19,Total Dissolved Solids,mg/L,2011,155.0,62,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Total Dissolved Solids,mg/L,2012,223.0,62,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Total Dissolved Solids,mg/L,2012,135.0,62,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Total Dissolved Solids,mg/L,2012,483.0,62,Jala-jala River,Jalajala,Rizal
+tributary,21,Total Dissolved Solids,mg/L,2011,244.0,62,Pililla River,Pililla,Rizal
+tributary,21,Total Dissolved Solids,mg/L,2012,232.0,62,Pililla River,Pililla,Rizal
+tributary,22,Total Dissolved Solids,mg/L,2009,264.0,62,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Dissolved Solids,mg/L,2010,248.0,62,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Dissolved Solids,mg/L,2011,261.0,62,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Dissolved Solids,mg/L,2012,271.0,62,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Total Dissolved Solids,mg/L,2012,246.0,62,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Total Dissolved Solids,mg/L,2011,247.0,62,Baras River,Baras,Rizal
+tributary,23,Total Dissolved Solids,mg/L,2012,208.0,62,Baras River,Baras,Rizal
+tributary,24,Total Dissolved Solids,mg/L,2009,400.0,62,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Dissolved Solids,mg/L,2010,304.0,62,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Dissolved Solids,mg/L,2011,395.0,62,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Dissolved Solids,mg/L,2012,420.0,62,Morong River - Downstream,Morong,Rizal
+tributary,24U,Total Dissolved Solids,mg/L,2012,421.0,62,Morong River - Upstream,Morong,Rizal
+tributary,25,Total Dissolved Solids,mg/L,2009,266.0,62,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Dissolved Solids,mg/L,2010,215.0,62,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Dissolved Solids,mg/L,2011,246.0,62,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Dissolved Solids,mg/L,2012,286.0,62,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Total Dissolved Solids,mg/L,2009,306.0,62,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Dissolved Solids,mg/L,2010,232.0,62,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Dissolved Solids,mg/L,2011,289.0,62,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Dissolved Solids,mg/L,2012,280.0,62,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Total Hardness,mg CaCO3/L,2009,97.0,65,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Hardness,mg CaCO3/L,2010,188.0,65,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Hardness,mg CaCO3/L,2011,106.0,65,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Hardness,mg CaCO3/L,2012,139.0,65,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Hardness,mg CaCO3/L,2009,82.0,65,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Hardness,mg CaCO3/L,2010,140.0,65,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Hardness,mg CaCO3/L,2011,97.0,65,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Hardness,mg CaCO3/L,2012,117.0,65,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Hardness,mg CaCO3/L,2009,91.0,65,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Hardness,mg CaCO3/L,2010,158.0,65,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Hardness,mg CaCO3/L,2011,111.0,65,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Hardness,mg CaCO3/L,2012,126.0,65,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Hardness,mg CaCO3/L,2009,92.0,65,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Hardness,mg CaCO3/L,2010,193.0,65,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Hardness,mg CaCO3/L,2011,106.0,65,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Hardness,mg CaCO3/L,2012,114.0,65,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Hardness,mg CaCO3/L,2009,89.0,65,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Hardness,mg CaCO3/L,2010,113.0,65,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Hardness,mg CaCO3/L,2011,103.0,65,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Hardness,mg CaCO3/L,2012,133.0,65,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Total Hardness,mg CaCO3/L,2012,117.0,65,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Total Hardness,mg CaCO3/L,2012,133.0,65,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Total Hardness,mg CaCO3/L,2012,119.0,65,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Total Hardness,mg CaCO3/L,2012,110.0,65,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Total Hardness,mg CaCO3/L,2009,143.0,66,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Hardness,mg CaCO3/L,2010,157.0,66,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Hardness,mg CaCO3/L,2011,138.0,66,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Hardness,mg CaCO3/L,2012,209.0,66,Marikina River,Pasig / Marikina,NCR
+tributary,2,Total Hardness,mg CaCO3/L,2009,201.0,66,Bagumbayan River,Taguig,NCR
+tributary,2,Total Hardness,mg CaCO3/L,2010,220.0,66,Bagumbayan River,Taguig,NCR
+tributary,2,Total Hardness,mg CaCO3/L,2011,179.0,66,Bagumbayan River,Taguig,NCR
+tributary,2,Total Hardness,mg CaCO3/L,2012,211.0,66,Bagumbayan River,Taguig,NCR
+tributary,3,Total Hardness,mg CaCO3/L,2009,167.0,66,Buli Creek,Taguig,NCR
+tributary,3,Total Hardness,mg CaCO3/L,2010,167.0,66,Buli Creek,Taguig,NCR
+tributary,3,Total Hardness,mg CaCO3/L,2011,157.0,66,Buli Creek,Taguig,NCR
+tributary,3,Total Hardness,mg CaCO3/L,2012,190.0,66,Buli Creek,Taguig,NCR
+tributary,4,Total Hardness,mg CaCO3/L,2009,169.0,66,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Hardness,mg CaCO3/L,2010,182.0,66,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Hardness,mg CaCO3/L,2011,146.0,66,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Hardness,mg CaCO3/L,2012,155.0,66,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Total Hardness,mg CaCO3/L,2012,174.0,66,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Total Hardness,mg CaCO3/L,2009,181.0,66,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Hardness,mg CaCO3/L,2010,201.0,66,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Hardness,mg CaCO3/L,2011,175.0,66,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Hardness,mg CaCO3/L,2012,212.0,66,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Total Hardness,mg CaCO3/L,2012,193.0,66,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Total Hardness,mg CaCO3/L,2009,174.0,66,San Pedro River,San Pedro,Laguna
+tributary,6,Total Hardness,mg CaCO3/L,2010,209.0,66,San Pedro River,San Pedro,Laguna
+tributary,6,Total Hardness,mg CaCO3/L,2011,213.0,66,San Pedro River,San Pedro,Laguna
+tributary,6,Total Hardness,mg CaCO3/L,2012,215.0,66,San Pedro River,San Pedro,Laguna
+tributary,7,Total Hardness,mg CaCO3/L,2011,175.0,66,Biñan River,Biñan,Laguna
+tributary,7,Total Hardness,mg CaCO3/L,2012,235.0,66,Biñan River,Biñan,Laguna
+tributary,8,Total Hardness,mg CaCO3/L,2011,220.0,66,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Total Hardness,mg CaCO3/L,2012,227.0,66,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Total Hardness,mg CaCO3/L,2012,190.0,66,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Total Hardness,mg CaCO3/L,2012,182.0,66,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Total Hardness,mg CaCO3/L,2009,187.0,66,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Hardness,mg CaCO3/L,2010,196.0,66,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Hardness,mg CaCO3/L,2011,195.0,66,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Hardness,mg CaCO3/L,2012,221.0,66,Cabuyao River,Cabuyao,Laguna
+tributary,10,Total Hardness,mg CaCO3/L,2009,163.0,66,San Cristobal River,Calamba,Laguna
+tributary,10,Total Hardness,mg CaCO3/L,2010,174.0,66,San Cristobal River,Calamba,Laguna
+tributary,10,Total Hardness,mg CaCO3/L,2011,168.0,66,San Cristobal River,Calamba,Laguna
+tributary,10,Total Hardness,mg CaCO3/L,2012,230.0,66,San Cristobal River,Calamba,Laguna
+tributary,11,Total Hardness,mg CaCO3/L,2009,180.0,66,San Juan River,Calamba,Laguna
+tributary,11,Total Hardness,mg CaCO3/L,2010,177.0,66,San Juan River,Calamba,Laguna
+tributary,11,Total Hardness,mg CaCO3/L,2011,176.0,66,San Juan River,Calamba,Laguna
+tributary,11,Total Hardness,mg CaCO3/L,2012,202.0,66,San Juan River,Calamba,Laguna
+tributary,12,Total Hardness,mg CaCO3/L,2011,142.0,66,Molawin Creek,Los Baños,Laguna
+tributary,12,Total Hardness,mg CaCO3/L,2012,205.0,66,Molawin Creek,Los Baños,Laguna
+tributary,13,Total Hardness,mg CaCO3/L,2009,182.0,66,Bay River,Bay,Laguna
+tributary,13,Total Hardness,mg CaCO3/L,2010,177.0,66,Bay River,Bay,Laguna
+tributary,13,Total Hardness,mg CaCO3/L,2011,184.0,66,Bay River,Bay,Laguna
+tributary,13,Total Hardness,mg CaCO3/L,2012,213.0,66,Bay River,Bay,Laguna
+tributary,14,Total Hardness,mg CaCO3/L,2011,105.0,66,Pila River,Pila,Laguna
+tributary,14,Total Hardness,mg CaCO3/L,2012,149.0,66,Pila River,Pila,Laguna
+tributary,15,Total Hardness,mg CaCO3/L,2009,87.0,66,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Hardness,mg CaCO3/L,2010,101.0,66,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Hardness,mg CaCO3/L,2011,95.0,66,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Hardness,mg CaCO3/L,2012,158.0,66,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Total Hardness,mg CaCO3/L,2009,58.0,66,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Hardness,mg CaCO3/L,2010,73.0,66,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Hardness,mg CaCO3/L,2011,42.0,66,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Hardness,mg CaCO3/L,2012,102.0,66,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Total Hardness,mg CaCO3/L,2009,55.0,66,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Hardness,mg CaCO3/L,2010,67.0,66,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Hardness,mg CaCO3/L,2011,47.0,66,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Hardness,mg CaCO3/L,2012,85.0,66,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Total Hardness,mg CaCO3/L,2012,95.0,66,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Total Hardness,mg CaCO3/L,2009,53.0,66,Siniloan River,Siniloan,Laguna
+tributary,18,Total Hardness,mg CaCO3/L,2010,71.0,66,Siniloan River,Siniloan,Laguna
+tributary,18,Total Hardness,mg CaCO3/L,2011,45.0,66,Siniloan River,Siniloan,Laguna
+tributary,18,Total Hardness,mg CaCO3/L,2012,104.0,66,Siniloan River,Siniloan,Laguna
+tributary,19,Total Hardness,mg CaCO3/L,2011,79.0,66,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Total Hardness,mg CaCO3/L,2012,120.0,66,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Total Hardness,mg CaCO3/L,2012,100.0,66,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Total Hardness,mg CaCO3/L,2012,211.0,66,Jala-jala River,Jalajala,Rizal
+tributary,21,Total Hardness,mg CaCO3/L,2011,107.0,66,Pililla River,Pililla,Rizal
+tributary,21,Total Hardness,mg CaCO3/L,2012,167.0,66,Pililla River,Pililla,Rizal
+tributary,22,Total Hardness,mg CaCO3/L,2009,205.0,66,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Hardness,mg CaCO3/L,2010,198.0,66,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Hardness,mg CaCO3/L,2011,189.0,66,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Hardness,mg CaCO3/L,2012,213.0,66,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Total Hardness,mg CaCO3/L,2012,194.0,66,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Total Hardness,mg CaCO3/L,2011,247.0,66,Baras River,Baras,Rizal
+tributary,23,Total Hardness,mg CaCO3/L,2012,208.0,66,Baras River,Baras,Rizal
+tributary,24,Total Hardness,mg CaCO3/L,2009,220.0,66,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Hardness,mg CaCO3/L,2010,205.0,66,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Hardness,mg CaCO3/L,2011,201.0,66,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Hardness,mg CaCO3/L,2012,236.0,66,Morong River - Downstream,Morong,Rizal
+tributary,24U,Total Hardness,mg CaCO3/L,2012,232.0,66,Morong River - Upstream,Morong,Rizal
+tributary,25,Total Hardness,mg CaCO3/L,2009,143.0,66,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Hardness,mg CaCO3/L,2010,149.0,66,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Hardness,mg CaCO3/L,2011,131.0,66,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Hardness,mg CaCO3/L,2012,169.0,66,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Total Hardness,mg CaCO3/L,2009,153.0,66,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Hardness,mg CaCO3/L,2010,173.0,66,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Hardness,mg CaCO3/L,2011,137.0,66,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Hardness,mg CaCO3/L,2012,175.0,66,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Total Suspended Solids,mg/L,2009,32.0,69,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Suspended Solids,mg/L,2010,32.0,69,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Suspended Solids,mg/L,2011,34.0,69,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Suspended Solids,mg/L,2012,54.0,69,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Suspended Solids,mg/L,2009,40.0,69,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Suspended Solids,mg/L,2010,39.0,69,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Suspended Solids,mg/L,2011,40.0,69,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Suspended Solids,mg/L,2012,33.0,69,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Suspended Solids,mg/L,2009,52.0,69,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Suspended Solids,mg/L,2010,14.0,69,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Suspended Solids,mg/L,2011,24.0,69,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Suspended Solids,mg/L,2012,41.0,69,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Suspended Solids,mg/L,2009,48.0,69,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Suspended Solids,mg/L,2010,32.0,69,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Suspended Solids,mg/L,2011,37.0,69,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Suspended Solids,mg/L,2012,46.0,69,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Suspended Solids,mg/L,2009,58.0,69,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Suspended Solids,mg/L,2010,57.0,69,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Suspended Solids,mg/L,2011,74.0,69,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Suspended Solids,mg/L,2012,38.0,69,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Total Suspended Solids,mg/L,2012,39.0,69,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Total Suspended Solids,mg/L,2012,49.0,69,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Total Suspended Solids,mg/L,2012,37.0,69,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Total Suspended Solids,mg/L,2012,67.0,69,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Total Suspended Solids,mg/L,2009,41.0,70,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Suspended Solids,mg/L,2010,57.0,70,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Suspended Solids,mg/L,2011,106.0,70,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Suspended Solids,mg/L,2012,92.0,70,Marikina River,Pasig / Marikina,NCR
+tributary,2,Total Suspended Solids,mg/L,2009,36.0,70,Bagumbayan River,Taguig,NCR
+tributary,2,Total Suspended Solids,mg/L,2010,514.0,70,Bagumbayan River,Taguig,NCR
+tributary,2,Total Suspended Solids,mg/L,2011,40.0,70,Bagumbayan River,Taguig,NCR
+tributary,2,Total Suspended Solids,mg/L,2012,25.0,70,Bagumbayan River,Taguig,NCR
+tributary,3,Total Suspended Solids,mg/L,2009,63.0,70,Buli Creek,Taguig,NCR
+tributary,3,Total Suspended Solids,mg/L,2010,107.0,70,Buli Creek,Taguig,NCR
+tributary,3,Total Suspended Solids,mg/L,2011,62.0,70,Buli Creek,Taguig,NCR
+tributary,3,Total Suspended Solids,mg/L,2012,34.0,70,Buli Creek,Taguig,NCR
+tributary,4,Total Suspended Solids,mg/L,2009,22.0,70,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Suspended Solids,mg/L,2010,42.0,70,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Suspended Solids,mg/L,2011,27.0,70,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Suspended Solids,mg/L,2012,25.0,70,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Total Suspended Solids,mg/L,2012,30.0,70,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Total Suspended Solids,mg/L,2009,260.0,70,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Suspended Solids,mg/L,2010,58.0,70,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Suspended Solids,mg/L,2011,77.0,70,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Suspended Solids,mg/L,2012,63.0,70,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Total Suspended Solids,mg/L,2012,28.0,70,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Total Suspended Solids,mg/L,2009,38.0,70,San Pedro River,San Pedro,Laguna
+tributary,6,Total Suspended Solids,mg/L,2010,34.0,70,San Pedro River,San Pedro,Laguna
+tributary,6,Total Suspended Solids,mg/L,2011,186.0,70,San Pedro River,San Pedro,Laguna
+tributary,6,Total Suspended Solids,mg/L,2012,40.0,70,San Pedro River,San Pedro,Laguna
+tributary,7,Total Suspended Solids,mg/L,2011,21.0,70,Biñan River,Biñan,Laguna
+tributary,7,Total Suspended Solids,mg/L,2012,165.0,70,Biñan River,Biñan,Laguna
+tributary,8,Total Suspended Solids,mg/L,2011,33.0,70,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Total Suspended Solids,mg/L,2012,36.0,70,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Total Suspended Solids,mg/L,2012,67.0,70,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Total Suspended Solids,mg/L,2012,19.0,70,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Total Suspended Solids,mg/L,2009,39.0,70,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Suspended Solids,mg/L,2010,14.0,70,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Suspended Solids,mg/L,2011,20.0,70,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Suspended Solids,mg/L,2012,24.0,70,Cabuyao River,Cabuyao,Laguna
+tributary,10,Total Suspended Solids,mg/L,2009,126.0,70,San Cristobal River,Calamba,Laguna
+tributary,10,Total Suspended Solids,mg/L,2010,53.0,70,San Cristobal River,Calamba,Laguna
+tributary,10,Total Suspended Solids,mg/L,2011,57.0,70,San Cristobal River,Calamba,Laguna
+tributary,10,Total Suspended Solids,mg/L,2012,45.0,70,San Cristobal River,Calamba,Laguna
+tributary,11,Total Suspended Solids,mg/L,2009,101.0,70,San Juan River,Calamba,Laguna
+tributary,11,Total Suspended Solids,mg/L,2010,8.0,70,San Juan River,Calamba,Laguna
+tributary,11,Total Suspended Solids,mg/L,2011,24.0,70,San Juan River,Calamba,Laguna
+tributary,11,Total Suspended Solids,mg/L,2012,36.0,70,San Juan River,Calamba,Laguna
+tributary,12,Total Suspended Solids,mg/L,2011,26.0,70,Molawin Creek,Los Baños,Laguna
+tributary,12,Total Suspended Solids,mg/L,2012,33.0,70,Molawin Creek,Los Baños,Laguna
+tributary,13,Total Suspended Solids,mg/L,2009,48.0,70,Bay River,Bay,Laguna
+tributary,13,Total Suspended Solids,mg/L,2010,53.0,70,Bay River,Bay,Laguna
+tributary,13,Total Suspended Solids,mg/L,2011,49.0,70,Bay River,Bay,Laguna
+tributary,13,Total Suspended Solids,mg/L,2012,36.0,70,Bay River,Bay,Laguna
+tributary,14,Total Suspended Solids,mg/L,2011,52.0,70,Pila River,Pila,Laguna
+tributary,14,Total Suspended Solids,mg/L,2012,53.0,70,Pila River,Pila,Laguna
+tributary,15,Total Suspended Solids,mg/L,2009,10.0,70,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Suspended Solids,mg/L,2010,10.0,70,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Suspended Solids,mg/L,2011,14.0,70,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Suspended Solids,mg/L,2012,14.0,70,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Total Suspended Solids,mg/L,2009,15.0,70,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Suspended Solids,mg/L,2010,12.0,70,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Suspended Solids,mg/L,2011,15.0,70,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Suspended Solids,mg/L,2012,13.0,70,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Total Suspended Solids,mg/L,2009,10.0,70,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Suspended Solids,mg/L,2010,17.0,70,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Suspended Solids,mg/L,2011,11.0,70,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Suspended Solids,mg/L,2012,13.0,70,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Total Suspended Solids,mg/L,2012,12.0,70,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Total Suspended Solids,mg/L,2009,28.0,70,Siniloan River,Siniloan,Laguna
+tributary,18,Total Suspended Solids,mg/L,2010,49.0,70,Siniloan River,Siniloan,Laguna
+tributary,18,Total Suspended Solids,mg/L,2011,28.0,70,Siniloan River,Siniloan,Laguna
+tributary,18,Total Suspended Solids,mg/L,2012,22.0,70,Siniloan River,Siniloan,Laguna
+tributary,19,Total Suspended Solids,mg/L,2011,33.0,70,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Total Suspended Solids,mg/L,2012,39.0,70,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Total Suspended Solids,mg/L,2012,28.0,70,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Total Suspended Solids,mg/L,2012,14.0,70,Jala-jala River,Jalajala,Rizal
+tributary,21,Total Suspended Solids,mg/L,2011,15.0,70,Pililla River,Pililla,Rizal
+tributary,21,Total Suspended Solids,mg/L,2012,16.0,70,Pililla River,Pililla,Rizal
+tributary,22,Total Suspended Solids,mg/L,2009,21.0,70,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Suspended Solids,mg/L,2010,42.0,70,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Suspended Solids,mg/L,2011,20.0,70,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Suspended Solids,mg/L,2012,18.0,70,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Total Suspended Solids,mg/L,2012,18.0,70,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Total Suspended Solids,mg/L,2011,27.0,70,Baras River,Baras,Rizal
+tributary,23,Total Suspended Solids,mg/L,2012,30.0,70,Baras River,Baras,Rizal
+tributary,24,Total Suspended Solids,mg/L,2009,22.0,70,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Suspended Solids,mg/L,2010,35.0,70,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Suspended Solids,mg/L,2011,136.0,70,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Suspended Solids,mg/L,2012,32.0,70,Morong River - Downstream,Morong,Rizal
+tributary,24U,Total Suspended Solids,mg/L,2012,58.0,70,Morong River - Upstream,Morong,Rizal
+tributary,25,Total Suspended Solids,mg/L,2009,31.0,70,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Suspended Solids,mg/L,2010,30.0,70,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Suspended Solids,mg/L,2011,209.0,70,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Suspended Solids,mg/L,2012,55.0,70,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Total Suspended Solids,mg/L,2009,23.0,70,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Suspended Solids,mg/L,2010,16.0,70,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Suspended Solids,mg/L,2011,47.0,70,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Suspended Solids,mg/L,2012,30.0,70,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Transparency,centimeters,2009,48.0,73,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Transparency,centimeters,2010,47.0,73,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Transparency,centimeters,2011,58.0,73,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Transparency,centimeters,2012,36.0,73,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Transparency,centimeters,2009,44.0,73,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Transparency,centimeters,2010,29.0,73,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Transparency,centimeters,2011,35.0,73,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Transparency,centimeters,2012,46.0,73,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Transparency,centimeters,2009,53.0,73,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Transparency,centimeters,2010,50.0,73,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Transparency,centimeters,2011,67.0,73,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Transparency,centimeters,2012,50.0,73,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Transparency,centimeters,2009,50.0,73,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Transparency,centimeters,2010,47.0,73,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Transparency,centimeters,2011,58.0,73,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Transparency,centimeters,2012,39.0,73,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Transparency,centimeters,2009,39.0,73,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Transparency,centimeters,2010,37.0,73,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Transparency,centimeters,2011,39.0,73,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Transparency,centimeters,2012,44.0,73,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Transparency,centimeters,2012,45.0,73,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Transparency,centimeters,2012,44.0,73,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Transparency,centimeters,2012,51.0,73,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Transparency,centimeters,2012,47.0,73,Pagsanjan (East Bay),(open lake),Laguna de Bay
+lake,Stn. I,Turbidity,NTU,2009,37.0,75,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Turbidity,NTU,2010,32.0,75,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Turbidity,NTU,2011,33.0,75,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Turbidity,NTU,2012,44.0,75,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Turbidity,NTU,2009,38.0,75,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Turbidity,NTU,2010,25.0,75,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Turbidity,NTU,2011,36.0,75,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Turbidity,NTU,2012,34.0,75,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Turbidity,NTU,2009,38.0,75,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Turbidity,NTU,2010,12.0,75,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Turbidity,NTU,2011,29.0,75,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Turbidity,NTU,2012,41.0,75,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Turbidity,NTU,2009,51.0,75,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Turbidity,NTU,2010,30.0,75,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Turbidity,NTU,2011,45.0,75,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Turbidity,NTU,2012,48.0,75,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Turbidity,NTU,2009,55.0,75,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Turbidity,NTU,2010,26.0,75,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Turbidity,NTU,2011,51.0,75,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Turbidity,NTU,2012,36.0,75,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Turbidity,NTU,2012,36.0,75,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Turbidity,NTU,2012,47.0,75,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Turbidity,NTU,2012,34.0,75,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Turbidity,NTU,2012,31.0,75,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Turbidity,NTU,2009,15.0,76,Marikina River,Pasig / Marikina,NCR
+tributary,1,Turbidity,NTU,2010,69.0,76,Marikina River,Pasig / Marikina,NCR
+tributary,1,Turbidity,NTU,2011,122.0,76,Marikina River,Pasig / Marikina,NCR
+tributary,1,Turbidity,NTU,2012,112.0,76,Marikina River,Pasig / Marikina,NCR
+tributary,2,Turbidity,NTU,2009,34.0,76,Bagumbayan River,Taguig,NCR
+tributary,2,Turbidity,NTU,2010,57.0,76,Bagumbayan River,Taguig,NCR
+tributary,2,Turbidity,NTU,2011,30.0,76,Bagumbayan River,Taguig,NCR
+tributary,2,Turbidity,NTU,2012,12.0,76,Bagumbayan River,Taguig,NCR
+tributary,3,Turbidity,NTU,2009,47.0,76,Buli Creek,Taguig,NCR
+tributary,3,Turbidity,NTU,2010,51.0,76,Buli Creek,Taguig,NCR
+tributary,3,Turbidity,NTU,2011,34.0,76,Buli Creek,Taguig,NCR
+tributary,3,Turbidity,NTU,2012,17.0,76,Buli Creek,Taguig,NCR
+tributary,4,Turbidity,NTU,2009,17.0,76,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Turbidity,NTU,2010,30.0,76,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Turbidity,NTU,2011,14.0,76,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Turbidity,NTU,2012,20.0,76,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Turbidity,NTU,2012,10.0,76,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Turbidity,NTU,2009,55.0,76,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Turbidity,NTU,2010,50.0,76,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Turbidity,NTU,2011,67.0,76,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Turbidity,NTU,2012,29.0,76,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Turbidity,NTU,2012,17.0,76,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Turbidity,NTU,2009,21.0,76,San Pedro River,San Pedro,Laguna
+tributary,6,Turbidity,NTU,2010,19.0,76,San Pedro River,San Pedro,Laguna
+tributary,6,Turbidity,NTU,2011,35.0,76,San Pedro River,San Pedro,Laguna
+tributary,6,Turbidity,NTU,2012,15.0,76,San Pedro River,San Pedro,Laguna
+tributary,7,Turbidity,NTU,2011,22.0,76,Biñan River,Biñan,Laguna
+tributary,7,Turbidity,NTU,2012,51.0,76,Biñan River,Biñan,Laguna
+tributary,8,Turbidity,NTU,2011,14.0,76,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Turbidity,NTU,2012,36.0,76,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Turbidity,NTU,2012,19.0,76,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Turbidity,NTU,2012,8.0,76,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Turbidity,NTU,2009,21.0,76,Cabuyao River,Cabuyao,Laguna
+tributary,9,Turbidity,NTU,2010,8.0,76,Cabuyao River,Cabuyao,Laguna
+tributary,9,Turbidity,NTU,2011,14.0,76,Cabuyao River,Cabuyao,Laguna
+tributary,9,Turbidity,NTU,2012,12.0,76,Cabuyao River,Cabuyao,Laguna
+tributary,10,Turbidity,NTU,2009,93.0,76,San Cristobal River,Calamba,Laguna
+tributary,10,Turbidity,NTU,2010,37.0,76,San Cristobal River,Calamba,Laguna
+tributary,10,Turbidity,NTU,2011,13.0,76,San Cristobal River,Calamba,Laguna
+tributary,10,Turbidity,NTU,2012,20.0,76,San Cristobal River,Calamba,Laguna
+tributary,11,Turbidity,NTU,2009,202.0,76,San Juan River,Calamba,Laguna
+tributary,11,Turbidity,NTU,2010,5.0,76,San Juan River,Calamba,Laguna
+tributary,11,Turbidity,NTU,2011,6.0,76,San Juan River,Calamba,Laguna
+tributary,11,Turbidity,NTU,2012,35.0,76,San Juan River,Calamba,Laguna
+tributary,12,Turbidity,NTU,2011,31.0,76,Molawin Creek,Los Baños,Laguna
+tributary,12,Turbidity,NTU,2012,27.0,76,Molawin Creek,Los Baños,Laguna
+tributary,13,Turbidity,NTU,2009,31.0,76,Bay River,Bay,Laguna
+tributary,13,Turbidity,NTU,2010,26.0,76,Bay River,Bay,Laguna
+tributary,13,Turbidity,NTU,2011,27.0,76,Bay River,Bay,Laguna
+tributary,13,Turbidity,NTU,2012,24.0,76,Bay River,Bay,Laguna
+tributary,14,Turbidity,NTU,2011,39.0,76,Pila River,Pila,Laguna
+tributary,14,Turbidity,NTU,2012,38.0,76,Pila River,Pila,Laguna
+tributary,15,Turbidity,NTU,2009,12.0,76,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Turbidity,NTU,2010,10.0,76,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Turbidity,NTU,2011,11.0,76,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Turbidity,NTU,2012,10.0,76,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Turbidity,NTU,2009,15.0,76,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Turbidity,NTU,2010,10.0,76,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Turbidity,NTU,2011,18.0,76,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Turbidity,NTU,2012,12.0,76,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Turbidity,NTU,2009,8.0,76,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Turbidity,NTU,2010,11.0,76,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Turbidity,NTU,2011,10.0,76,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Turbidity,NTU,2012,10.0,76,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Turbidity,NTU,2012,4.0,76,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Turbidity,NTU,2009,23.0,76,Siniloan River,Siniloan,Laguna
+tributary,18,Turbidity,NTU,2010,33.0,76,Siniloan River,Siniloan,Laguna
+tributary,18,Turbidity,NTU,2011,28.0,76,Siniloan River,Siniloan,Laguna
+tributary,18,Turbidity,NTU,2012,20.0,76,Siniloan River,Siniloan,Laguna
+tributary,19,Turbidity,NTU,2011,33.0,76,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Turbidity,NTU,2012,40.0,76,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Turbidity,NTU,2012,17.0,76,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Turbidity,NTU,2012,12.0,76,Jala-jala River,Jalajala,Rizal
+tributary,21,Turbidity,NTU,2011,41.0,76,Pililla River,Pililla,Rizal
+tributary,21,Turbidity,NTU,2012,17.0,76,Pililla River,Pililla,Rizal
+tributary,22,Turbidity,NTU,2009,10.0,76,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Turbidity,NTU,2010,22.0,76,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Turbidity,NTU,2011,27.0,76,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Turbidity,NTU,2012,10.0,76,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Turbidity,NTU,2012,6.0,76,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Turbidity,NTU,2011,33.0,76,Baras River,Baras,Rizal
+tributary,23,Turbidity,NTU,2012,27.0,76,Baras River,Baras,Rizal
+tributary,24,Turbidity,NTU,2009,17.0,76,Morong River - Downstream,Morong,Rizal
+tributary,24,Turbidity,NTU,2010,47.0,76,Morong River - Downstream,Morong,Rizal
+tributary,24,Turbidity,NTU,2011,127.0,76,Morong River - Downstream,Morong,Rizal
+tributary,24,Turbidity,NTU,2012,60.0,76,Morong River - Downstream,Morong,Rizal
+tributary,24U,Turbidity,NTU,2012,56.0,76,Morong River - Upstream,Morong,Rizal
+tributary,25,Turbidity,NTU,2009,16.0,76,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Turbidity,NTU,2010,37.0,76,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Turbidity,NTU,2011,97.0,76,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Turbidity,NTU,2012,76.0,76,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Turbidity,NTU,2009,18.0,76,Sapang Baho River,Cainta,Rizal
+tributary,26,Turbidity,NTU,2010,20.0,76,Sapang Baho River,Cainta,Rizal
+tributary,26,Turbidity,NTU,2011,35.0,76,Sapang Baho River,Cainta,Rizal
+tributary,26,Turbidity,NTU,2012,20.0,76,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Phytoplankton,counts/mL,2009,14832.0,79,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Phytoplankton,counts/mL,2010,29345.0,79,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Phytoplankton,counts/mL,2011,51920.0,79,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Phytoplankton,counts/mL,2012,57903.0,79,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Phytoplankton,counts/mL,2009,13557.0,79,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Phytoplankton,counts/mL,2010,19178.0,79,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Phytoplankton,counts/mL,2011,26164.0,79,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Phytoplankton,counts/mL,2012,13212.0,79,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Phytoplankton,counts/mL,2009,11097.0,79,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Phytoplankton,counts/mL,2010,40075.0,79,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Phytoplankton,counts/mL,2011,43933.0,79,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Phytoplankton,counts/mL,2012,25299.0,79,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Phytoplankton,counts/mL,2009,19178.0,79,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Phytoplankton,counts/mL,2010,17257.0,79,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Phytoplankton,counts/mL,2011,33404.0,79,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Phytoplankton,counts/mL,2012,25750.0,79,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Phytoplankton,counts/mL,2009,17309.0,79,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Phytoplankton,counts/mL,2010,15106.0,79,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Phytoplankton,counts/mL,2011,23437.0,79,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Phytoplankton,counts/mL,2012,31286.0,79,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Phytoplankton,counts/mL,2012,46300.0,79,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Phytoplankton,counts/mL,2012,120829.0,79,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Phytoplankton,counts/mL,2012,25313.0,79,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Phytoplankton,counts/mL,2012,22164.0,79,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Phytoplankton,counts/mL,2011,8774.0,80,Marikina River,Pasig / Marikina,NCR
+tributary,1,Phytoplankton,counts/mL,2012,73044.0,80,Marikina River,Pasig / Marikina,NCR
+tributary,2,Phytoplankton,counts/mL,2011,245065.0,80,Bagumbayan River,Taguig,NCR
+tributary,2,Phytoplankton,counts/mL,2012,295386.0,80,Bagumbayan River,Taguig,NCR
+tributary,5,Phytoplankton,counts/mL,2011,25858.0,80,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Phytoplankton,counts/mL,2012,50561.0,80,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Phytoplankton,counts/mL,2012,105917.0,80,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Phytoplankton,counts/mL,2011,359283.0,80,San Pedro River,San Pedro,Laguna
+tributary,6,Phytoplankton,counts/mL,2012,242813.0,80,San Pedro River,San Pedro,Laguna
+tributary,7,Phytoplankton,counts/mL,2011,121155.0,80,Biñan River,Biñan,Laguna
+tributary,7,Phytoplankton,counts/mL,2012,102612.0,80,Biñan River,Biñan,Laguna
+tributary,8,Phytoplankton,counts/mL,2011,100890.0,80,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Phytoplankton,counts/mL,2012,149479.0,80,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Phytoplankton,counts/mL,2012,34881.0,80,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Phytoplankton,counts/mL,2012,15626.0,80,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Phytoplankton,counts/mL,2011,59934.0,80,Cabuyao River,Cabuyao,Laguna
+tributary,9,Phytoplankton,counts/mL,2012,320861.0,80,Cabuyao River,Cabuyao,Laguna
+tributary,10,Phytoplankton,counts/mL,2011,233663.0,80,San Cristobal River,Calamba,Laguna
+tributary,10,Phytoplankton,counts/mL,2012,129698.0,80,San Cristobal River,Calamba,Laguna
+tributary,11,Phytoplankton,counts/mL,2011,115176.0,80,San Juan River,Calamba,Laguna
+tributary,11,Phytoplankton,counts/mL,2012,40023.0,80,San Juan River,Calamba,Laguna
+tributary,12,Phytoplankton,counts/mL,2011,4294.0,80,Molawin Creek,Los Baños,Laguna
+tributary,12,Phytoplankton,counts/mL,2012,17917.0,80,Molawin Creek,Los Baños,Laguna
+tributary,13,Phytoplankton,counts/mL,2011,9963.0,80,Bay River,Bay,Laguna
+tributary,13,Phytoplankton,counts/mL,2012,54687.0,80,Bay River,Bay,Laguna
+tributary,14,Phytoplankton,counts/mL,2011,15737.0,80,Pila River,Pila,Laguna
+tributary,14,Phytoplankton,counts/mL,2012,26390.0,80,Pila River,Pila,Laguna
+tributary,15,Phytoplankton,counts/mL,2011,54252.0,80,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Phytoplankton,counts/mL,2012,55813.0,80,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Phytoplankton,counts/mL,2011,38141.0,80,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Phytoplankton,counts/mL,2012,17512.0,80,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Phytoplankton,counts/mL,2011,7177.0,80,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Phytoplankton,counts/mL,2012,951.0,80,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Phytoplankton,counts/mL,2012,1077.0,80,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Phytoplankton,counts/mL,2011,24007.0,80,Siniloan River,Siniloan,Laguna
+tributary,18,Phytoplankton,counts/mL,2012,16754.0,80,Siniloan River,Siniloan,Laguna
+tributary,19,Phytoplankton,counts/mL,2011,80929.0,80,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Phytoplankton,counts/mL,2012,43449.0,80,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Phytoplankton,counts/mL,2012,14107.0,80,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Phytoplankton,counts/mL,2012,32125.0,80,Jala-jala River,Jalajala,Rizal
+tributary,21,Phytoplankton,counts/mL,2011,9024.0,80,Pililla River,Pililla,Rizal
+tributary,21,Phytoplankton,counts/mL,2012,85275.0,80,Pililla River,Pililla,Rizal
+tributary,22,Phytoplankton,counts/mL,2011,3640.0,80,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Phytoplankton,counts/mL,2012,6131.0,80,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Phytoplankton,counts/mL,2012,34082.0,80,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Phytoplankton,counts/mL,2011,5085.0,80,Baras River,Baras,Rizal
+tributary,23,Phytoplankton,counts/mL,2012,67778.0,80,Baras River,Baras,Rizal
+tributary,24,Phytoplankton,counts/mL,2011,309863.0,80,Morong River - Downstream,Morong,Rizal
+tributary,24,Phytoplankton,counts/mL,2012,421926.0,80,Morong River - Downstream,Morong,Rizal
+tributary,24U,Phytoplankton,counts/mL,2012,184570.0,80,Morong River - Upstream,Morong,Rizal
+tributary,25,Phytoplankton,counts/mL,2011,59986.0,80,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Phytoplankton,counts/mL,2012,953900.0,80,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Phytoplankton,counts/mL,2011,14375.0,80,Sapang Baho River,Cainta,Rizal
+tributary,26,Phytoplankton,counts/mL,2012,4443555.0,80,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Zooplankton,counts/L,2009,25.0,83,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Zooplankton,counts/L,2010,54.0,83,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Zooplankton,counts/L,2011,60.0,83,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Zooplankton,counts/L,2012,33.0,83,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Zooplankton,counts/L,2009,17.0,83,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Zooplankton,counts/L,2010,46.0,83,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Zooplankton,counts/L,2011,28.0,83,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Zooplankton,counts/L,2012,21.0,83,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Zooplankton,counts/L,2009,23.0,83,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Zooplankton,counts/L,2010,40.0,83,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Zooplankton,counts/L,2011,45.0,83,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Zooplankton,counts/L,2012,36.0,83,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Zooplankton,counts/L,2009,15.0,83,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Zooplankton,counts/L,2010,201.0,83,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Zooplankton,counts/L,2011,44.0,83,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Zooplankton,counts/L,2012,33.0,83,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Zooplankton,counts/L,2009,14.0,83,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Zooplankton,counts/L,2010,33.0,83,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Zooplankton,counts/L,2011,41.0,83,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Zooplankton,counts/L,2012,26.0,83,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Zooplankton,counts/L,2012,34.0,83,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Zooplankton,counts/L,2012,21.0,83,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Zooplankton,counts/L,2012,17.0,83,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Zooplankton,counts/L,2012,16.0,83,Pagsanjan (East Bay),(open lake),Laguna de Bay
+lake,Stn. I,Benthos,individuals/sq.m.,2009,149.0,85,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Benthos,individuals/sq.m.,2010,369.0,85,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Benthos,individuals/sq.m.,2011,1150.0,85,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Benthos,individuals/sq.m.,2012,500.0,85,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Benthos,individuals/sq.m.,2009,197.0,85,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Benthos,individuals/sq.m.,2010,185.0,85,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Benthos,individuals/sq.m.,2011,409.0,85,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Benthos,individuals/sq.m.,2012,238.0,85,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Benthos,individuals/sq.m.,2009,108.0,85,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Benthos,individuals/sq.m.,2010,179.0,85,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Benthos,individuals/sq.m.,2011,1107.0,85,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Benthos,individuals/sq.m.,2012,310.0,85,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Benthos,individuals/sq.m.,2009,979.0,85,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Benthos,individuals/sq.m.,2010,513.0,85,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Benthos,individuals/sq.m.,2011,845.0,85,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Benthos,individuals/sq.m.,2012,551.0,85,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Benthos,individuals/sq.m.,2009,114.0,85,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Benthos,individuals/sq.m.,2010,254.0,85,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Benthos,individuals/sq.m.,2011,699.0,85,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Benthos,individuals/sq.m.,2012,234.0,85,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Benthos,individuals/sq.m.,2012,843.0,85,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Benthos,individuals/sq.m.,2012,322.0,85,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Benthos,individuals/sq.m.,2012,528.0,85,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Benthos,individuals/sq.m.,2012,213.0,85,Pagsanjan (East Bay),(open lake),Laguna de Bay
+lake,Stn. I,Total Coliform,MPN/100 mL,2009,295.0,87,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Coliform,MPN/100 mL,2010,56.0,87,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Coliform,MPN/100 mL,2011,55.0,87,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Total Coliform,MPN/100 mL,2012,200.0,87,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Coliform,MPN/100 mL,2009,127.0,87,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Coliform,MPN/100 mL,2010,75.0,87,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Coliform,MPN/100 mL,2011,266.0,87,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Total Coliform,MPN/100 mL,2012,222.0,87,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Coliform,MPN/100 mL,2009,147.0,87,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Coliform,MPN/100 mL,2010,36.0,87,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Coliform,MPN/100 mL,2011,213.0,87,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Total Coliform,MPN/100 mL,2012,375.0,87,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Coliform,MPN/100 mL,2009,438.0,87,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Coliform,MPN/100 mL,2010,55.0,87,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Coliform,MPN/100 mL,2011,1552.0,87,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Total Coliform,MPN/100 mL,2012,1528.0,87,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Coliform,MPN/100 mL,2009,1096.0,87,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Coliform,MPN/100 mL,2010,188.0,87,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Coliform,MPN/100 mL,2011,2100.0,87,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Total Coliform,MPN/100 mL,2012,1373.0,87,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Total Coliform,MPN/100 mL,2012,955.0,87,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Total Coliform,MPN/100 mL,2012,358.0,87,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Total Coliform,MPN/100 mL,2012,212.0,87,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Total Coliform,MPN/100 mL,2012,318.0,87,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Total Coliform,MPN/100 mL,2009,2800000.0,88,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Coliform,MPN/100 mL,2010,1700000.0,88,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Coliform,MPN/100 mL,2011,490000.0,88,Marikina River,Pasig / Marikina,NCR
+tributary,1,Total Coliform,MPN/100 mL,2012,1600000.0,88,Marikina River,Pasig / Marikina,NCR
+tributary,2,Total Coliform,MPN/100 mL,2009,1400000000000000.0,88,Bagumbayan River,Taguig,NCR
+tributary,2,Total Coliform,MPN/100 mL,2010,4300000.0,88,Bagumbayan River,Taguig,NCR
+tributary,2,Total Coliform,MPN/100 mL,2011,7300000.0,88,Bagumbayan River,Taguig,NCR
+tributary,2,Total Coliform,MPN/100 mL,2012,8200000.0,88,Bagumbayan River,Taguig,NCR
+tributary,3,Total Coliform,MPN/100 mL,2009,960000000000000.0,88,Buli Creek,Taguig,NCR
+tributary,3,Total Coliform,MPN/100 mL,2010,8300000.0,88,Buli Creek,Taguig,NCR
+tributary,3,Total Coliform,MPN/100 mL,2011,28000000.0,88,Buli Creek,Taguig,NCR
+tributary,3,Total Coliform,MPN/100 mL,2012,10000000.0,88,Buli Creek,Taguig,NCR
+tributary,4,Total Coliform,MPN/100 mL,2009,300000000000.0,88,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Coliform,MPN/100 mL,2010,2700000.0,88,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Coliform,MPN/100 mL,2011,6000000.0,88,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Total Coliform,MPN/100 mL,2012,4100000.0,88,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Total Coliform,MPN/100 mL,2012,3300000.0,88,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Total Coliform,MPN/100 mL,2009,230000000000.0,88,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Coliform,MPN/100 mL,2010,11000000.0,88,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Coliform,MPN/100 mL,2011,13000000.0,88,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Total Coliform,MPN/100 mL,2012,23000000.0,88,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Total Coliform,MPN/100 mL,2012,320000.0,88,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Total Coliform,MPN/100 mL,2009,2700000000.0,88,San Pedro River,San Pedro,Laguna
+tributary,6,Total Coliform,MPN/100 mL,2010,1500000.0,88,San Pedro River,San Pedro,Laguna
+tributary,6,Total Coliform,MPN/100 mL,2011,1700000.0,88,San Pedro River,San Pedro,Laguna
+tributary,6,Total Coliform,MPN/100 mL,2012,3100000.0,88,San Pedro River,San Pedro,Laguna
+tributary,7,Total Coliform,MPN/100 mL,2011,880000.0,88,Biñan River,Biñan,Laguna
+tributary,7,Total Coliform,MPN/100 mL,2012,3100000.0,88,Biñan River,Biñan,Laguna
+tributary,8,Total Coliform,MPN/100 mL,2011,9200000.0,88,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Total Coliform,MPN/100 mL,2012,7300000.0,88,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Total Coliform,MPN/100 mL,2012,5400000.0,88,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Total Coliform,MPN/100 mL,2012,780000.0,88,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Total Coliform,MPN/100 mL,2009,75000000.0,88,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Coliform,MPN/100 mL,2010,1700000.0,88,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Coliform,MPN/100 mL,2011,1900000.0,88,Cabuyao River,Cabuyao,Laguna
+tributary,9,Total Coliform,MPN/100 mL,2012,2400000.0,88,Cabuyao River,Cabuyao,Laguna
+tributary,10,Total Coliform,MPN/100 mL,2009,1200000000.0,88,San Cristobal River,Calamba,Laguna
+tributary,10,Total Coliform,MPN/100 mL,2010,7000000.0,88,San Cristobal River,Calamba,Laguna
+tributary,10,Total Coliform,MPN/100 mL,2011,3200000.0,88,San Cristobal River,Calamba,Laguna
+tributary,10,Total Coliform,MPN/100 mL,2012,8500000.0,88,San Cristobal River,Calamba,Laguna
+tributary,11,Total Coliform,MPN/100 mL,2009,640000.0,88,San Juan River,Calamba,Laguna
+tributary,11,Total Coliform,MPN/100 mL,2010,94000.0,88,San Juan River,Calamba,Laguna
+tributary,11,Total Coliform,MPN/100 mL,2011,190000.0,88,San Juan River,Calamba,Laguna
+tributary,11,Total Coliform,MPN/100 mL,2012,470000.0,88,San Juan River,Calamba,Laguna
+tributary,12,Total Coliform,MPN/100 mL,2011,96000.0,88,Molawin Creek,Los Baños,Laguna
+tributary,12,Total Coliform,MPN/100 mL,2012,71000.0,88,Molawin Creek,Los Baños,Laguna
+tributary,13,Total Coliform,MPN/100 mL,2009,730000.0,88,Bay River,Bay,Laguna
+tributary,13,Total Coliform,MPN/100 mL,2010,110000.0,88,Bay River,Bay,Laguna
+tributary,13,Total Coliform,MPN/100 mL,2011,470000.0,88,Bay River,Bay,Laguna
+tributary,13,Total Coliform,MPN/100 mL,2012,410000.0,88,Bay River,Bay,Laguna
+tributary,14,Total Coliform,MPN/100 mL,2011,180000.0,88,Pila River,Pila,Laguna
+tributary,14,Total Coliform,MPN/100 mL,2012,140000.0,88,Pila River,Pila,Laguna
+tributary,15,Total Coliform,MPN/100 mL,2009,57000.0,88,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Coliform,MPN/100 mL,2010,17000.0,88,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Coliform,MPN/100 mL,2011,110000.0,88,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Total Coliform,MPN/100 mL,2012,130000.0,88,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Total Coliform,MPN/100 mL,2009,37000.0,88,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Coliform,MPN/100 mL,2010,14000.0,88,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Coliform,MPN/100 mL,2011,54000.0,88,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Total Coliform,MPN/100 mL,2012,34000.0,88,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Total Coliform,MPN/100 mL,2009,88000.0,88,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Coliform,MPN/100 mL,2010,300000.0,88,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Coliform,MPN/100 mL,2011,120000.0,88,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Total Coliform,MPN/100 mL,2012,170000.0,88,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Total Coliform,MPN/100 mL,2012,8100.0,88,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Total Coliform,MPN/100 mL,2009,88000.0,88,Siniloan River,Siniloan,Laguna
+tributary,18,Total Coliform,MPN/100 mL,2010,44000.0,88,Siniloan River,Siniloan,Laguna
+tributary,18,Total Coliform,MPN/100 mL,2011,69000.0,88,Siniloan River,Siniloan,Laguna
+tributary,18,Total Coliform,MPN/100 mL,2012,57000.0,88,Siniloan River,Siniloan,Laguna
+tributary,19,Total Coliform,MPN/100 mL,2011,99000.0,88,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Total Coliform,MPN/100 mL,2012,100000.0,88,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Total Coliform,MPN/100 mL,2012,8700.0,88,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Total Coliform,MPN/100 mL,2011,190000.0,88,Jala-jala River,Jalajala,Rizal
+tributary,20,Total Coliform,MPN/100 mL,2012,670000.0,88,Jala-jala River,Jalajala,Rizal
+tributary,21,Total Coliform,MPN/100 mL,2011,210000.0,88,Pililla River,Pililla,Rizal
+tributary,21,Total Coliform,MPN/100 mL,2012,94000.0,88,Pililla River,Pililla,Rizal
+tributary,22,Total Coliform,MPN/100 mL,2009,230000.0,88,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Coliform,MPN/100 mL,2010,520000.0,88,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Coliform,MPN/100 mL,2011,340000.0,88,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Total Coliform,MPN/100 mL,2012,220000.0,88,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Total Coliform,MPN/100 mL,2012,45000.0,88,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Total Coliform,MPN/100 mL,2011,300000.0,88,Baras River,Baras,Rizal
+tributary,23,Total Coliform,MPN/100 mL,2012,390000.0,88,Baras River,Baras,Rizal
+tributary,24,Total Coliform,MPN/100 mL,2009,290000.0,88,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Coliform,MPN/100 mL,2010,190000.0,88,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Coliform,MPN/100 mL,2011,43000.0,88,Morong River - Downstream,Morong,Rizal
+tributary,24,Total Coliform,MPN/100 mL,2012,170000.0,88,Morong River - Downstream,Morong,Rizal
+tributary,24U,Total Coliform,MPN/100 mL,2012,140000.0,88,Morong River - Upstream,Morong,Rizal
+tributary,25,Total Coliform,MPN/100 mL,2009,740000.0,88,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Coliform,MPN/100 mL,2010,450000.0,88,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Coliform,MPN/100 mL,2011,170000.0,88,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Total Coliform,MPN/100 mL,2012,450000.0,88,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Total Coliform,MPN/100 mL,2009,4700000.0,88,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Coliform,MPN/100 mL,2010,1700000.0,88,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Coliform,MPN/100 mL,2011,1400000.0,88,Sapang Baho River,Cainta,Rizal
+tributary,26,Total Coliform,MPN/100 mL,2012,2600000.0,88,Sapang Baho River,Cainta,Rizal
+lake,Stn. I,Fecal Coliform,MPN/ 100 mL,2009,165.0,91,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Fecal Coliform,MPN/ 100 mL,2010,51.0,91,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Fecal Coliform,MPN/ 100 mL,2011,20.0,91,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. I,Fecal Coliform,MPN/ 100 mL,2012,11.0,91,Central West Bay,(open lake),Laguna de Bay
+lake,Stn. II,Fecal Coliform,MPN/ 100 mL,2009,66.0,91,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Fecal Coliform,MPN/ 100 mL,2010,70.0,91,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Fecal Coliform,MPN/ 100 mL,2011,26.0,91,East Bay,(open lake),Laguna de Bay
+lake,Stn. II,Fecal Coliform,MPN/ 100 mL,2012,8.0,91,East Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Fecal Coliform,MPN/ 100 mL,2009,97.0,91,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Fecal Coliform,MPN/ 100 mL,2010,40.0,91,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Fecal Coliform,MPN/ 100 mL,2011,179.0,91,Central Bay,(open lake),Laguna de Bay
+lake,Stn. IV,Fecal Coliform,MPN/ 100 mL,2012,15.0,91,Central Bay,(open lake),Laguna de Bay
+lake,Stn. V,Fecal Coliform,MPN/ 100 mL,2009,241.0,91,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Fecal Coliform,MPN/ 100 mL,2010,51.0,91,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Fecal Coliform,MPN/ 100 mL,2011,233.0,91,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. V,Fecal Coliform,MPN/ 100 mL,2012,147.0,91,Northern West Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Fecal Coliform,MPN/ 100 mL,2009,694.0,91,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Fecal Coliform,MPN/ 100 mL,2010,157.0,91,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Fecal Coliform,MPN/ 100 mL,2011,534.0,91,South Bay,(open lake),Laguna de Bay
+lake,Stn. VIII,Fecal Coliform,MPN/ 100 mL,2012,200.0,91,South Bay,(open lake),Laguna de Bay
+lake,Stn. XV,Fecal Coliform,MPN/ 100 mL,2012,217.0,91,San Pedro (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVI,Fecal Coliform,MPN/ 100 mL,2012,36.0,91,Sta. Rosa (West Bay),(open lake),Laguna de Bay
+lake,Stn. XVII,Fecal Coliform,MPN/ 100 mL,2012,54.0,91,Fish Sanctuary (Central Bay),(open lake),Laguna de Bay
+lake,Stn. XVIII,Fecal Coliform,MPN/ 100 mL,2012,151.0,91,Pagsanjan (East Bay),(open lake),Laguna de Bay
+tributary,1,Fecal Coliform,MPN/100 mL,2009,1500000.0,92,Marikina River,Pasig / Marikina,NCR
+tributary,1,Fecal Coliform,MPN/100 mL,2010,1100000.0,92,Marikina River,Pasig / Marikina,NCR
+tributary,1,Fecal Coliform,MPN/100 mL,2011,200000.0,92,Marikina River,Pasig / Marikina,NCR
+tributary,1,Fecal Coliform,MPN/100 mL,2012,640000.0,92,Marikina River,Pasig / Marikina,NCR
+tributary,2,Fecal Coliform,MPN/100 mL,2009,1100000000000000.0,92,Bagumbayan River,Taguig,NCR
+tributary,2,Fecal Coliform,MPN/100 mL,2010,2900000.0,92,Bagumbayan River,Taguig,NCR
+tributary,2,Fecal Coliform,MPN/100 mL,2011,4700000.0,92,Bagumbayan River,Taguig,NCR
+tributary,2,Fecal Coliform,MPN/100 mL,2012,5200000.0,92,Bagumbayan River,Taguig,NCR
+tributary,3,Fecal Coliform,MPN/100 mL,2009,680000000000000.0,92,Buli Creek,Taguig,NCR
+tributary,3,Fecal Coliform,MPN/100 mL,2010,8700000.0,92,Buli Creek,Taguig,NCR
+tributary,3,Fecal Coliform,MPN/100 mL,2011,14000000.0,92,Buli Creek,Taguig,NCR
+tributary,3,Fecal Coliform,MPN/100 mL,2012,5900000.0,92,Buli Creek,Taguig,NCR
+tributary,4,Fecal Coliform,MPN/100 mL,2009,130000000000.0,92,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Fecal Coliform,MPN/100 mL,2010,2600000.0,92,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Fecal Coliform,MPN/100 mL,2011,1600000.0,92,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4,Fecal Coliform,MPN/100 mL,2012,1900000.0,92,Mangangate River - Downstream,Muntinlupa,NCR
+tributary,4U,Fecal Coliform,MPN/100 mL,2012,1900000.0,92,Mangangate River - Upstream,Muntinlupa,NCR
+tributary,5,Fecal Coliform,MPN/100 mL,2009,180000000000.0,92,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Fecal Coliform,MPN/100 mL,2010,11000000.0,92,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Fecal Coliform,MPN/100 mL,2011,7500000.0,92,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5,Fecal Coliform,MPN/100 mL,2012,12000000.0,92,Tunasan River - Downstream,Muntinlupa,NCR
+tributary,5U,Fecal Coliform,MPN/100 mL,2012,130000.0,92,Tunasan River - Upstream,Muntinlupa,NCR
+tributary,6,Fecal Coliform,MPN/100 mL,2009,1800000000.0,92,San Pedro River,San Pedro,Laguna
+tributary,6,Fecal Coliform,MPN/100 mL,2010,1500000.0,92,San Pedro River,San Pedro,Laguna
+tributary,6,Fecal Coliform,MPN/100 mL,2011,790000.0,92,San Pedro River,San Pedro,Laguna
+tributary,6,Fecal Coliform,MPN/100 mL,2012,1300000.0,92,San Pedro River,San Pedro,Laguna
+tributary,7,Fecal Coliform,MPN/100 mL,2011,780000.0,92,Biñan River,Biñan,Laguna
+tributary,7,Fecal Coliform,MPN/100 mL,2012,700000.0,92,Biñan River,Biñan,Laguna
+tributary,8,Fecal Coliform,MPN/100 mL,2011,2400000.0,92,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8,Fecal Coliform,MPN/100 mL,2012,1600000.0,92,Sta. Rosa River - Downstream,Santa Rosa,Laguna
+tributary,8M,Fecal Coliform,MPN/100 mL,2012,2800000.0,92,Sta. Rosa River - Midstream,Santa Rosa,Laguna
+tributary,8U,Fecal Coliform,MPN/100 mL,2012,620000.0,92,Sta. Rosa River - Upstream,Santa Rosa,Laguna
+tributary,9,Fecal Coliform,MPN/100 mL,2009,47000000.0,92,Cabuyao River,Cabuyao,Laguna
+tributary,9,Fecal Coliform,MPN/100 mL,2010,1500000.0,92,Cabuyao River,Cabuyao,Laguna
+tributary,9,Fecal Coliform,MPN/100 mL,2011,990000.0,92,Cabuyao River,Cabuyao,Laguna
+tributary,9,Fecal Coliform,MPN/100 mL,2012,1400000.0,92,Cabuyao River,Cabuyao,Laguna
+tributary,10,Fecal Coliform,MPN/100 mL,2009,1100000000.0,92,San Cristobal River,Calamba,Laguna
+tributary,10,Fecal Coliform,MPN/100 mL,2010,7000000.0,92,San Cristobal River,Calamba,Laguna
+tributary,10,Fecal Coliform,MPN/100 mL,2011,2000000.0,92,San Cristobal River,Calamba,Laguna
+tributary,10,Fecal Coliform,MPN/100 mL,2012,2700000.0,92,San Cristobal River,Calamba,Laguna
+tributary,11,Fecal Coliform,MPN/100 mL,2009,560000.0,92,San Juan River,Calamba,Laguna
+tributary,11,Fecal Coliform,MPN/100 mL,2010,86000.0,92,San Juan River,Calamba,Laguna
+tributary,11,Fecal Coliform,MPN/100 mL,2011,160000.0,92,San Juan River,Calamba,Laguna
+tributary,11,Fecal Coliform,MPN/100 mL,2012,190000.0,92,San Juan River,Calamba,Laguna
+tributary,12,Fecal Coliform,MPN/100 mL,2011,35000.0,92,Molawin Creek,Los Baños,Laguna
+tributary,12,Fecal Coliform,MPN/100 mL,2012,35000.0,92,Molawin Creek,Los Baños,Laguna
+tributary,13,Fecal Coliform,MPN/100 mL,2009,500000.0,92,Bay River,Bay,Laguna
+tributary,13,Fecal Coliform,MPN/100 mL,2010,80000.0,92,Bay River,Bay,Laguna
+tributary,13,Fecal Coliform,MPN/100 mL,2011,400000.0,92,Bay River,Bay,Laguna
+tributary,13,Fecal Coliform,MPN/100 mL,2012,150000.0,92,Bay River,Bay,Laguna
+tributary,14,Fecal Coliform,MPN/100 mL,2011,72000.0,92,Pila River,Pila,Laguna
+tributary,14,Fecal Coliform,MPN/100 mL,2012,41000.0,92,Pila River,Pila,Laguna
+tributary,15,Fecal Coliform,MPN/100 mL,2009,48000.0,92,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Fecal Coliform,MPN/100 mL,2010,14000.0,92,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Fecal Coliform,MPN/100 mL,2011,32000.0,92,Sta. Cruz River,Santa Cruz,Laguna
+tributary,15,Fecal Coliform,MPN/100 mL,2012,31000.0,92,Sta. Cruz River,Santa Cruz,Laguna
+tributary,16,Fecal Coliform,MPN/100 mL,2009,31000.0,92,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Fecal Coliform,MPN/100 mL,2010,41000.0,92,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Fecal Coliform,MPN/100 mL,2011,33000.0,92,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,16,Fecal Coliform,MPN/100 mL,2012,15000.0,92,Pagsanjan River,Pagsanjan / Lumban,Laguna
+tributary,17,Fecal Coliform,MPN/100 mL,2009,59000.0,92,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Fecal Coliform,MPN/100 mL,2010,240000.0,92,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Fecal Coliform,MPN/100 mL,2011,57000.0,92,Pangil River - Downstream,Pangil,Laguna
+tributary,17,Fecal Coliform,MPN/100 mL,2012,89000.0,92,Pangil River - Downstream,Pangil,Laguna
+tributary,17U,Fecal Coliform,MPN/100 mL,2012,3900.0,92,Pangil River - Upstream,Pangil,Laguna
+tributary,18,Fecal Coliform,MPN/100 mL,2009,61000.0,92,Siniloan River,Siniloan,Laguna
+tributary,18,Fecal Coliform,MPN/100 mL,2010,40000.0,92,Siniloan River,Siniloan,Laguna
+tributary,18,Fecal Coliform,MPN/100 mL,2011,26000.0,92,Siniloan River,Siniloan,Laguna
+tributary,18,Fecal Coliform,MPN/100 mL,2012,21000.0,92,Siniloan River,Siniloan,Laguna
+tributary,19,Fecal Coliform,MPN/100 mL,2011,78000.0,92,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19,Fecal Coliform,MPN/100 mL,2012,67000.0,92,Sta. Maria River - Downstream,Santa Maria / Mabitac,Laguna
+tributary,19U,Fecal Coliform,MPN/100 mL,2012,2500.0,92,Sta. Maria River - Upstream,Santa Maria,Laguna
+tributary,20,Fecal Coliform,MPN/100 mL,2012,300000.0,92,Jala-jala River,Jalajala,Rizal
+tributary,21,Fecal Coliform,MPN/100 mL,2011,52000.0,92,Pililla River,Pililla,Rizal
+tributary,21,Fecal Coliform,MPN/100 mL,2012,45000.0,92,Pililla River,Pililla,Rizal
+tributary,22,Fecal Coliform,MPN/100 mL,2009,140000.0,92,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Fecal Coliform,MPN/100 mL,2010,440000.0,92,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Fecal Coliform,MPN/100 mL,2011,170000.0,92,Tanay River - Downstream,Tanay,Rizal
+tributary,22,Fecal Coliform,MPN/100 mL,2012,67000.0,92,Tanay River - Downstream,Tanay,Rizal
+tributary,22U,Fecal Coliform,MPN/100 mL,2012,14000.0,92,Tanay River - Upstream,Tanay,Rizal
+tributary,23,Fecal Coliform,MPN/100 mL,2011,170000.0,92,Baras River,Baras,Rizal
+tributary,23,Fecal Coliform,MPN/100 mL,2012,120000.0,92,Baras River,Baras,Rizal
+tributary,24,Fecal Coliform,MPN/100 mL,2009,220000.0,92,Morong River - Downstream,Morong,Rizal
+tributary,24,Fecal Coliform,MPN/100 mL,2010,170000.0,92,Morong River - Downstream,Morong,Rizal
+tributary,24,Fecal Coliform,MPN/100 mL,2011,27000.0,92,Morong River - Downstream,Morong,Rizal
+tributary,24,Fecal Coliform,MPN/100 mL,2012,41000.0,92,Morong River - Downstream,Morong,Rizal
+tributary,24U,Fecal Coliform,MPN/100 mL,2012,48000.0,92,Morong River - Upstream,Morong,Rizal
+tributary,25,Fecal Coliform,MPN/100 mL,2009,640000.0,92,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Fecal Coliform,MPN/100 mL,2010,340000.0,92,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Fecal Coliform,MPN/100 mL,2011,87000.0,92,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,25,Fecal Coliform,MPN/100 mL,2012,140000.0,92,Manggahan Floodway,Taytay / Pasig,Rizal / NCR
+tributary,26,Fecal Coliform,MPN/100 mL,2009,2800000.0,92,Sapang Baho River,Cainta,Rizal
+tributary,26,Fecal Coliform,MPN/100 mL,2010,1600000.0,92,Sapang Baho River,Cainta,Rizal
+tributary,26,Fecal Coliform,MPN/100 mL,2011,82000.0,92,Sapang Baho River,Cainta,Rizal
+tributary,26,Fecal Coliform,MPN/100 mL,2012,110000.0,92,Sapang Baho River,Cainta,Rizal
