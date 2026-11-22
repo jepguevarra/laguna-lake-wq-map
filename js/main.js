@@ -32,7 +32,7 @@ async function init() {
   const breakCache = {};
   const breaksFor = (key) => (breakCache[key] ??= computeBreaks(key, data.stations, data.meta.years));
 
-  // The sidebar works on its own; the map joins in once Google Maps has loaded.
+  // The sidebar renders first; the map joins in once it has been created.
   let mapView = { update() {}, focusStation() {} };
 
   function selectStation(id, { showDetail = false, fromMap = false } = {}) {

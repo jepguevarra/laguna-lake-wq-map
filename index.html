@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Laguna de Bay Water Quality Map, 2009–2012</title>
   <meta name="description" content="Interactive map of LLDA water quality monitoring stations in Laguna de Bay and its tributary rivers, 2009–2012.">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -20,7 +21,7 @@
 
   <main class="layout">
     <section class="map-wrap" aria-label="Map of Laguna de Bay">
-      <div id="map" role="application" aria-label="Google Map of Laguna de Bay. Use the data panel to choose stations with the keyboard."></div>
+      <div id="map" role="application" aria-label="Map of Laguna de Bay. Use the data panel to choose stations with the keyboard."></div>
       <div class="map-status" id="map-status" role="status" aria-live="polite"></div>
     </section>
 
@@ -102,7 +103,7 @@
       <h3>Limitations</h3>
       <ul>
         <li>Station positions are approximate (about ±1.5 km). The report includes only a picture map, which was georeferenced against known river mouths.</li>
-        <li>The base map is Google Maps, which shows the real shoreline. The optional “LLDA lake outline” overlay was traced from the report map and has the same ±1.5 km accuracy as the stations.</li>
+        <li>The base maps (OpenStreetMap street map and Esri satellite imagery) show the real shoreline. The optional “LLDA lake outline” overlay was traced from the report map and has the same ±1.5 km accuracy as the stations.</li>
         <li>Several stations started only in 2011 or 2012, so earlier years are blank.</li>
         <li>Some 2009 coliform values in the report are implausibly high (up to 10¹⁵). They are excluded from the map and charts.</li>
         <li>The town listed for a river is where the station is. Rivers also carry pollution from towns upstream.</li>
@@ -111,6 +112,7 @@
     </div>
   </dialog>
 
+  <script src="vendor/leaflet/leaflet.js"></script>
   <script src="vendor/chartjs/chart.umd.min.js"></script>
   <script type="module" src="js/main.js"></script>
 </body>

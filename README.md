@@ -10,9 +10,9 @@ WITM 101 Advanced Web Design and Programming, final examination.
 
 | Exam requirement | How it is met |
 |---|---|
-| Show the Laguna Lake boundary | The base map is Google Maps, so the real shoreline, Talim Island and surrounding towns come from Google. An optional overlay draws the LLDA lake outline (traced from the report, GeoJSON) on top. |
+| Show the Laguna Lake boundary | Real base maps (OpenStreetMap street map and Esri satellite imagery) show the actual shoreline, Talim Island and surrounding towns. An optional overlay draws the LLDA lake outline (traced from the report, GeoJSON) on top. |
 | Show monitoring stations around the lake | 9 lake stations (black ring) and 34 river stations (thin outline), placed from the LLDA station map. |
-| Zoom, pan and click on markers | Google Maps controls (zoom, full screen, Map/Satellite/Terrain). Clicking a marker opens an info window and the station panel. |
+| Zoom, pan and click on markers | Leaflet zoom and pan, a scale bar, and a switcher for Street map, Satellite (with place names) and Light. Clicking a marker opens a popup and the station panel. |
 | At least 4–6 water quality parameters per station | 14 parameters per station: DO, BOD, COD, pH, temperature, turbidity, nitrate, phosphate, ammonia, TSS, oil and grease, chloride, total coliform and fecal coliform. |
 | Visualise the data with charts and map layers | Markers are coloured by the selected parameter and year, with a legend. The **Ranking** view lists every station from worst to best, with bars and the Class C limit marked. The **Station** view has a 2009–2012 trend chart (Chart.js) compared with the average of similar stations, plus a table of all parameters showing pass or fail. |
 | JSON data handling | The app loads `data/stations.json` and `data/laguna-lake.geojson` with `fetch()`, then filters, sorts and classifies them in the browser. |
@@ -33,27 +33,9 @@ python3 -m http.server 8000
 # open http://localhost:8000
 ```
 
-Any static server works, for example `npx serve` or the VS Code Live Server extension. No build step or `npm install` is needed: Chart.js is already included in `vendor/`, and Google Maps is loaded from Google.
+Any static server works, for example `npx serve` or the VS Code Live Server extension. No build step, `npm install` or API key is needed: Leaflet and Chart.js are included in `vendor/`, and the map tiles are free services that need no account.
 
-Without an API key the page still opens, and the ranking and charts work, but the map area shows a setup message. See the next section.
-
-## 3. Google Maps API key
-
-The map uses the **Google Maps JavaScript API**, which needs a key.
-
-1. Go to the [Google Cloud console](https://console.cloud.google.com/google/maps-apis), create a project and enable **Maps JavaScript API**. Google requires a billing account, but a class project stays inside the monthly free usage.
-2. Under **Credentials**, create an API key.
-3. Restrict the key, because it is visible to anyone who views the page source:
-   - **Application restrictions → Websites:** add `http://localhost:8000/*` and `https://<your-project>.vercel.app/*`.
-   - **API restrictions:** allow only *Maps JavaScript API*.
-4. Paste the key into `js/config.js`:
-   ```js
-   export const GOOGLE_MAPS_API_KEY = 'AIza...';
-   ```
-
-If the key is missing, wrong or not allowed for the current website, the map area shows a message explaining which of these it is.
-
-## 4. Deploy to Vercel
+## 3. Deploy to Vercel
 
 This is a plain static site, so Vercel needs no configuration.
 
@@ -73,24 +55,23 @@ vercel --prod
 
 ---
 
-## 5. Project structure
+## 4. Project structure
 
 ```
 laguna-lake-wq-map/
 ├── index.html              Page structure, controls, panels, About dialog
 ├── css/styles.css          All styling; responsive breakpoints at 900, 760 and 420 px
 ├── js/
-│   ├── config.js           Google Maps API key (fill this in)
 │   ├── main.js             Entry point: loads data, builds controls, links everything together
 │   ├── state.js            Small shared store (publish/subscribe) and URL hash sync
 │   ├── data.js             Loads the JSON files; value and label helpers
 │   ├── scale.js            Colour classes, number formatting, Class C pass/fail
-│   ├── map.js              Google Map: loader, station data layer, info windows, legend, outline
+│   ├── map.js              Leaflet map: base maps, station markers, popups, legend, outline
 │   └── panel.js            Ranking list, station trend chart (Chart.js) and table
 ├── data/
 │   ├── stations.json       43 stations with values per parameter and year, plus metadata
 │   └── laguna-lake.geojson Lake boundary polygon
-├── vendor/                 Chart.js 4.4 (with its licence)
+├── vendor/                 Leaflet 1.9.4 and Chart.js 4.4 (with their licences)
 └── scripts/                Python scripts that produced the data (not used by the site)
     ├── parse_awqr.py       Extracts the tables from the LLDA PDF
     ├── trace_lake.py       Traces the lake outline from the report map
@@ -98,7 +79,7 @@ laguna-lake-wq-map/
     └── source/             The extracted CSV files and the traced outline
 ```
 
-## 6. How the code works
+## 5. How the code works
 
 **State-driven rendering.** `state.js` holds one object: the selected parameter, year, filters, selected station and tab. Every control calls `setState()`. One `render()` function in `main.js` subscribes to changes and redraws the map, ranking and station panel from that state. This keeps the map, the list and the charts in agreement, because none of them stores its own copy of the selection.
 
@@ -115,11 +96,9 @@ user action ──► setState() ──► render() ──► map.update()
 
 **Ranking** sorts stations from worst to best. Worst means the highest value, or the lowest for DO, or the furthest from neutral for pH. Stations not sampled that year are listed separately instead of being dropped.
 
-**Map** (`map.js`). The script loads the Maps JavaScript API with the key from `config.js`, then uses `google.maps.importLibrary()` to get the classes it needs. Stations are added to a `google.maps.Data` layer as GeoJSON points. One style function sets each marker's colour, size, outline and label from the current state, so a change in parameter, year or filter only calls `setStyle()` again. Station numbers appear at zoom 11 and above. Points of interest and transit icons are hidden so the stations stand out.
+**Map** (`map.js`). Leaflet draws the base maps from free tile services (OpenStreetMap, Esri, CARTO), so no API key or billing account is needed. Each station is a Leaflet `circleMarker`, restyled on each update instead of being recreated. Station numbers appear at zoom 11 and above to reduce clutter. If map tiles fail to load (for example, offline), a status message appears while the stations, ranking and charts keep working.
 
-The sidebar renders first and the map is added when Google Maps has loaded. If the map cannot load (no key, rejected key or no internet), `createMap()` returns a view that does nothing, so the ranking and charts keep working.
-
-## 7. Data and how it was prepared
+## 6. Data and how it was prepared
 
 **Source:** LLDA Environmental Laboratory and Research Division, *2009 to 2012 Annual Water Quality Report on the Laguna de Bay and its Tributary Rivers* (102 pages). The values are annual averages of monthly samples; coliform values are annual geometric means.
 
@@ -130,21 +109,22 @@ The sidebar renders first and the map is added when Google Maps has loaded. If t
 
 **Towns.** A river station's municipality is the town the river is named after or where the station sits. Rivers also carry pollution from towns further upstream, so a station's value reflects the whole catchment upstream, not just one town.
 
-## 8. Findings shown by the data
+## 7. Findings shown by the data
 
 - The west-shore rivers in Metro Manila and northern Laguna are the most polluted. In 2012, Tunasan River (Muntinlupa) had BOD 141 mg/L against a limit of 7, and dissolved oxygen of 0.1 mg/L. Buli Creek and Bagumbayan River (Taguig) were next.
 - BOD, ammonia and coliform rise together at the same stations, which points to untreated household sewage.
 - All 9 open-lake stations met the BOD limit in 2012 (1–2 mg/L), so the lake dilutes much of the river load. However, inorganic phosphate was above 0.05 mg/L at all 43 stations in 2012, which helps explain the recurring algal blooms.
 - East-side rivers (Pangil, Siniloan, Pagsanjan) are much cleaner.
 
-## 9. Limitations
+## 8. Limitations
 
-- Station positions are approximate (about ±1.5 km), so on the real Google map some river stations sit slightly inland or offshore. The traced outline overlay has the same error, which is why it is off by default. Exact station shapefiles can be requested from LLDA through foi.gov.ph.
+- Station positions are approximate (about ±1.5 km), so on the real base map some river stations sit slightly inland or offshore. The traced outline overlay has the same error, which is why it is off by default. Exact station shapefiles can be requested from LLDA through foi.gov.ph.
 - The data stops at 2012. LLDA publishes 2013–2023 data on llda.gov.ph, and it could be added by extending `scripts/source/water_quality_*.csv` and rerunning `build_app_data.py`.
 - Some stations were added in 2011–2012, so earlier years are blank for them.
 
-## 10. Credits and licences
+## 9. Credits and licences
 
 - Water quality data: Laguna Lake Development Authority (LLDA).
-- Map: Google Maps JavaScript API (map data © Google). Charts: [Chart.js](https://www.chartjs.org) (MIT).
+- Map library: [Leaflet](https://leafletjs.com) (BSD-2-Clause). Charts: [Chart.js](https://www.chartjs.org) (MIT).
+- Base maps: © OpenStreetMap contributors; satellite imagery © Esri, Maxar, Earthstar Geographics; light map © CARTO.
 - Colour palettes: ColorBrewer (Cynthia Brewer, Penn State).
