@@ -110,8 +110,11 @@
     "label": "Fecal Coliform",
     "short": "FC",
     "unit": "MPN/100 mL",
-    "criterion": null,
-    "note": "Bacteria from human or animal faeces. No Class C limit."
+    "criterion": {
+     "kind": "max",
+     "value": 200
+    },
+    "note": "Bacteria from human or animal faeces. The Class C guideline is 200 MPN/100 mL."
    }
   ]
  },

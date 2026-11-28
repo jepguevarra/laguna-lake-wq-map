@@ -62,13 +62,30 @@ for (const f of files) {
 }
 const monthList = [...months].sort();
 
+// The 2009-2012 build left fecal coliform with no limit. These reports plainly
+// judge against one: their cell colours break at 50, 100, 200 and 400
+// MPN/100 mL, which are the Class A, B, C and D thresholds. DENR DAO 2021-19
+// sets the freshwater Class C ambient guideline at 200; 400 is the effluent
+// standard, not the ambient one, and is easy to confuse with it.
+const CRITERION_OVERRIDE = {
+  fecal_coliform: { kind: 'max', value: 200 },
+};
+const NOTE_OVERRIDE = {
+  fecal_coliform: 'Bacteria from human or animal faeces. The Class C guideline is 200 MPN/100 mL.',
+};
+
 /* ---- parameter metadata, carried over from the 2009-2012 build ---- */
 const old = JSON.parse(readFileSync(join(ROOT, 'data', 'stations.json'), 'utf8'));
 const oldParam = new Map(old.meta.parameters.map((p) => [p.key, p]));
 const present = [...unitOf.keys()];
 const parameters = old.meta.parameters
   .filter((p) => present.includes(p.key))
-  .map((p) => ({ ...p, unit: unitOf.get(p.key) ?? p.unit }));
+  .map((p) => ({
+    ...p,
+    unit: unitOf.get(p.key) ?? p.unit,
+    ...(CRITERION_OVERRIDE[p.key] ? { criterion: CRITERION_OVERRIDE[p.key] } : {}),
+    ...(NOTE_OVERRIDE[p.key] ? { note: NOTE_OVERRIDE[p.key] } : {}),
+  }));
 const missingMeta = present.filter((k) => !oldParam.has(k));
 if (missingMeta.length) throw new Error(`no metadata for ${missingMeta.join(', ')}`);
 

@@ -13,7 +13,7 @@ WITM 101 Advanced Web Design and Programming, final examination.
 | Show the Laguna Lake boundary | Real base maps (OpenStreetMap street map and Esri satellite imagery) show the actual shoreline, Talim Island and surrounding towns. An overlay draws the lake boundary itself on top: OpenStreetMap relation 79348 as GeoJSON, 29 rings counting the islands. |
 | Show monitoring stations around the lake | 16 lake stations (black ring) and 37 river stations (thin outline), placed by georeferencing the station map printed in each report. The selected station is ringed and pulses, orange in the lake and blue on the rivers. |
 | Zoom, pan and click on markers | Leaflet zoom and pan, a scale bar, and a switcher for Street map, Satellite (with place names) and Light. Clicking a marker opens a popup and the station panel. |
-| At least 4–6 water quality parameters per station | 9 parameters: DO, BOD, pH, nitrate, phosphate, ammonia, TSS, chloride and fecal coliform. |
+| At least 4–6 water quality parameters per station | 9 parameters: DO, BOD, pH, nitrate, phosphate, ammonia, TSS, chloride and fecal coliform. Seven carry a Class C limit and are judged pass or fail. |
 | Visualise the data with charts and map layers | Markers are coloured by the selected parameter and month, with a legend. The **Ranking** view lists every station from worst to best, with bars and the Class C limit marked. The **Station** view has a 12-month trend chart (Chart.js) compared with the average of similar stations, plus a table of all parameters showing pass or fail. |
 | JSON data handling | The app loads `data/stations.json` and `data/laguna-lake.geojson` with `fetch()`, then filters, sorts and classifies them in the browser. |
 | Responsive and accessible interface | Two columns on desktop, stacked on phones with a collapsible legend. Every map action can also be done from the keyboard: the month and station dropdowns, the ranking buttons and tabs that support the arrow keys. Escape clears a selection. Labels are announced to screen readers, focus outlines are visible, and colours come from ColorBrewer. Pass/fail is shown as text, not only by colour. |
@@ -103,7 +103,7 @@ user action ──► setState() ──► render() ──► map.update()
 
 **Below the detection limit.** 273 readings are printed in the reports as `<0.1` or `<0.002`. A chart needs a number, so the charts use the limit itself, which is the honest upper bound and judges conservatively in both directions: DO `<0.1` fails the 5 mg/L minimum, phosphate `<0.01` meets the 0.05 maximum. The station table shows what the report actually printed.
 
-**Map** (`map.js`). Leaflet draws the base maps from free tile services (OpenStreetMap, Esri, CARTO), so no API key or billing account is needed. Each station is a Leaflet `circleMarker`, restyled on each update instead of being recreated. Station numbers appear at zoom 11 and above to reduce clutter. If map tiles fail to load (for example, offline), a status message appears while the stations, ranking and charts keep working.
+**Map** (`map.js`). Leaflet draws the base maps from free tile services (OpenStreetMap and Esri), so no API key or billing account is needed. Selecting a station flies the map to it at zoom 13, without pulling back out if the reader is already closer in. Each station is a Leaflet `circleMarker`, restyled on each update instead of being recreated. Station numbers appear at zoom 11 and above to reduce clutter. If map tiles fail to load (for example, offline), a status message appears while the stations, ranking and charts keep working.
 
 ## 6. Data and how it was prepared
 
@@ -127,6 +127,7 @@ These reports are scans. Unlike the 2009–2012 annual report, which had a text 
 
 - **The lake itself is in reasonable shape; its rivers are not.** Across all twelve months, lake stations meet the BOD limit in 100% of readings and the dissolved oxygen minimum in 99%. River stations manage 58% and 47%.
 - **Bagumbayan River (Taguig) is the worst station in the dataset**, reaching BOD 556 mg/L in January 2026 against a Class C limit of 7. Buli Creek hit 424 mg/L in February. Both drain dense parts of Metro Manila.
+- **Fecal coliform in the rivers fails without exception.** Not one of 374 river readings meets the 200 MPN/100 mL Class C guideline — not a single station in a single month. Tunasan River reached 49,218,791 MPN/100 mL in March 2026, roughly 246,000 times the limit. The lake manages 83%, which is the dilution doing the work rather than the inflows being clean.
 - **Phosphate fails almost everywhere.** Only 3% of lake readings and 5% of river readings meet the 0.05 mg/L limit, and just 14 of 52 reporting stations manage it in even one month. This is the nutrient load behind the lake's recurring algal blooms.
 - **The lake's pH problem is the opposite of the rivers'.** Rivers meet the 6.5–8.5 range in 98% of readings, the lake in only 65% — it runs too alkaline, reaching 9.9 at Northern West Bay. Heavy algal photosynthesis strips dissolved CO₂ and drives pH up, which ties back to the phosphate finding.
 - **The cleanest water is in the east and upstream.** Pagsanjan River, Tanay River at Daranak Falls and Pangil River upstream meet 83–85% of their applicable limits. The worst are Bagumbayan (36%), Buli Creek and San Cristobal (38%).
@@ -135,7 +136,7 @@ These reports are scans. Unlike the 2009–2012 annual report, which had a text 
 
 - The values were read by eye from scanned reports. Each table was straightened first and every gap reconciles against the reports' own notes, but transcription error cannot be ruled out. The transcribed CSVs are in `scripts/source/quarterly/` so any value can be checked against the scan.
 - Station positions are fitted from a printed map, not surveyed. The georeferencing is good to roughly 43 m per pixel, far tighter than the ±1.5 km of the previous version, but the dot centres are still read from an image. Exact station shapefiles can be requested from LLDA through foi.gov.ph.
-- Fecal coliform is shown without a pass/fail limit. The reports clearly judge it — their cell colours change at 50, 100, 200 and 400 MPN/100 mL, which match the DENR class thresholds — but that is inferred from the colouring rather than stated in the documents, so the app does not assert it.
+- Fecal coliform is judged against 200 MPN/100 mL, the freshwater Class C ambient guideline in DENR DAO 2021-19. The reports do not print the limit, but their cell colours break at 50, 100, 200 and 400, which are the Class A, B, C and D thresholds. Note that 400 MPN/100 mL is the *effluent* standard rather than the ambient guideline, and several secondary sources confuse the two.
 - Station 20 (Jala-jala River) reports nothing in any month. It was replaced by Binangonan River in June 2022 but is still listed, so it appears on the map as not sampled.
 - Four stations from the 2009–2012 network (4U, 5U, 22, 22U) no longer appear, and station 22 has been split into 22A, 22B and 22C. The network is not just larger, it has changed shape.
 - LLDA had not published Q3 2026 at the time of writing, so the series ends at June 2026.
@@ -144,7 +145,7 @@ These reports are scans. Unlike the 2009–2012 annual report, which had a text 
 
 - Water quality data: Laguna Lake Development Authority (LLDA).
 - Map library: [Leaflet](https://leafletjs.com) (BSD-2-Clause). Charts: [Chart.js](https://www.chartjs.org) (MIT).
-- Base maps: © OpenStreetMap contributors; satellite imagery © Esri, Maxar, Earthstar Geographics; light map © CARTO.
+- Base maps: © OpenStreetMap contributors; satellite imagery © Esri, Maxar, Earthstar Geographics.
 - Lake boundary: OpenStreetMap relation 79348, © OpenStreetMap contributors, [ODbL](https://opendatacommons.org/licenses/odbl/).
 - Colour palettes: ColorBrewer (Cynthia Brewer, Penn State).
 

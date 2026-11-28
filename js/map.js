@@ -27,14 +27,10 @@ export async function createMap(el, data, { onSelect, onStatus }) {
     maxZoom: 18, pane: 'overlayPane',
   });
   const hybrid = L.layerGroup([satellite, placeLabels]);
-  const light = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-    subdomains: 'abcd', maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-  });
   street.addTo(map);
 
   let tileErrorShown = false;
-  for (const layer of [street, satellite, placeLabels, light]) {
+  for (const layer of [street, satellite, placeLabels]) {
     layer.on('tileerror', () => {
       if (tileErrorShown) return;
       tileErrorShown = true;
@@ -79,7 +75,7 @@ export async function createMap(el, data, { onSelect, onStatus }) {
   // Base map switcher. Station and outline visibility live in the sidebar so
   // the map, ranking list and checkboxes always agree.
   L.control.layers(
-    { 'Street map': street, 'Satellite': hybrid, 'Light': light },
+    { 'Street map': street, 'Satellite': hybrid },
     {},
     { collapsed: false, position: 'topright' },
   ).addTo(map);
@@ -192,11 +188,16 @@ export async function createMap(el, data, { onSelect, onStatus }) {
       </details>`;
   }
 
-  function focusStation(id, { openPopup = false } = {}) {
+  const FOCUS_ZOOM = 13; // close enough to read the shoreline around a station
+
+  function focusStation(id, { openPopup = false, zoom = true } = {}) {
     const m = markers.get(id);
     if (!m) return;
     const ll = m.getLatLng();
-    if (!map.getBounds().pad(-0.15).contains(ll)) map.panTo(ll);
+    // Zoom in to the station, but never pull back out: someone who has zoomed
+    // further in than this is looking at something and should keep it.
+    if (zoom) map.flyTo(ll, Math.max(map.getZoom(), FOCUS_ZOOM), { duration: 0.6 });
+    else if (!map.getBounds().pad(-0.15).contains(ll)) map.panTo(ll);
     if (openPopup) m.openPopup();
   }
 

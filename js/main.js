@@ -28,7 +28,7 @@ async function init() {
   // Open on the most recent month the data actually has, not a hard-coded one.
   if (!fromHash.month) state.month = data.meta.months[data.meta.months.length - 1];
 
-  buildControls(data);
+  buildControls(data, (id) => selectStation(id));
 
   // Class breaks are cached per parameter (they span all years).
   const breakCache = {};
@@ -43,7 +43,7 @@ async function init() {
 
   function selectStation(id, { showDetail = false, fromMap = false } = {}) {
     setState({ stationId: id, ...(showDetail || fromMap ? { tab: 'station' } : {}) });
-    if (!fromMap) mapView.focusStation(id, { openPopup: false });
+    mapView.focusStation(id, { openPopup: false });
     if (fromMap && stacked.matches) {
       $('panel-station').scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
@@ -71,7 +71,7 @@ async function init() {
 
 /* ---------------- Controls ---------------- */
 
-function buildControls(data) {
+function buildControls(data, onSelect) {
   const paramSel = $('param-select');
   paramSel.innerHTML = data.params
     .map((p) => `<option value="${p.key}">${p.label}${p.short !== p.label ? ` (${p.short})` : ""}</option>`)
@@ -103,9 +103,10 @@ function buildControls(data) {
   // the selection. Without it, choosing a station is a one-way door and the
   // ranking can never be seen whole again.
   stSel.addEventListener('change', () => {
-    setState(stSel.value
-      ? { stationId: stSel.value, tab: 'station' }
-      : { stationId: null, tab: 'ranking' });
+    // Through onSelect, not setState, so picking a station from the list moves
+    // the map to it exactly as clicking it in the ranking does.
+    if (stSel.value) onSelect(stSel.value);
+    else setState({ stationId: null, tab: 'ranking' });
   });
 
   $('station-clear').addEventListener('click', () => setState({ stationId: null, tab: 'ranking' }));
