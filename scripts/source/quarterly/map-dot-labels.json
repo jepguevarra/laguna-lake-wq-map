@@ -1,0 +1,19 @@
+{
+  "_note": "Dot index -> station, read off the Q1 2026 station map (page 1). Indices refer to map-dots.json.",
+  "_falsePositives": "Dots 1-7 are round glyphs in the map's title text, not stations.",
+  "_manual": "Stn. XX sits on a blue river channel, so the shape filter rejected it; its centre (696, 1092) was read from a magnified crop.",
+  "lake": {
+    "29": "Stn. I", "50": "Stn. II", "34": "Stn. IV", "22": "Stn. V",
+    "53": "Stn. VIII", "16": "Stn. XIII", "36": "Stn. XV", "41": "Stn. XVI",
+    "48": "Stn. XVII", "44": "Stn. XVIII", "30": "Stn. XIX", "40": "Stn. XXI",
+    "52": "Stn. XXII", "42": "Stn. XXIII", "27": "Stn. XXIV"
+  },
+  "river": {
+    "8": "1", "24": "2", "26": "3", "28": "4", "35": "5", "37": "6", "39": "7",
+    "43": "8", "45": "8M", "51": "8U", "46": "9", "54": "10", "55": "11",
+    "57": "12", "59": "13", "56": "14", "47": "15", "49": "16", "33": "17",
+    "31": "17U", "32": "18", "25": "19", "18": "19U", "38": "20", "23": "21",
+    "20": "22A", "19": "22B", "12": "22C", "14": "23", "15": "24", "17": "24U",
+    "11": "25", "10": "26", "13": "27", "9": "28", "58": "29", "21": "30"
+  }
+}
