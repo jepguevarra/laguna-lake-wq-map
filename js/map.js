@@ -1,7 +1,7 @@
 // Leaflet map with free, key-less base maps (OpenStreetMap street map and
 // Esri satellite imagery), station markers, popups, legend and the optional
 // lake shoreline overlay.
-import { getValue, stationTitle, placeLabel, typeLabel } from './data.js';
+import { getValue, stationTitle, placeLabel, typeLabel, monthLabel } from './data.js';
 import { colorFor, legendRows, fmtWithUnit, judge, STATUS_TEXT, criterionText } from './scale.js';
 
 const LABEL_MIN_ZOOM = 11; // show station numbers when zoomed in this far
@@ -120,12 +120,12 @@ export async function createMap(el, data, { onSelect, onStatus }) {
   function popupHtml(st) {
     const { state } = current;
     const p = data.paramByKey[state.param];
-    const v = getValue(st, p.key, state.year);
+    const v = getValue(st, p.key, state.month);
     const status = judge(p, v);
     return `
       <div class="popup-title">${stationTitle(st)}</div>
       <div class="popup-sub">${typeLabel(st)} · ${placeLabel(st)}</div>
-      <div class="popup-val"><strong>${p.label} (${state.year}):</strong> ${fmtWithUnit(v, p)}</div>
+      <div class="popup-val"><strong>${p.label} (${monthLabel(state.month)}):</strong> ${fmtWithUnit(v, p)}</div>
       <div><span class="status ${status}">${STATUS_TEXT[status]}</span>
         <small>Class C: ${criterionText(p)}</small></div>
       <div class="popup-more"><button type="button" data-detail>View station details</button></div>`;
@@ -137,7 +137,7 @@ export async function createMap(el, data, { onSelect, onStatus }) {
 
     for (const st of data.stations) {
       const m = markers.get(st.id);
-      const v = getValue(st, p.key, state.year);
+      const v = getValue(st, p.key, state.month);
       const color = colorFor(p.key, v, breaks);
       const selected = st.id === state.stationId;
       m.setStyle({
@@ -183,7 +183,7 @@ export async function createMap(el, data, { onSelect, onStatus }) {
     const box = legend.getContainer();
     const wasOpen = box.querySelector('details')?.open ?? !window.matchMedia('(max-width: 760px)').matches;
     box.innerHTML = `<details ${wasOpen ? 'open' : ''}>
-      <summary>${p.short}${unit}, ${state.year}</summary>
+      <summary>${p.short}${unit}, ${monthLabel(state.month)}</summary>
       ${rows}
       <div class="row"><span class="sw empty"></span>Not sampled</div>
       <div class="gap"></div>

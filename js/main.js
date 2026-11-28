@@ -1,5 +1,5 @@
 // Entry point: load data, build the controls, connect map + panels to state.
-import { loadData, stationTitle } from './data.js';
+import { loadData, stationTitle, monthLabel } from './data.js';
 import { state, setState, subscribe, readHash, writeHash } from './state.js';
 import { computeBreaks } from './scale.js';
 import { createMap } from './map.js';
@@ -20,17 +20,19 @@ async function init() {
   // Apply a shared link (#param=...&year=...&station=...) if it is valid.
   const fromHash = readHash();
   if (fromHash.param && !data.paramByKey[fromHash.param]) delete fromHash.param;
-  if (fromHash.year && !data.meta.years.includes(fromHash.year)) delete fromHash.year;
+  if (fromHash.month && !data.meta.months.includes(fromHash.month)) delete fromHash.month;
   if (fromHash.stationId && !data.stationById[fromHash.stationId]) {
     delete fromHash.stationId; delete fromHash.tab;
   }
   Object.assign(state, fromHash);
+  // Open on the most recent month the data actually has, not a hard-coded one.
+  if (!fromHash.month) state.month = data.meta.months[data.meta.months.length - 1];
 
   buildControls(data);
 
   // Class breaks are cached per parameter (they span all years).
   const breakCache = {};
-  const breaksFor = (key) => (breakCache[key] ??= computeBreaks(key, data.stations, data.meta.years));
+  const breaksFor = (key) => (breakCache[key] ??= computeBreaks(key, data.stations, data.meta.months));
 
   // The sidebar renders first; the map joins in once it has been created.
   let mapView = { update() {}, focusStation() {} };
@@ -76,10 +78,12 @@ function buildControls(data) {
     .join('');
   paramSel.addEventListener('change', () => setState({ param: paramSel.value }));
 
-  $('year-group').innerHTML = data.meta.years
-    .map((y) => `<label><input type="radio" name="year" value="${y}"><span>${y}</span></label>`)
+  // Twelve months is too many for the segmented control the four years used.
+  const monthSel = $('month-select');
+  monthSel.innerHTML = data.meta.months
+    .map((m) => `<option value="${m}">${monthLabel(m)}</option>`)
     .join('');
-  $('year-group').addEventListener('change', (e) => setState({ year: Number(e.target.value) }));
+  monthSel.addEventListener('change', () => setState({ month: monthSel.value }));
 
   $('show-lake').addEventListener('change', (e) => setState({ showLake: e.target.checked }));
   $('show-trib').addEventListener('change', (e) => setState({ showTrib: e.target.checked }));
@@ -136,7 +140,7 @@ function buildControls(data) {
 
 function syncControls(data) {
   $('param-select').value = state.param;
-  document.querySelectorAll('input[name="year"]').forEach((r) => { r.checked = Number(r.value) === state.year; });
+  $('month-select').value = state.month;
   $('show-lake').checked = state.showLake;
   $('show-trib').checked = state.showTrib;
   $('show-outline').checked = state.showOutline;

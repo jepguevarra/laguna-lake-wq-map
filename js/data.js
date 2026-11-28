@@ -18,10 +18,39 @@ export async function loadData() {
   return { meta, stations, lake, params, paramByKey, stationById };
 }
 
-/** Value for one station, parameter and year, or null when not sampled. */
-export function getValue(station, paramKey, year) {
-  const v = station.values?.[paramKey]?.[String(year)];
+/** Value for one station, parameter and month, or null when not sampled. */
+export function getValue(station, paramKey, month) {
+  const v = station.values?.[paramKey]?.[String(month)];
   return v === undefined ? null : v;
+}
+
+/** The reading as the report printed it when it was below the detection
+    limit, e.g. "<0.1". getValue returns that limit as a number, which is the
+    honest upper bound, but a table should not claim 0.1 was measured. */
+export function censoredText(station, paramKey, month) {
+  return station.censoredValues?.[paramKey]?.[String(month)] ?? null;
+}
+
+const MONTH_NAMES = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+/** "2026-06" reads as "Jun 2026". */
+export function monthLabel(month) {
+  const [y, m] = String(month).split('-');
+  return `${MONTH_NAMES[Number(m) - 1] ?? m} ${y}`;
+}
+
+/** Short form for a crowded chart axis: "Jun 26". */
+export function monthShort(month) {
+  const [y, m] = String(month).split('-');
+  return `${MONTH_NAMES[Number(m) - 1] ?? m} ${y.slice(2)}`;
+}
+
+/** A list of months reads as "Jul 2025 to Jun 2026". */
+export function monthRange(months) {
+  if (!months?.length) return '';
+  const first = monthLabel(months[0]);
+  const last = monthLabel(months[months.length - 1]);
+  return first === last ? first : `${first} to ${last}`;
 }
 
 /** Human-readable station type. */
@@ -37,5 +66,8 @@ export function stationTitle(station) {
 /** Place line, e.g. "Muntinlupa, NCR". */
 export function placeLabel(station) {
   if (station.type === 'lake') return 'Open water, Laguna de Bay';
-  return `${station.municipality}, ${station.province}`;
+  // The quarterly reports name the town but not the province, and for one
+  // river (29, Saran) not even the town. Say so rather than print a stray comma.
+  const parts = [station.municipality, station.province].filter(Boolean);
+  return parts.length ? parts.join(', ') : 'Town not stated in the report';
 }

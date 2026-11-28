@@ -1,0 +1,54 @@
+station,type,name,municipality
+Stn. I,lake,Central West Bay,(open lake)
+Stn. II,lake,East Bay,(open lake)
+Stn. IV,lake,Central Bay,(open lake)
+Stn. V,lake,Northern West Bay,(open lake)
+Stn. VIII,lake,South Bay,(open lake)
+Stn. XIII,lake,Taytay,(open lake)
+Stn. XV,lake,San Pedro (West Bay),(open lake)
+Stn. XVI,lake,Sta Rosa (West Bay),(open lake)
+Stn. XVII,lake,Fish Sanctuary (Central Bay),(open lake)
+Stn. XVIII,lake,Pagsanjan (East Bay),(open lake)
+Stn. XIX,lake,Muntinlupa,(open lake)
+Stn. XX,lake,GEMS,(open lake)
+Stn. XXI,lake,Cardona (Talim),(open lake)
+Stn. XXII,lake,Jala-jala,(open lake)
+Stn. XXIII,lake,Lumban,(open lake)
+Stn. XXIV,lake,Cardona (North Central Bay),(open lake)
+1,tributary,Marikina River,Pasig / Marikina
+2,tributary,Bagumbayan River,Taguig
+3,tributary,Buli Creek,Taguig
+4,tributary,Mangangate River - Downstream,Muntinlupa
+5,tributary,Tunasan River - Downstream,Muntinlupa
+6,tributary,San Pedro River,San Pedro
+7,tributary,Binan River,Binan
+8,tributary,Sta. Rosa River - Downstream,Santa Rosa
+8M,tributary,Sta. Rosa River - Midstream,Santa Rosa
+8U,tributary,Sta. Rosa River - Upstream,Santa Rosa
+9,tributary,Cabuyao River,Cabuyao
+10,tributary,San Cristobal River,Calamba
+11,tributary,San Juan River,Calamba
+12,tributary,Molawin Creek,Los Banos
+13,tributary,Bay River,Bay
+14,tributary,Pila River,Pila
+15,tributary,Sta. Cruz River,Santa Cruz
+16,tributary,Pagsanjan River,Pagsanjan / Lumban
+17,tributary,Pangil River - Downstream,Pangil
+17U,tributary,Pangil River - Upstream,Pangil
+18,tributary,Siniloan River,Siniloan
+19,tributary,Sta. Maria River - Downstream,Santa Maria / Mabitac
+19U,tributary,Sta. Maria River - Upstream,Santa Maria
+20,tributary,Jala-jala River,Jala-jala
+21,tributary,Pilila River,Pililla
+22A,tributary,Tanay River - Brgy. Wawa (Downstream),Tanay
+22B,tributary,Tanay River - Midstream,Tanay
+22C,tributary,Tanay River - Daranak Falls (Upstream),Tanay
+23,tributary,Baras River,Baras
+24,tributary,Morong River - Downstream,Morong
+24U,tributary,Morong River - Upstream,Morong
+25,tributary,Manggahan Floodway,Taytay
+26,tributary,Sapang Baho River,Cainta
+27,tributary,Angono River,Angono
+28,tributary,Teresa River,Teresa
+29,tributary,Saran River,
+30,tributary,Binangonan River,Binangonan

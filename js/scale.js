@@ -15,14 +15,14 @@ export const direction = (key) => DIRECTION[key] || 'high';
 export const isLog = (key) => key === 'total_coliform' || key === 'fecal_coliform';
 
 /**
- * Class breaks from every value of this parameter across all years, so the
- * colours mean the same thing when the user switches year.
+ * Class breaks from every value of this parameter across all months, so the
+ * colours mean the same thing when the user switches month.
  */
-export function computeBreaks(paramKey, stations, years) {
+export function computeBreaks(paramKey, stations, months) {
   const tf = isLog(paramKey) ? Math.log10 : (x) => x;
   const vals = [];
   for (const s of stations) {
-    for (const y of years) {
+    for (const y of months) {
       const v = getValue(s, paramKey, y);
       if (v === null) continue;
       if (isLog(paramKey) && v <= 0) continue; // log10 needs positive values

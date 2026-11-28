@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Laguna de Bay Water Quality Map, 2009–2012</title>
-  <meta name="description" content="Interactive map of LLDA water quality monitoring stations in Laguna de Bay and its tributary rivers, 2009–2012.">
+  <title>Laguna de Bay Water Quality Map, 2025–2026</title>
+  <meta name="description" content="Interactive map of LLDA water quality monitoring stations in Laguna de Bay and its tributary rivers, monthly from July 2025 to June 2026.">
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
   <link rel="stylesheet" href="css/styles.css">
 </head>
@@ -14,7 +14,7 @@
   <header class="site-header">
     <div>
       <h1>Laguna de Bay Water Quality</h1>
-      <p class="subtitle">LLDA monitoring stations, annual averages 2009–2012</p>
+      <p class="subtitle">LLDA monitoring stations, monthly July 2025 to June 2026</p>
     </div>
     <button type="button" class="btn-link" id="about-open" aria-haspopup="dialog">About the data</button>
   </header>
@@ -33,10 +33,10 @@
           <p class="hint" id="param-note"></p>
         </div>
 
-        <fieldset class="field">
-          <legend>Year</legend>
-          <div class="segmented" id="year-group"></div>
-        </fieldset>
+        <div class="field">
+          <label for="month-select">Month</label>
+          <select id="month-select"></select>
+        </div>
 
         <fieldset class="field">
           <legend>Show stations</legend>
@@ -99,16 +99,17 @@
   <dialog id="about" aria-labelledby="about-title">
     <div class="dialog-body">
       <h2 id="about-title">About the data</h2>
-      <p>The values come from the LLDA <em>2009 to 2012 Annual Water Quality Report on the Laguna de Bay and its Tributary Rivers</em>. Each figure is an annual average of monthly samples. For coliform, it is the annual geometric mean.</p>
-      <p><strong>Lake stations</strong> (9) measure the open water. <strong>River stations</strong> (34) sit on the tributaries that drain the surrounding towns into the lake. Where a river has an upstream (U) or midstream (M) station, the plain number is the downstream station near the river mouth.</p>
-      <p>Pass/fail is judged against the DENR Administrative Order No. 34 <strong>Class C</strong> criteria that the report uses. Class C covers fisheries, recreation and industrial supply. Several parameters have no Class C limit.</p>
+      <p>The values come from the LLDA <em>Quarterly Water Quality Report on Laguna Lake and Tributary Rivers</em>, four reports covering July 2025 to June 2026. Each figure is one month's reading. For fecal coliform it is that month's geometric mean.</p>
+      <p><strong>Lake stations</strong> (16) measure the open water. <strong>River stations</strong> (37) sit on the tributaries that drain the surrounding towns into the lake. Where a river has an upstream (U) or midstream (M) station, the plain number is the downstream station near the river mouth.</p>
+      <p>Pass/fail is judged against the DENR <strong>Class C</strong> criteria the reports use. Class C is the water quality Laguna de Bay is legally held to: fit for fisheries, boating and industrial supply. Several parameters have no Class C limit.</p>
       <h3>Limitations</h3>
       <ul>
-        <li>Station positions are approximate (about ±1.5 km). The report includes only a picture map, which was georeferenced against known river mouths.</li>
-        <li>The “Lake shoreline” overlay is the OpenStreetMap boundary of Laguna de Bay, thinned to about 10 m. It shows where the lake really is; the station positions drawn on top of it still carry their ±1.5 km.</li>
-        <li>Several stations started only in 2011 or 2012, so earlier years are blank.</li>
-        <li>Some 2009 coliform values in the report are implausibly high (up to 10¹⁵). They are excluded from the map and charts.</li>
+        <li>Station positions were fitted from the station map printed in each report, georeferenced against the OpenStreetMap lake boundary at about 43 m per pixel. That is far tighter than the ±1.5 km of the older data, but they are still read off a printed map, not surveyed.</li>
+        <li>The “Lake shoreline” overlay is the OpenStreetMap boundary of Laguna de Bay, thinned to about 10 m.</li>
+        <li>Some stations were not sampled every month. Station 20 (Jala-jala River) has no readings at all: it was replaced by Binangonan River in June 2022 but is still listed. Gaps are drawn as “not sampled” rather than guessed at.</li>
+        <li>A reading printed as “&lt;0.1” was below what the laboratory could measure. The charts use that limit, which is its honest upper bound, and the station table shows the original.</li>
         <li>The town listed for a river is where the station is. Rivers also carry pollution from towns upstream.</li>
+        <li>The values were read by eye from scanned reports, which have no machine-readable text. Each table was straightened first, and the gaps match what the reports say in words, but transcription error cannot be ruled out.</li>
       </ul>
       <form method="dialog"><button class="btn" type="submit">Close</button></form>
     </div>

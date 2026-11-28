@@ -3,7 +3,7 @@ const listeners = new Set();
 
 export const state = {
   param: 'bod',      // selected parameter key
-  year: 2012,        // selected year
+  month: '2026-06',  // selected month, as YYYY-MM
   showLake: true,    // lake stations visible
   showTrib: true,    // tributary river stations visible
   showOutline: true, // lake shoreline drawn over the base map
@@ -24,18 +24,18 @@ export function subscribe(fn) {
 }
 
 // Keep the selection in the URL hash so a view can be shared or bookmarked,
-// e.g.  #param=bod&year=2012&station=5
+// e.g.  #param=bod&month=2026-06&station=5
 export function readHash() {
   const h = new URLSearchParams(location.hash.slice(1));
   const out = {};
   if (h.get('param')) out.param = h.get('param');
-  if (h.get('year')) out.year = Number(h.get('year'));
+  if (h.get('month')) out.month = h.get('month');
   if (h.get('station')) { out.stationId = h.get('station'); out.tab = 'station'; }
   return out;
 }
 
 export function writeHash() {
-  const h = new URLSearchParams({ param: state.param, year: state.year });
+  const h = new URLSearchParams({ param: state.param, month: state.month });
   if (state.stationId) h.set('station', state.stationId);
   history.replaceState(null, '', '#' + h.toString());
 }
