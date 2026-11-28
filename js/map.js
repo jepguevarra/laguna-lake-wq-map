@@ -196,7 +196,13 @@ export async function createMap(el, data, { onSelect, onStatus }) {
     const ll = m.getLatLng();
     // Zoom in to the station, but never pull back out: someone who has zoomed
     // further in than this is looking at something and should keep it.
-    if (zoom) map.flyTo(ll, Math.max(map.getZoom(), FOCUS_ZOOM), { duration: 0.6 });
+    // Flying here counts as positioning the map on purpose, so stop the resize
+    // observer refitting to all stations afterwards and undoing it. Without
+    // this, a shared link with a station in it lands zoomed out.
+    if (zoom) {
+      userMoved = true;
+      map.flyTo(ll, Math.max(map.getZoom(), FOCUS_ZOOM), { duration: 0.6 });
+    }
     else if (!map.getBounds().pad(-0.15).contains(ll)) map.panTo(ll);
     if (openPopup) m.openPopup();
   }
