@@ -1,0 +1,433 @@
+station,parameter,unit,month,value
+I,bod,mg/L,2025-07,5
+I,bod,mg/L,2025-08,2
+I,bod,mg/L,2025-09,3
+I,do,mg/L,2025-07,7
+I,do,mg/L,2025-08,6
+I,do,mg/L,2025-09,6
+I,fecal_coliform,MPN/100 mL,2025-07,50
+I,fecal_coliform,MPN/100 mL,2025-08,65
+I,fecal_coliform,MPN/100 mL,2025-09,84
+I,chloride,mg/L,2025-07,169
+I,chloride,mg/L,2025-08,81
+I,chloride,mg/L,2025-09,85
+II,bod,mg/L,2025-07,4
+II,bod,mg/L,2025-08,3
+II,bod,mg/L,2025-09,2
+II,do,mg/L,2025-07,7
+II,do,mg/L,2025-08,8
+II,do,mg/L,2025-09,8
+II,fecal_coliform,MPN/100 mL,2025-07,25
+II,fecal_coliform,MPN/100 mL,2025-08,33
+II,fecal_coliform,MPN/100 mL,2025-09,24
+II,chloride,mg/L,2025-07,119
+II,chloride,mg/L,2025-08,43
+II,chloride,mg/L,2025-09,48
+IV,bod,mg/L,2025-07,3
+IV,bod,mg/L,2025-08,3
+IV,bod,mg/L,2025-09,3
+IV,do,mg/L,2025-07,7
+IV,do,mg/L,2025-08,8
+IV,do,mg/L,2025-09,7
+IV,fecal_coliform,MPN/100 mL,2025-07,19
+IV,fecal_coliform,MPN/100 mL,2025-08,19
+IV,fecal_coliform,MPN/100 mL,2025-09,19
+IV,chloride,mg/L,2025-07,145
+IV,chloride,mg/L,2025-08,106
+IV,chloride,mg/L,2025-09,83
+V,bod,mg/L,2025-07,4
+V,bod,mg/L,2025-08,3
+V,bod,mg/L,2025-09,3
+V,do,mg/L,2025-07,8
+V,do,mg/L,2025-08,7
+V,do,mg/L,2025-09,7
+V,fecal_coliform,MPN/100 mL,2025-07,45
+V,fecal_coliform,MPN/100 mL,2025-08,45
+V,fecal_coliform,MPN/100 mL,2025-09,45
+V,chloride,mg/L,2025-07,135
+V,chloride,mg/L,2025-08,81
+V,chloride,mg/L,2025-09,87
+VIII,bod,mg/L,2025-07,4
+VIII,bod,mg/L,2025-08,4
+VIII,bod,mg/L,2025-09,2
+VIII,do,mg/L,2025-07,7
+VIII,do,mg/L,2025-08,9
+VIII,do,mg/L,2025-09,6
+VIII,fecal_coliform,MPN/100 mL,2025-07,46
+VIII,fecal_coliform,MPN/100 mL,2025-08,28
+VIII,fecal_coliform,MPN/100 mL,2025-09,19
+VIII,chloride,mg/L,2025-07,133
+VIII,chloride,mg/L,2025-08,71
+VIII,chloride,mg/L,2025-09,77
+XIII,bod,mg/L,2025-07,7
+XIII,bod,mg/L,2025-08,2
+XIII,bod,mg/L,2025-09,3
+XIII,do,mg/L,2025-07,7
+XIII,do,mg/L,2025-08,6
+XIII,do,mg/L,2025-09,7
+XIII,fecal_coliform,MPN/100 mL,2025-07,393
+XIII,fecal_coliform,MPN/100 mL,2025-08,292
+XIII,fecal_coliform,MPN/100 mL,2025-09,140
+XIII,chloride,mg/L,2025-07,125
+XIII,chloride,mg/L,2025-08,91
+XIII,chloride,mg/L,2025-09,87
+XV,bod,mg/L,2025-07,4
+XV,bod,mg/L,2025-08,4
+XV,bod,mg/L,2025-09,4
+XV,do,mg/L,2025-07,7
+XV,do,mg/L,2025-08,7
+XV,do,mg/L,2025-09,4
+XV,fecal_coliform,MPN/100 mL,2025-07,918
+XV,fecal_coliform,MPN/100 mL,2025-08,1675
+XV,fecal_coliform,MPN/100 mL,2025-09,1978
+XV,chloride,mg/L,2025-07,129
+XV,chloride,mg/L,2025-08,95
+XV,chloride,mg/L,2025-09,67
+XVI,bod,mg/L,2025-07,5
+XVI,bod,mg/L,2025-08,3
+XVI,bod,mg/L,2025-09,3
+XVI,do,mg/L,2025-07,8
+XVI,do,mg/L,2025-08,7
+XVI,do,mg/L,2025-09,6
+XVI,fecal_coliform,MPN/100 mL,2025-07,233
+XVI,fecal_coliform,MPN/100 mL,2025-08,504
+XVI,fecal_coliform,MPN/100 mL,2025-09,306
+XVI,chloride,mg/L,2025-07,133
+XVI,chloride,mg/L,2025-08,112
+XVI,chloride,mg/L,2025-09,79
+XVII,bod,mg/L,2025-07,5
+XVII,bod,mg/L,2025-08,2
+XVII,bod,mg/L,2025-09,2
+XVII,do,mg/L,2025-07,7
+XVII,do,mg/L,2025-08,7
+XVII,do,mg/L,2025-09,6
+XVII,fecal_coliform,MPN/100 mL,2025-07,28
+XVII,fecal_coliform,MPN/100 mL,2025-08,38
+XVII,fecal_coliform,MPN/100 mL,2025-09,24
+XVII,chloride,mg/L,2025-07,153
+XVII,chloride,mg/L,2025-08,101
+XVII,chloride,mg/L,2025-09,85
+XVIII,bod,mg/L,2025-07,4
+XVIII,bod,mg/L,2025-08,3
+XVIII,bod,mg/L,2025-09,3
+XVIII,do,mg/L,2025-07,8
+XVIII,do,mg/L,2025-08,9
+XVIII,do,mg/L,2025-09,8
+XVIII,fecal_coliform,MPN/100 mL,2025-07,24
+XVIII,fecal_coliform,MPN/100 mL,2025-08,24
+XVIII,fecal_coliform,MPN/100 mL,2025-09,18
+XVIII,chloride,mg/L,2025-07,36
+XVIII,chloride,mg/L,2025-08,51
+XVIII,chloride,mg/L,2025-09,10
+XIX,bod,mg/L,2025-07,4
+XIX,bod,mg/L,2025-08,2
+XIX,bod,mg/L,2025-09,3
+XIX,do,mg/L,2025-07,8
+XIX,do,mg/L,2025-08,7
+XIX,do,mg/L,2025-09,6
+XIX,fecal_coliform,MPN/100 mL,2025-07,88
+XIX,fecal_coliform,MPN/100 mL,2025-08,105
+XIX,fecal_coliform,MPN/100 mL,2025-09,84
+XIX,chloride,mg/L,2025-07,137
+XIX,chloride,mg/L,2025-08,116
+XIX,chloride,mg/L,2025-09,71
+XX,bod,mg/L,2025-07,4
+XX,bod,mg/L,2025-08,4
+XX,bod,mg/L,2025-09,2
+XX,do,mg/L,2025-07,5
+XX,do,mg/L,2025-08,7
+XX,do,mg/L,2025-09,6
+XX,fecal_coliform,MPN/100 mL,2025-07,256
+XX,fecal_coliform,MPN/100 mL,2025-08,252
+XX,fecal_coliform,MPN/100 mL,2025-09,370
+XX,chloride,mg/L,2025-07,145
+XX,chloride,mg/L,2025-08,61
+XX,chloride,mg/L,2025-09,87
+XXI,bod,mg/L,2025-07,5
+XXI,bod,mg/L,2025-08,4
+XXI,bod,mg/L,2025-09,2
+XXI,do,mg/L,2025-07,6
+XXI,do,mg/L,2025-08,8
+XXI,do,mg/L,2025-09,6
+XXI,fecal_coliform,MPN/100 mL,2025-07,47
+XXI,fecal_coliform,MPN/100 mL,2025-08,47
+XXI,fecal_coliform,MPN/100 mL,2025-09,36
+XXI,chloride,mg/L,2025-07,147
+XXI,chloride,mg/L,2025-08,108
+XXI,chloride,mg/L,2025-09,83
+XXII,bod,mg/L,2025-07,4
+XXII,bod,mg/L,2025-08,3
+XXII,bod,mg/L,2025-09,<1
+XXII,do,mg/L,2025-07,7
+XXII,do,mg/L,2025-08,8
+XXII,do,mg/L,2025-09,7
+XXII,fecal_coliform,MPN/100 mL,2025-07,28
+XXII,fecal_coliform,MPN/100 mL,2025-08,38
+XXII,fecal_coliform,MPN/100 mL,2025-09,24
+XXII,chloride,mg/L,2025-07,115
+XXII,chloride,mg/L,2025-08,85
+XXII,chloride,mg/L,2025-09,81
+XXIII,bod,mg/L,2025-07,3
+XXIII,bod,mg/L,2025-08,2
+XXIII,bod,mg/L,2025-09,4
+XXIII,do,mg/L,2025-07,6
+XXIII,do,mg/L,2025-08,7
+XXIII,do,mg/L,2025-09,8
+XXIII,fecal_coliform,MPN/100 mL,2025-07,92
+XXIII,fecal_coliform,MPN/100 mL,2025-08,44
+XXIII,fecal_coliform,MPN/100 mL,2025-09,30
+XXIII,chloride,mg/L,2025-07,12
+XXIII,chloride,mg/L,2025-08,34
+XXIII,chloride,mg/L,2025-09,12
+XXIV,bod,mg/L,2025-07,6
+XXIV,bod,mg/L,2025-08,3
+XXIV,bod,mg/L,2025-09,1
+XXIV,do,mg/L,2025-07,7
+XXIV,do,mg/L,2025-08,7
+XXIV,do,mg/L,2025-09,7
+XXIV,fecal_coliform,MPN/100 mL,2025-07,29
+XXIV,fecal_coliform,MPN/100 mL,2025-08,46
+XXIV,fecal_coliform,MPN/100 mL,2025-09,77
+XXIV,chloride,mg/L,2025-07,143
+XXIV,chloride,mg/L,2025-08,97
+XXIV,chloride,mg/L,2025-09,81
+I,ph,units,2025-07,7.6
+I,ph,units,2025-08,7.9
+I,ph,units,2025-09,8.1
+I,ammonia,mg/L,2025-07,0.04
+I,ammonia,mg/L,2025-08,0.1
+I,ammonia,mg/L,2025-09,0.04
+I,nitrate,mg/L,2025-07,<0.1
+I,nitrate,mg/L,2025-08,1
+I,nitrate,mg/L,2025-09,0.9
+I,phosphate,mg/L,2025-07,0.16
+I,phosphate,mg/L,2025-08,0.20
+I,phosphate,mg/L,2025-09,0.20
+I,tss,mg/L,2025-07,35
+I,tss,mg/L,2025-08,64
+I,tss,mg/L,2025-09,26
+II,ph,units,2025-07,9.0
+II,ph,units,2025-08,8.4
+II,ph,units,2025-09,8.1
+II,ammonia,mg/L,2025-07,0.03
+II,ammonia,mg/L,2025-08,0.07
+II,ammonia,mg/L,2025-09,<0.002
+II,nitrate,mg/L,2025-07,<0.1
+II,nitrate,mg/L,2025-08,0.5
+II,nitrate,mg/L,2025-09,0.3
+II,phosphate,mg/L,2025-07,0.044
+II,phosphate,mg/L,2025-08,0.13
+II,phosphate,mg/L,2025-09,0.070
+II,tss,mg/L,2025-07,27
+II,tss,mg/L,2025-08,12
+II,tss,mg/L,2025-09,19
+IV,ph,units,2025-07,8.9
+IV,ph,units,2025-08,8.3
+IV,ph,units,2025-09,8.2
+IV,ammonia,mg/L,2025-07,0.1
+IV,ammonia,mg/L,2025-08,0.1
+IV,ammonia,mg/L,2025-09,0.03
+IV,nitrate,mg/L,2025-07,0.2
+IV,nitrate,mg/L,2025-08,0.8
+IV,nitrate,mg/L,2025-09,1
+IV,phosphate,mg/L,2025-07,0.16
+IV,phosphate,mg/L,2025-08,0.17
+IV,phosphate,mg/L,2025-09,0.19
+IV,tss,mg/L,2025-07,380
+IV,tss,mg/L,2025-08,27
+IV,tss,mg/L,2025-09,19
+V,ph,units,2025-07,9.0
+V,ph,units,2025-08,8.1
+V,ph,units,2025-09,8.1
+V,ammonia,mg/L,2025-07,0.05
+V,ammonia,mg/L,2025-08,0.1
+V,ammonia,mg/L,2025-09,0.02
+V,nitrate,mg/L,2025-07,0.2
+V,nitrate,mg/L,2025-08,1
+V,nitrate,mg/L,2025-09,0.8
+V,phosphate,mg/L,2025-07,0.17
+V,phosphate,mg/L,2025-08,0.20
+V,phosphate,mg/L,2025-09,0.20
+V,tss,mg/L,2025-07,48
+V,tss,mg/L,2025-08,50
+V,tss,mg/L,2025-09,19
+VIII,ph,units,2025-07,8.8
+VIII,ph,units,2025-08,8.8
+VIII,ph,units,2025-09,7.6
+VIII,ammonia,mg/L,2025-07,0.01
+VIII,ammonia,mg/L,2025-08,0.05
+VIII,ammonia,mg/L,2025-09,<0.002
+VIII,nitrate,mg/L,2025-07,<0.1
+VIII,nitrate,mg/L,2025-08,0.4
+VIII,nitrate,mg/L,2025-09,0.7
+VIII,phosphate,mg/L,2025-07,0.046
+VIII,phosphate,mg/L,2025-08,0.13
+VIII,phosphate,mg/L,2025-09,0.17
+VIII,tss,mg/L,2025-07,21
+VIII,tss,mg/L,2025-08,12
+VIII,tss,mg/L,2025-09,11
+XIII,ph,units,2025-07,8.9
+XIII,ph,units,2025-08,7.5
+XIII,ph,units,2025-09,8.0
+XIII,ammonia,mg/L,2025-07,0.1
+XIII,ammonia,mg/L,2025-08,0.08
+XIII,ammonia,mg/L,2025-09,0.02
+XIII,nitrate,mg/L,2025-07,<0.1
+XIII,nitrate,mg/L,2025-08,1
+XIII,nitrate,mg/L,2025-09,0.8
+XIII,phosphate,mg/L,2025-07,0.22
+XIII,phosphate,mg/L,2025-08,0.18
+XIII,phosphate,mg/L,2025-09,0.20
+XIII,tss,mg/L,2025-07,69
+XIII,tss,mg/L,2025-08,28
+XIII,tss,mg/L,2025-09,26
+XV,ph,units,2025-07,8.8
+XV,ph,units,2025-08,7.8
+XV,ph,units,2025-09,7.6
+XV,ammonia,mg/L,2025-07,0.03
+XV,ammonia,mg/L,2025-08,0.05
+XV,ammonia,mg/L,2025-09,0.02
+XV,nitrate,mg/L,2025-07,<0.1
+XV,nitrate,mg/L,2025-08,1
+XV,nitrate,mg/L,2025-09,1
+XV,phosphate,mg/L,2025-07,0.10
+XV,phosphate,mg/L,2025-08,0.23
+XV,phosphate,mg/L,2025-09,0.26
+XV,tss,mg/L,2025-07,33
+XV,tss,mg/L,2025-08,11
+XV,tss,mg/L,2025-09,32
+XVI,ph,units,2025-07,8.9
+XVI,ph,units,2025-08,7.9
+XVI,ph,units,2025-09,7.8
+XVI,ammonia,mg/L,2025-07,0.01
+XVI,ammonia,mg/L,2025-08,0.2
+XVI,ammonia,mg/L,2025-09,0.02
+XVI,nitrate,mg/L,2025-07,<0.1
+XVI,nitrate,mg/L,2025-08,0.6
+XVI,nitrate,mg/L,2025-09,0.9
+XVI,phosphate,mg/L,2025-07,0.082
+XVI,phosphate,mg/L,2025-08,0.19
+XVI,phosphate,mg/L,2025-09,0.19
+XVI,tss,mg/L,2025-07,29
+XVI,tss,mg/L,2025-08,23
+XVI,tss,mg/L,2025-09,27
+XVII,ph,units,2025-07,9.0
+XVII,ph,units,2025-08,8.1
+XVII,ph,units,2025-09,8.1
+XVII,ammonia,mg/L,2025-07,<0.002
+XVII,ammonia,mg/L,2025-08,0.07
+XVII,ammonia,mg/L,2025-09,0.01
+XVII,nitrate,mg/L,2025-07,<0.1
+XVII,nitrate,mg/L,2025-08,0.7
+XVII,nitrate,mg/L,2025-09,1
+XVII,phosphate,mg/L,2025-07,0.033
+XVII,phosphate,mg/L,2025-08,0.15
+XVII,phosphate,mg/L,2025-09,0.18
+XVII,tss,mg/L,2025-07,32
+XVII,tss,mg/L,2025-08,21
+XVII,tss,mg/L,2025-09,9
+XVIII,ph,units,2025-07,8.9
+XVIII,ph,units,2025-08,8.3
+XVIII,ph,units,2025-09,8.3
+XVIII,ammonia,mg/L,2025-07,0.02
+XVIII,ammonia,mg/L,2025-08,0.05
+XVIII,ammonia,mg/L,2025-09,<0.002
+XVIII,nitrate,mg/L,2025-07,<0.1
+XVIII,nitrate,mg/L,2025-08,0.6
+XVIII,nitrate,mg/L,2025-09,<0.1
+XVIII,phosphate,mg/L,2025-07,0.021
+XVIII,phosphate,mg/L,2025-08,0.14
+XVIII,phosphate,mg/L,2025-09,0.012
+XVIII,tss,mg/L,2025-07,27
+XVIII,tss,mg/L,2025-08,10
+XVIII,tss,mg/L,2025-09,12
+XIX,ph,units,2025-07,9.0
+XIX,ph,units,2025-08,8.1
+XIX,ph,units,2025-09,8.0
+XIX,ammonia,mg/L,2025-07,0.01
+XIX,ammonia,mg/L,2025-08,0.05
+XIX,ammonia,mg/L,2025-09,0.02
+XIX,nitrate,mg/L,2025-07,<0.1
+XIX,nitrate,mg/L,2025-08,0.7
+XIX,nitrate,mg/L,2025-09,0.7
+XIX,phosphate,mg/L,2025-07,0.14
+XIX,phosphate,mg/L,2025-08,0.17
+XIX,phosphate,mg/L,2025-09,0.17
+XIX,tss,mg/L,2025-07,23
+XIX,tss,mg/L,2025-08,22
+XIX,tss,mg/L,2025-09,12
+XX,ph,units,2025-07,9.1
+XX,ph,units,2025-08,8.0
+XX,ph,units,2025-09,7.9
+XX,ammonia,mg/L,2025-07,0.02
+XX,ammonia,mg/L,2025-08,0.1
+XX,ammonia,mg/L,2025-09,0.03
+XX,nitrate,mg/L,2025-07,<0.1
+XX,nitrate,mg/L,2025-08,1
+XX,nitrate,mg/L,2025-09,1
+XX,phosphate,mg/L,2025-07,0.11
+XX,phosphate,mg/L,2025-08,0.20
+XX,phosphate,mg/L,2025-09,0.22
+XX,tss,mg/L,2025-07,31
+XX,tss,mg/L,2025-08,44
+XX,tss,mg/L,2025-09,45
+XXI,ph,units,2025-07,8.8
+XXI,ph,units,2025-08,8.2
+XXI,ph,units,2025-09,8.0
+XXI,ammonia,mg/L,2025-07,0.04
+XXI,ammonia,mg/L,2025-08,0.09
+XXI,ammonia,mg/L,2025-09,0.01
+XXI,nitrate,mg/L,2025-07,0.1
+XXI,nitrate,mg/L,2025-08,0.7
+XXI,nitrate,mg/L,2025-09,1
+XXI,phosphate,mg/L,2025-07,0.054
+XXI,phosphate,mg/L,2025-08,0.15
+XXI,phosphate,mg/L,2025-09,0.20
+XXI,tss,mg/L,2025-07,132
+XXI,tss,mg/L,2025-08,37
+XXI,tss,mg/L,2025-09,10
+XXII,ph,units,2025-07,8.9
+XXII,ph,units,2025-08,8.2
+XXII,ph,units,2025-09,7.6
+XXII,ammonia,mg/L,2025-07,0.003
+XXII,ammonia,mg/L,2025-08,0.09
+XXII,ammonia,mg/L,2025-09,<0.002
+XXII,nitrate,mg/L,2025-07,0.4
+XXII,nitrate,mg/L,2025-08,0.6
+XXII,nitrate,mg/L,2025-09,0.9
+XXII,phosphate,mg/L,2025-07,0.057
+XXII,phosphate,mg/L,2025-08,0.15
+XXII,phosphate,mg/L,2025-09,0.18
+XXII,tss,mg/L,2025-07,21
+XXII,tss,mg/L,2025-08,20
+XXII,tss,mg/L,2025-09,21
+XXIII,ph,units,2025-07,9.0
+XXIII,ph,units,2025-08,7.8
+XXIII,ph,units,2025-09,7.2
+XXIII,ammonia,mg/L,2025-07,0.1
+XXIII,ammonia,mg/L,2025-08,0.06
+XXIII,ammonia,mg/L,2025-09,<0.002
+XXIII,nitrate,mg/L,2025-07,0.1
+XXIII,nitrate,mg/L,2025-08,0.4
+XXIII,nitrate,mg/L,2025-09,<0.1
+XXIII,phosphate,mg/L,2025-07,0.077
+XXIII,phosphate,mg/L,2025-08,0.12
+XXIII,phosphate,mg/L,2025-09,0.053
+XXIII,tss,mg/L,2025-07,19
+XXIII,tss,mg/L,2025-08,5
+XXIII,tss,mg/L,2025-09,6
+XXIV,ph,units,2025-07,9.1
+XXIV,ph,units,2025-08,7.8
+XXIV,ph,units,2025-09,8.2
+XXIV,ammonia,mg/L,2025-07,0.03
+XXIV,ammonia,mg/L,2025-08,0.1
+XXIV,ammonia,mg/L,2025-09,0.02
+XXIV,nitrate,mg/L,2025-07,0.1
+XXIV,nitrate,mg/L,2025-08,1
+XXIV,nitrate,mg/L,2025-09,1
+XXIV,phosphate,mg/L,2025-07,0.10
+XXIV,phosphate,mg/L,2025-08,0.17
+XXIV,phosphate,mg/L,2025-09,0.20
+XXIV,tss,mg/L,2025-07,39
+XXIV,tss,mg/L,2025-08,40
+XXIV,tss,mg/L,2025-09,15
