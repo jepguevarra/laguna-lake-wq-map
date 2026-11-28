@@ -42,7 +42,7 @@
           <legend>Show stations</legend>
           <label class="check"><input type="checkbox" id="show-lake" checked> In the lake</label>
           <label class="check"><input type="checkbox" id="show-trib" checked> Rivers flowing into the lake</label>
-          <label class="check"><input type="checkbox" id="show-outline"> LLDA lake outline (traced, approx.)</label>
+          <label class="check"><input type="checkbox" id="show-outline" checked> Lake shoreline</label>
         </fieldset>
 
         <div class="field">
@@ -89,7 +89,8 @@
       </section>
 
       <footer class="sidebar-foot">
-        Data: Laguna Lake Development Authority (LLDA). Standard: DENR DAO 34, Class C.
+        <p>Data: Laguna Lake Development Authority (LLDA). Standard: DENR DAO 34, Class C. Shoreline: OpenStreetMap (ODbL).</p>
+        <p class="byline">Final Examination by Guevarra, Jeffrey · Orig, Kimberly · Hernandez, Kate Hyacinth</p>
       </footer>
     </aside>
   </main>
@@ -103,7 +104,7 @@
       <h3>Limitations</h3>
       <ul>
         <li>Station positions are approximate (about ±1.5 km). The report includes only a picture map, which was georeferenced against known river mouths.</li>
-        <li>The base maps (OpenStreetMap street map and Esri satellite imagery) show the real shoreline. The optional “LLDA lake outline” overlay was traced from the report map and has the same ±1.5 km accuracy as the stations.</li>
+        <li>The “Lake shoreline” overlay is the OpenStreetMap boundary of Laguna de Bay, thinned to about 10 m. It shows where the lake really is; the station positions drawn on top of it still carry their ±1.5 km.</li>
         <li>Several stations started only in 2011 or 2012, so earlier years are blank.</li>
         <li>Some 2009 coliform values in the report are implausibly high (up to 10¹⁵). They are excluded from the map and charts.</li>
         <li>The town listed for a river is where the station is. Rivers also carry pollution from towns upstream.</li>

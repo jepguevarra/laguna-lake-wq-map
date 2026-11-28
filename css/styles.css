@@ -158,6 +158,8 @@ select {
 .data-table td small { color: var(--ink-3); }
 
 .sidebar-foot { padding: 12px 20px; font-size: .78rem; color: var(--ink-3); border-top: 1px solid var(--line); }
+.sidebar-foot p { margin: 0; }
+.sidebar-foot .byline { margin-top: 8px; color: var(--ink-2); }
 
 /* ---------- Map legend & popup ---------- */
 .legend {
@@ -182,6 +184,23 @@ select {
   text-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 2px #fff;
 }
 .station-label::before { display: none; }
+
+/* Selected station: a ring that pulses outward from the marker, coloured per
+   station type in map.js. When the animation is off (see the
+   prefers-reduced-motion rule at the end of this file) the base styles below
+   leave the ring sitting still, which still marks the selection. */
+.pulse-ring {
+  transform-box: fill-box;
+  transform-origin: center;
+  transform: scale(1.4);
+  opacity: .7;
+  animation: station-pulse 1.8s ease-out infinite;
+}
+@keyframes station-pulse {
+  0%   { transform: scale(.8);  opacity: .9; }
+  70%  { transform: scale(2.4); opacity: 0; }
+  100% { transform: scale(2.4); opacity: 0; }
+}
 .popup-title { font-weight: 600; font-size: .92rem; }
 .popup-sub { color: var(--ink-2); }
 .popup-val { margin-top: 6px; }

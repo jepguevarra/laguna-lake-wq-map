@@ -6,11 +6,15 @@ Inputs (in scripts/source/):
                                       (scripts/parse_awqr.py)
   stations.csv                      - station list with approximate coordinates
   laguna_lake_traced.geojson        - lake outline traced from the report map
-                                      (scripts/trace_lake.py)
+                                      (scripts/trace_lake.py). Only used to work
+                                      out which river stations fall in the lake.
+  laguna_lake_osm.geojson           - the real shoreline, OpenStreetMap relation
+                                      79348 (scripts/fetch_lake.mjs). This is the
+                                      one the map draws.
 
 Outputs (in data/):
   stations.json        - parameter metadata + one object per station
-  laguna-lake.geojson  - lake boundary polygon
+  laguna-lake.geojson  - lake shoreline the map draws
 
 Run:  python3 scripts/build_app_data.py
 Needs: pandas, shapely
@@ -65,8 +69,14 @@ SHORE_OFFSET_DEG = 0.004    # ~400 m: how far onto land a moved station is place
 
 long = pd.read_csv(SRC / "water_quality_2009_2012_long.csv")
 stations = pd.read_csv(SRC / "stations.csv")
-lake_fc = json.load(open(SRC / "laguna_lake_traced.geojson"))
-lake = shape(lake_fc["features"][0]["geometry"])
+# Two outlines, deliberately. The hand trace decides which river stations sit
+# inside the lake, because it carries the same +/-1.5 km error as the station
+# coordinates it is tested against; swapping in the exact shoreline would move
+# stations on the strength of accuracy they do not have. The OSM shoreline is
+# only drawn.
+traced_fc = json.load(open(SRC / "laguna_lake_traced.geojson"))
+lake = shape(traced_fc["features"][0]["geometry"])
+lake_fc = json.load(open(SRC / "laguna_lake_osm.geojson"))
 
 by_report_name = {p[1]: p for p in PARAMS}
 long = long[long.parameter.isin(by_report_name)]

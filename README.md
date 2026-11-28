@@ -10,8 +10,8 @@ WITM 101 Advanced Web Design and Programming, final examination.
 
 | Exam requirement | How it is met |
 |---|---|
-| Show the Laguna Lake boundary | Real base maps (OpenStreetMap street map and Esri satellite imagery) show the actual shoreline, Talim Island and surrounding towns. An optional overlay draws the LLDA lake outline (traced from the report, GeoJSON) on top. |
-| Show monitoring stations around the lake | 9 lake stations (black ring) and 34 river stations (thin outline), placed from the LLDA station map. |
+| Show the Laguna Lake boundary | Real base maps (OpenStreetMap street map and Esri satellite imagery) show the actual shoreline, Talim Island and surrounding towns. An overlay draws the lake boundary itself on top: OpenStreetMap relation 79348 as GeoJSON, 29 rings counting the islands. |
+| Show monitoring stations around the lake | 9 lake stations (black ring) and 34 river stations (thin outline), placed from the LLDA station map. The selected station is ringed and pulses, orange in the lake and blue on the rivers. |
 | Zoom, pan and click on markers | Leaflet zoom and pan, a scale bar, and a switcher for Street map, Satellite (with place names) and Light. Clicking a marker opens a popup and the station panel. |
 | At least 4–6 water quality parameters per station | 14 parameters per station: DO, BOD, COD, pH, temperature, turbidity, nitrate, phosphate, ammonia, TSS, oil and grease, chloride, total coliform and fecal coliform. |
 | Visualise the data with charts and map layers | Markers are coloured by the selected parameter and year, with a legend. The **Ranking** view lists every station from worst to best, with bars and the Class C limit marked. The **Station** view has a 2009–2012 trend chart (Chart.js) compared with the average of similar stations, plus a table of all parameters showing pass or fail. |
@@ -66,17 +66,18 @@ laguna-lake-wq-map/
 │   ├── state.js            Small shared store (publish/subscribe) and URL hash sync
 │   ├── data.js             Loads the JSON files; value and label helpers
 │   ├── scale.js            Colour classes, number formatting, Class C pass/fail
-│   ├── map.js              Leaflet map: base maps, station markers, popups, legend, outline
+│   ├── map.js              Leaflet map: base maps, station markers, popups, legend, outline, selection pulse
 │   └── panel.js            Ranking list, station trend chart (Chart.js) and table
 ├── data/
 │   ├── stations.json       43 stations with values per parameter and year, plus metadata
-│   └── laguna-lake.geojson Lake boundary polygon
-├── vendor/                 Leaflet 1.9.4 and Chart.js 4.4 (with their licences)
-└── scripts/                Python scripts that produced the data (not used by the site)
+│   └── laguna-lake.geojson Lake shoreline and islands, from OpenStreetMap
+├── vendor/                 Leaflet 1.9.4 and Chart.js 4.6.1 (with their licences)
+└── scripts/                Scripts that produced the data (not used by the site)
     ├── parse_awqr.py       Extracts the tables from the LLDA PDF
-    ├── trace_lake.py       Traces the lake outline from the report map
+    ├── trace_lake.py       Traces the report map's lake outline (station snapping only)
+    ├── fetch_lake.mjs      Fetches the real shoreline from OpenStreetMap (Node)
     ├── build_app_data.py   Writes data/stations.json and data/laguna-lake.geojson
-    └── source/             The extracted CSV files and the traced outline
+    └── source/             The extracted CSV files and both lake outlines
 ```
 
 ## 5. How the code works
@@ -104,7 +105,7 @@ user action ──► setState() ──► render() ──► map.update()
 
 1. **Extract the tables** (`parse_awqr.py`). The PDF was converted to text with `pdftotext -layout`. Each parameter's lake and river tables were then parsed, giving 2,293 values. Spot checks against the PDF matched.
 2. **Locate the stations.** The report has only a picture map. It was georeferenced with an affine transform fitted on 7 river mouths with known coordinates; the average error is about ±1.5 km.
-3. **Trace the lake** (`trace_lake.py`). The blue lake area on the same map was turned into a polygon with OpenCV and the same transform. The traced area is about 923 km², close to the published 911–949 km².
+3. **Trace the lake** (`trace_lake.py`). The blue lake area on the same map was turned into a polygon with OpenCV and the same transform. The traced area is about 923 km², close to the published 911–949 km². This trace is no longer what the map draws. It survives only to decide which river stations fall inside the lake, a comparison where its error matches the stations' own. The drawn shoreline comes from OpenStreetMap (`fetch_lake.mjs`).
 4. **Build the app data** (`build_app_data.py`). This step attaches DAO 34 criteria and descriptions, and flags 2009 coliform values above 10⁹ (some are printed as 10¹⁵). Flagged values are kept out of the charts.
 
 **Towns.** A river station's municipality is the town the river is named after or where the station sits. Rivers also carry pollution from towns further upstream, so a station's value reflects the whole catchment upstream, not just one town.
@@ -118,7 +119,7 @@ user action ──► setState() ──► render() ──► map.update()
 
 ## 8. Limitations
 
-- Station positions are approximate (about ±1.5 km), so on the real base map some river stations sit slightly inland or offshore. The traced outline overlay has the same error, which is why it is off by default. Exact station shapefiles can be requested from LLDA through foi.gov.ph.
+- Station positions are approximate (about ±1.5 km), so on the real base map some river stations sit slightly inland or offshore. The shoreline overlay is exact, so it makes that offset visible rather than hiding it. Exact station shapefiles can be requested from LLDA through foi.gov.ph.
 - The data stops at 2012. LLDA publishes 2013–2023 data on llda.gov.ph, and it could be added by extending `scripts/source/water_quality_*.csv` and rerunning `build_app_data.py`.
 - Some stations were added in 2011–2012, so earlier years are blank for them.
 
@@ -127,4 +128,5 @@ user action ──► setState() ──► render() ──► map.update()
 - Water quality data: Laguna Lake Development Authority (LLDA).
 - Map library: [Leaflet](https://leafletjs.com) (BSD-2-Clause). Charts: [Chart.js](https://www.chartjs.org) (MIT).
 - Base maps: © OpenStreetMap contributors; satellite imagery © Esri, Maxar, Earthstar Geographics; light map © CARTO.
+- Lake boundary: OpenStreetMap relation 79348, © OpenStreetMap contributors, [ODbL](https://opendatacommons.org/licenses/odbl/).
 - Colour palettes: ColorBrewer (Cynthia Brewer, Penn State).

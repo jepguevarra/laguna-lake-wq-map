@@ -1,10 +1,14 @@
 // Leaflet map with free, key-less base maps (OpenStreetMap street map and
 // Esri satellite imagery), station markers, popups, legend and the optional
-// traced lake outline.
+// lake shoreline overlay.
 import { getValue, stationTitle, placeLabel, typeLabel } from './data.js';
 import { colorFor, legendRows, fmtWithUnit, judge, STATUS_TEXT, criterionText } from './scale.js';
 
 const LABEL_MIN_ZOOM = 11; // show station numbers when zoomed in this far
+
+// The selected station is ringed in its own colour, so a click is answered even
+// where markers sit close together: orange in the lake, blue on the rivers.
+const SELECTED_COLOR = { lake: '#e8590c', tributary: '#1c7ed6' };
 
 export async function createMap(el, data, { onSelect, onStatus }) {
   const map = L.map(el, { zoomControl: true, minZoom: 8, maxZoom: 18, zoomSnap: 0.25 });
@@ -38,7 +42,7 @@ export async function createMap(el, data, { onSelect, onStatus }) {
     });
   }
 
-  // ---- Traced LLDA lake outline (optional, off by default) ----
+  // ---- Lake shoreline from OpenStreetMap (on by default) ----
   const outline = L.geoJSON(data.lake, {
     style: { color: '#1f4e79', weight: 1.5, fillColor: '#1f4e79', fillOpacity: 0.06 },
     interactive: false,
@@ -63,6 +67,14 @@ export async function createMap(el, data, { onSelect, onStatus }) {
     (st.type === 'lake' ? lakeGroup : tribGroup).addLayer(m);
     markers.set(st.id, m);
   }
+
+  // The ring that pulses under the selected station. It is a layer of its own
+  // so the marker keeps showing the value's colour, and it is not interactive
+  // so it never swallows a click meant for the marker underneath.
+  const pulse = L.circleMarker([0, 0], {
+    radius: 10, weight: 2.5, opacity: 1, fill: false,
+    interactive: false, className: 'pulse-ring',
+  });
 
   // Base map switcher. Station and outline visibility live in the sidebar so
   // the map, ranking list and checkboxes always agree.
@@ -104,6 +116,7 @@ export async function createMap(el, data, { onSelect, onStatus }) {
 
   // Popup content uses the current state, so it is built when opened.
   let current = null;
+  let pulseId = null; // the station the pulse ring is sitting on
   function popupHtml(st) {
     const { state } = current;
     const p = data.paramByKey[state.param];
@@ -129,7 +142,7 @@ export async function createMap(el, data, { onSelect, onStatus }) {
       const selected = st.id === state.stationId;
       m.setStyle({
         radius: selected ? 10 : st.type === 'lake' ? 8 : 6.5,
-        color: selected ? '#1f4e79' : '#1c1c1c',
+        color: selected ? SELECTED_COLOR[st.type] : '#1c1c1c',
         weight: selected ? 3 : st.type === 'lake' ? 2.5 : 1,
         fillColor: color || '#ffffff',
         fillOpacity: color ? 0.95 : 0.7,
@@ -142,6 +155,25 @@ export async function createMap(el, data, { onSelect, onStatus }) {
     state.showTrib ? tribGroup.addTo(map) : tribGroup.remove();
     state.showOutline ? outline.addTo(map) : outline.remove();
     toggleLabels();
+
+    // The pulse follows the selection, and leaves when that station's group is
+    // switched off so it never hangs over an empty stretch of water.
+    const sel = state.stationId ? data.stationById[state.stationId] : null;
+    const pulsing = !!sel && (sel.type === 'lake' ? state.showLake : state.showTrib);
+    if (pulsing && pulseId !== sel.id) {
+      // Re-adding builds a fresh element, so the animation starts at the marker
+      // again instead of carrying on from wherever the last one had got to.
+      pulse.remove();
+      pulse.setLatLng([sel.lat, sel.lon])
+        .setStyle({ color: SELECTED_COLOR[sel.type] })
+        .addTo(map);
+      pulseId = sel.id;
+    } else if (!pulsing && pulseId) {
+      pulse.remove();
+      pulseId = null;
+    }
+    // The pulse was added last, so lift the marker back above it.
+    if (pulsing) markers.get(sel.id).bringToFront();
 
     // Legend
     const rows = legendRows(p, breaks)

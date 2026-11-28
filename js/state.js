@@ -6,7 +6,7 @@ export const state = {
   year: 2012,        // selected year
   showLake: true,    // lake stations visible
   showTrib: true,    // tributary river stations visible
-  showOutline: false, // traced LLDA lake outline drawn over the base map
+  showOutline: true, // lake shoreline drawn over the base map
   stationId: null,   // selected station id, or null
   tab: 'ranking',    // 'ranking' | 'station'
 };
