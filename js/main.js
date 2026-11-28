@@ -35,9 +35,16 @@ async function init() {
   // The sidebar renders first; the map joins in once it has been created.
   let mapView = { update() {}, focusStation() {} };
 
+  // Below 900px the sidebar sits under the map, so tapping a marker would
+  // otherwise change a panel that is off the bottom of the screen.
+  const stacked = window.matchMedia('(max-width: 900px)');
+
   function selectStation(id, { showDetail = false, fromMap = false } = {}) {
     setState({ stationId: id, ...(showDetail || fromMap ? { tab: 'station' } : {}) });
     if (!fromMap) mapView.focusStation(id, { openPopup: false });
+    if (fromMap && stacked.matches) {
+      $('panel-station').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
   }
 
   function render() {
@@ -88,10 +95,23 @@ function buildControls(data) {
   };
   const stSel = $('station-select');
   stSel.insertAdjacentHTML('beforeend', group('lake', 'Lake stations') + group('tributary', 'River stations'));
+  // The blank option is a real choice, not a placeholder to ignore: it clears
+  // the selection. Without it, choosing a station is a one-way door and the
+  // ranking can never be seen whole again.
   stSel.addEventListener('change', () => {
-    if (stSel.value) {
-      setState({ stationId: stSel.value, tab: 'station' });
-    }
+    setState(stSel.value
+      ? { stationId: stSel.value, tab: 'station' }
+      : { stationId: null, tab: 'ranking' });
+  });
+
+  $('station-clear').addEventListener('click', () => setState({ stationId: null, tab: 'ranking' }));
+
+  // Escape hands the selection back without hunting for a control. Open
+  // dialogs use Escape themselves, so leave those to it.
+  document.addEventListener('keydown', (e) => {
+    if (e.key !== 'Escape' || !state.stationId) return;
+    if (document.querySelector('dialog[open]')) return;
+    setState({ stationId: null, tab: 'ranking' });
   });
 
   $('controls').addEventListener('submit', (e) => e.preventDefault());

@@ -206,6 +206,9 @@ select {
 .popup-val { margin-top: 6px; }
 .popup-more { margin-top: 6px; }
 .popup-more button { font: inherit; background: none; border: 0; padding: 0; color: var(--accent); text-decoration: underline; cursor: pointer; }
+.link-btn { font: inherit; background: none; border: 0; padding: 0; color: var(--accent); text-decoration: underline; cursor: pointer; }
+.link-btn:hover { text-decoration: none; }
+#station-clear { display: block; margin-bottom: 10px; font-size: .85rem; }
 
 
 /* ---------- Dialog ---------- */
